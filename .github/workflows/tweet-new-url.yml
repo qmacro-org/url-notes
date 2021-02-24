@@ -1,0 +1,43 @@
+name: Tweet new URL Notes entry
+on:
+  issues:
+    types: closed
+jobs:
+  job1:
+    runs-on: self-hosted
+    steps:
+      - name: Get URL notes data
+        uses: actions/github-script@v3
+        id: geturlnotesdata
+        with:
+          script: |
+            const res = await github.issues.listComments({
+              owner: context.payload.repository.owner.login,
+              repo: context.payload.repository.name,
+              issue_number: context.payload.issue.number
+            })
+            if (res.data && res.data.length > 0) {
+              return [
+                "URL Notes",
+                "",
+                context.payload.issue.title,
+                context.payload.issue.body,
+                "",
+                res.data[res.data.length - 1].body
+              ].join("\n")
+            }
+          result-encoding: string
+
+      - name: Show tweet data
+        if: steps.geturlnotesdata.outputs.result != ''
+        run: echo "${{steps.geturlnotesdata.outputs.result}}"
+
+      - name: Create new tweet
+        if: steps.geturlnotesdata.outputs.result == 'banana'
+        uses: ethomson/send-tweet-action@v1
+        with:
+          status: "${{steps.geturlnotesdata.outputs.result}}"
+          consumer-key: ${{ secrets.TWURL_CONSUMER_KEY }}
+          consumer-secret: ${{ secrets.TWURL_CONSUMER_SECRET }}
+          access-token: ${{ secrets.TWURL_TOKEN }}
+          access-token-secret: ${{ secrets.TWURL_SECRET }}
