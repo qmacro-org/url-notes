@@ -28,12 +28,12 @@ jobs:
             }
           result-encoding: string
 
-      - name: Show tweet data
-        if: steps.geturlnotesdata.outputs.result != ''
-        run: echo "${{steps.geturlnotesdata.outputs.result}}"
+      - name: Declare nothing to tweet
+        if: steps.geturlnotesdata.outputs.result == ''
+        run: echo No comments made on issue - nothing to tweet
 
       - name: Create new tweet
-        if: steps.geturlnotesdata.outputs.result == 'banana'
+        if: steps.geturlnotesdata.outputs.result != ''
         uses: ethomson/send-tweet-action@v1
         with:
           status: "${{steps.geturlnotesdata.outputs.result}}"
