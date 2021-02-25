@@ -19,7 +19,6 @@ jobs:
             return (res.data && res.data.length > 0) 
               ? `🔖 "${context.payload.issue.title}" ${context.payload.issue.body}\n\n📝 ${res.data[res.data.length - 1].body`
               : ''
-            }
           result-encoding: string
 
       - name: Declare nothing to tweet
