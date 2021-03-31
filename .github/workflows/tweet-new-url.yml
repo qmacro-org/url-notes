@@ -16,8 +16,8 @@ jobs:
               repo: context.payload.repository.name,
               issue_number: context.payload.issue.number
             })
-            return (res.data && res.data.length > 0) 
-              ? `🔖 "${context.payload.issue.title}" ${context.payload.issue.body}\n\n📝 ${res.data[res.data.length - 1].body}`
+            return (res.data && res.data.length > 0)
+              ? `🔖 ${context.payload.issue.title} ${context.payload.issue.body}\n\n📝 ${res.data[res.data.length - 1].body}`
               : ''
           result-encoding: string
 
