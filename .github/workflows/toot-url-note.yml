@@ -1,0 +1,34 @@
+name: Toot notes on the bookmarked URL
+on:
+  issues:
+    types: closed
+jobs:
+  job1:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Get URL notes data
+        uses: actions/github-script@v3
+        id: geturlnotesdata
+        with:
+          script: |
+            const res = await github.issues.listComments({
+              owner: context.payload.repository.owner.login,
+              repo: context.payload.repository.name,
+              issue_number: context.payload.issue.number
+            })
+            return (res.data && res.data.length > 0)
+              ? `🔖 ${context.payload.issue.title} ${context.payload.issue.body}\n\n📝 ${res.data[res.data.length - 1].body}`
+              : ''
+          result-encoding: string
+
+      - name: Declare nothing to toot
+        if: steps.geturlnotesdata.outputs.result == ''
+        run: echo No comments made on issue - nothing to toot
+
+      - name: Create new toot
+        if: steps.geturlnotesdata.outputs.result != ''
+        run: |
+          curl \
+            --header "Authorization: Bearer ${{ secrets.MASTODON_TOKEN }}" \
+            --form status="${{ steps.geturlnotesdata.outputs.result }}" \
+            --url "https://hachyderm.io/api/v1/statuses"
