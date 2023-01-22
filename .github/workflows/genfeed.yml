@@ -21,7 +21,7 @@ jobs:
       - name: create feed file
         run: |
           gh issue list --state open --limit 250 --json title,body,updatedAt \
-          | tee issues.json \
+          | tee >(jq . > issues.json) \
           | jq --raw-output --from-file genfeed.jq \
           | tee feed.xml
 
