@@ -2,12 +2,17 @@
 
 # Gratuitous use of jq to generate XML.
 
+def xmlescape:
+  gsub("&";"&amp;") | gsub("<";"&lt;")
+;
+
 def entry:
   [
     "<entry>",
-    "<title>\(.title)</title>",
-    "<link>\(.body)</link>",
+    "<title>\(.title|xmlescape)</title>",
+    "<link>\(.body|xmlescape)</link>",
     "<updated>\(.updatedAt)</updated>",
+    "<summary>\(.body|xmlescape)</summary>",
     "</entry>"
   ]
   | join("\n")
