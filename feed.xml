@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-01-22T17:47:39Z</updated>
+<updated>2023-01-23T15:44:37Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>An Overview of the SAP S/4HANA VDM</title>
+<link>https://blog.sap-press.com/an-overview-of-the-sap-s4hana-vdm</link>
+<updated>2023-01-23T15:44:37Z</updated>
+<summary>https://blog.sap-press.com/an-overview-of-the-sap-s4hana-vdm</summary>
+</entry>
 <entry>
 <title>Adventures in Mastoland</title>
 <link>https://searchtodon.social/Adventures-in-Mastoland.html</link>
