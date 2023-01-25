@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-01-24T14:27:14Z</updated>
+<updated>2023-01-25T17:56:12Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Configuring VSCode as a Keyboard-Centric IDE | Davis Haupt</title>
+<link>https://davi.sh/blog/2023/01/vscode-like-emacs/</link>
+<updated>2023-01-25T17:56:12Z</updated>
+<summary>https://davi.sh/blog/2023/01/vscode-like-emacs/</summary>
+</entry>
 <entry>
 <title>Things to do and not to do during a wave of tech layoffs | Christian Heilmann</title>
 <link>https://christianheilmann.com/2023/01/24/things-to-do-and-not-to-do-during-a-wave-of-tech-layoffs/</link>
