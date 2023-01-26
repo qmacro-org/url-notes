@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-01-25T17:56:12Z</updated>
+<updated>2023-01-26T13:21:51Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Paper Sizes and Formats, the Difference Between A4 and Letter | Swift Publisher</title>
+<link>https://www.swiftpublisher.com/useful-articles/paper-sizes-and-formats-explained</link>
+<updated>2023-01-26T13:21:51Z</updated>
+<summary>https://www.swiftpublisher.com/useful-articles/paper-sizes-and-formats-explained</summary>
+</entry>
 <entry>
 <title>Configuring VSCode as a Keyboard-Centric IDE | Davis Haupt</title>
 <link>https://davi.sh/blog/2023/01/vscode-like-emacs/</link>
