@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-01-28T12:57:46Z</updated>
+<updated>2023-01-29T16:05:15Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>No, You Don’t Owe Your Employer Any Loyalty | by Rod T. Faulkner | Jan, 2023 | Medium</title>
+<link>https://rodfaulkner.medium.com/no-you-dont-owe-your-employer-any-loyalty-88d4c6553c3a</link>
+<updated>2023-01-29T16:05:15Z</updated>
+<summary>https://rodfaulkner.medium.com/no-you-dont-owe-your-employer-any-loyalty-88d4c6553c3a</summary>
+</entry>
 <entry>
 <title>Serverless Land - Message Queues vs Event Brokers</title>
 <link>https://serverlessland.com/event-driven-architecture/visuals/message-queue-vs-event-broker</link>
