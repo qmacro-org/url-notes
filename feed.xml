@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-02-08T08:13:10Z</updated>
+<updated>2023-02-08T08:14:24Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Neovim for Beginners —Common Language Servers | by alpha2phi | Medium</title>
+<link>https://alpha2phi.medium.com/neovim-for-beginners-common-language-servers-da28e4410294</link>
+<updated>2023-02-08T08:14:24Z</updated>
+<summary>https://alpha2phi.medium.com/neovim-for-beginners-common-language-servers-da28e4410294</summary>
+</entry>
 <entry>
 <title>Neovim Spaghetti - LSP Servers, Linters, Formatters, and Treesitter – roobert</title>
 <link>https://roobert.github.io/2022/12/03/Extending-Neovim/</link>
