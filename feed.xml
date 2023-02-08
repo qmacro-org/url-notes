@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-02-08T07:43:01Z</updated>
+<updated>2023-02-08T08:13:10Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Neovim Spaghetti - LSP Servers, Linters, Formatters, and Treesitter – roobert</title>
+<link>https://roobert.github.io/2022/12/03/Extending-Neovim/</link>
+<updated>2023-02-08T08:13:10Z</updated>
+<summary>https://roobert.github.io/2022/12/03/Extending-Neovim/</summary>
+</entry>
 <entry>
 <title>Everything you need to know to configure neovim using lua | Devlog</title>
 <link>https://vonheikemen.github.io/devlog/tools/configuring-neovim-using-lua/</link>
