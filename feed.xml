@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-02-14T16:08:20Z</updated>
+<updated>2023-02-24T18:58:25Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>The End of Localhost</title>
+<link>https://www.swyx.io/the-end-of-localhost</link>
+<updated>2023-02-24T18:58:25Z</updated>
+<summary>https://www.swyx.io/the-end-of-localhost</summary>
+</entry>
 <entry>
 <title>Turn Your fzf Into a Live REPL :: paweldu.dev — Pawel Duda's personal site</title>
 <link>https://paweldu.dev/posts/fzf-live-repl/</link>
