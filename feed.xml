@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-03-01T13:29:23Z</updated>
+<updated>2023-03-05T20:56:47Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Be Careful Using tmux and Environment Variables - Andrew Jorgensen</title>
+<link>https://aj.codes/posts/be-careful-using-tmux-and-environment-variables/</link>
+<updated>2023-03-05T20:56:47Z</updated>
+<summary>https://aj.codes/posts/be-careful-using-tmux-and-environment-variables/</summary>
+</entry>
 <entry>
 <title>Daniel Stenberg and the home of curl in Stockholm, Sweden | Hacker Stations</title>
 <link>https://hackerstations.com/setups/daniel_stenberg/</link>
