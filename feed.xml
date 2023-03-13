@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-03-13T07:36:07Z</updated>
+<updated>2023-03-13T15:22:30Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>OAuth 2.0 Security Best Current Practice</title>
+<link>https://www.ietf.org/archive/id/draft-ietf-oauth-security-topics-22.html</link>
+<updated>2023-03-13T15:22:30Z</updated>
+<summary>https://www.ietf.org/archive/id/draft-ietf-oauth-security-topics-22.html</summary>
+</entry>
 <entry>
 <title>write posix shell | Lobsters</title>
 <link>https://lobste.rs/s/k4z2qf/write_posix_shell</link>
