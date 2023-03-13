@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-03-11T16:13:41Z</updated>
+<updated>2023-03-13T07:36:07Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>write posix shell | Lobsters</title>
+<link>https://lobste.rs/s/k4z2qf/write_posix_shell</link>
+<updated>2023-03-13T07:36:07Z</updated>
+<summary>https://lobste.rs/s/k4z2qf/write_posix_shell</summary>
+</entry>
 <entry>
 <title>[Part – 1] Enrich CAP based Services with Behaviors using Annotations | SAP Blogs</title>
 <link>https://blogs.sap.com/2023/01/28/part-1-enrich-cap-based-services-with-behaviors-using-annotations/</link>
