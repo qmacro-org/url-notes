@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-03-13T15:22:30Z</updated>
+<updated>2023-03-15T10:59:28Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Docker's deleting Open Source images and here's what you need to know</title>
+<link>https://blog.alexellis.io/docker-is-deleting-open-source-images/</link>
+<updated>2023-03-15T10:59:28Z</updated>
+<summary>https://blog.alexellis.io/docker-is-deleting-open-source-images/</summary>
+</entry>
 <entry>
 <title>OAuth 2.0 Security Best Current Practice</title>
 <link>https://www.ietf.org/archive/id/draft-ietf-oauth-security-topics-22.html</link>
