@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-03-15T16:58:47Z</updated>
+<updated>2023-03-17T10:54:16Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>JSON Schema, Schema.org, JSON-LD: What’s the Difference? | by Andreas Eberhart | Medium</title>
+<link>https://dashjoin.medium.com/json-schema-schema-org-json-ld-whats-the-difference-e30d7315686a</link>
+<updated>2023-03-17T10:54:16Z</updated>
+<summary>https://dashjoin.medium.com/json-schema-schema-org-json-ld-whats-the-difference-e30d7315686a</summary>
+</entry>
 <entry>
 <title>Why I Will Never Use Alpine Linux Ever Again | Martin Heinz | Personal Website &amp; Blog</title>
 <link>https://martinheinz.dev/blog/92</link>
