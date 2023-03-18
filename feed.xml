@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-03-18T16:13:44Z</updated>
+<updated>2023-03-18T16:14:46Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Dodge the next Dockerpocalypse: how to own your own Docker Registry address | HTTP Toolkit</title>
+<link>https://httptoolkit.com/blog/docker-image-registry-facade/</link>
+<updated>2023-03-18T16:14:46Z</updated>
+<summary>https://httptoolkit.com/blog/docker-image-registry-facade/</summary>
+</entry>
 <entry>
 <title>Analyzing multi-gigabyte JSON files locally | thenybble.de</title>
 <link>https://thenybble.de/posts/json-analysis/</link>
