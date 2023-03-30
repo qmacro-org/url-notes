@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-03-25T19:02:48Z</updated>
+<updated>2023-03-30T14:05:22Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Nix Turns 20. What the Hell Is It? - Earthly Blog</title>
+<link>https://earthly.dev/blog/what-is-nix/</link>
+<updated>2023-03-30T14:05:22Z</updated>
+<summary>https://earthly.dev/blog/what-is-nix/</summary>
+</entry>
 <entry>
 <title>Computers Are Bad</title>
 <link>https://computer.rip/2023-03-24-docker.html</link>
