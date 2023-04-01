@@ -1,12 +1,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-03-30T15:53:22Z</updated>
+<updated>2023-04-01T08:31:25Z</updated>
 <author><name>DJ Adams</name></author>
 <entry>
-<title>Content is the Printer, Experience is the Ink: Why Community and In-person Events are so Important (With Aphorisms)</title>
-<link>https://eaconsult.com/content-is-the-printer-experience-is-the-ink-why-community-and-in-person-events-are-so-important-with-aphorisms/</link>
-<updated>2023-03-30T15:53:22Z</updated>
-<summary>https://eaconsult.com/content-is-the-printer-experience-is-the-ink-why-community-and-in-person-events-are-so-important-with-aphorisms/</summary>
+<title>Tailscale Funnel now available in beta · Tailscale</title>
+<link>https://tailscale.com/blog/tailscale-funnel-beta/</link>
+<updated>2023-04-01T08:31:25Z</updated>
+<summary>https://tailscale.com/blog/tailscale-funnel-beta/</summary>
 </entry>
 <entry>
 <title>Nix Turns 20. What the Hell Is It? - Earthly Blog</title>
@@ -19,24 +19,6 @@
 <link>https://computer.rip/2023-03-24-docker.html</link>
 <updated>2023-03-25T19:02:48Z</updated>
 <summary>https://computer.rip/2023-03-24-docker.html</summary>
-</entry>
-<entry>
-<title>Miller in 10 minutes - Miller 6.7.0 Documentation</title>
-<link>https://miller.readthedocs.io/en/latest/10min/</link>
-<updated>2023-03-24T09:42:44Z</updated>
-<summary>https://miller.readthedocs.io/en/latest/10min/</summary>
-</entry>
-<entry>
-<title>The ebb and flow of life on a houseboat | The Spectator</title>
-<link>https://www.spectator.co.uk/article/the-ebb-and-flow-of-life-on-a-houseboat/</link>
-<updated>2023-03-24T09:01:51Z</updated>
-<summary>https://www.spectator.co.uk/article/the-ebb-and-flow-of-life-on-a-houseboat/</summary>
-</entry>
-<entry>
-<title>Dodge the next Dockerpocalypse: how to own your own Docker Registry address | HTTP Toolkit</title>
-<link>https://httptoolkit.com/blog/docker-image-registry-facade/</link>
-<updated>2023-03-18T16:14:46Z</updated>
-<summary>https://httptoolkit.com/blog/docker-image-registry-facade/</summary>
 </entry>
 <entry>
 <title>Analyzing multi-gigabyte JSON files locally | thenybble.de</title>
@@ -67,12 +49,6 @@
 <link>https://www.ietf.org/archive/id/draft-ietf-oauth-security-topics-22.html</link>
 <updated>2023-03-13T15:22:30Z</updated>
 <summary>https://www.ietf.org/archive/id/draft-ietf-oauth-security-topics-22.html</summary>
-</entry>
-<entry>
-<title>write posix shell | Lobsters</title>
-<link>https://lobste.rs/s/k4z2qf/write_posix_shell</link>
-<updated>2023-03-13T07:36:07Z</updated>
-<summary>https://lobste.rs/s/k4z2qf/write_posix_shell</summary>
 </entry>
 <entry>
 <title>[Part – 1] Enrich CAP based Services with Behaviors using Annotations | SAP Blogs</title>
