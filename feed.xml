@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-04-01T08:31:25Z</updated>
+<updated>2023-04-03T14:55:02Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Rochdale Canal - Wikipedia</title>
+<link>https://en.wikipedia.org/wiki/Rochdale_Canal</link>
+<updated>2023-04-03T14:55:02Z</updated>
+<summary>https://en.wikipedia.org/wiki/Rochdale_Canal</summary>
+</entry>
 <entry>
 <title>Tailscale Funnel now available in beta · Tailscale</title>
 <link>https://tailscale.com/blog/tailscale-funnel-beta/</link>
