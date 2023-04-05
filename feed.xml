@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-04-05T12:46:14Z</updated>
+<updated>2023-04-05T12:46:38Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Make Your CLI Demos a Breeze with Zero Stress and Zero Mistakes | Martin Heinz | Personal Website &amp; Blog</title>
+<link>https://martinheinz.dev/blog/94</link>
+<updated>2023-04-05T12:46:38Z</updated>
+<summary>https://martinheinz.dev/blog/94</summary>
+</entry>
 <entry>
 <title>Mindset shifts for Functional Programming (with Clojure)</title>
 <link>https://blog.janetacarr.com/mindset-shifts-for-functional-programming-with-clojure/</link>
