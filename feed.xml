@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-04-05T12:46:38Z</updated>
+<updated>2023-04-07T06:12:06Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Agile Otter Blog: Is It My Fault You Can't Handle The Truth?</title>
+<link>http://agileotter.blogspot.com/2019/09/is-it-my-fault-you-cant-handle-truth.html</link>
+<updated>2023-04-07T06:12:06Z</updated>
+<summary>http://agileotter.blogspot.com/2019/09/is-it-my-fault-you-cant-handle-truth.html</summary>
+</entry>
 <entry>
 <title>Make Your CLI Demos a Breeze with Zero Stress and Zero Mistakes | Martin Heinz | Personal Website &amp; Blog</title>
 <link>https://martinheinz.dev/blog/94</link>
