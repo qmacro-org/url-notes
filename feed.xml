@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-04-10T12:41:08Z</updated>
+<updated>2023-04-12T05:11:09Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Azure Developer CLI (azd) - April 2023 Release - Azure SDK Blog</title>
+<link>https://devblogs.microsoft.com/azure-sdk/azd-april-2023-release/</link>
+<updated>2023-04-12T05:11:09Z</updated>
+<summary>https://devblogs.microsoft.com/azure-sdk/azd-april-2023-release/</summary>
+</entry>
 <entry>
 <title>Hollinwood &amp; Fairbottom Branch Canals</title>
 <link>http://www.pittdixon.go-plus.net/ac-hollinwood+fairbottom-brs/ac-hollinwood+fairbottom-brs.htm</link>
