@@ -1,7 +1,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-04-12T05:11:09Z</updated>
+<updated>2023-04-17T12:33:58Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Why most of us won't be inventing little languages - Brian Slesinsky</title>
+<link>http://slesinsky.org/brian/code/little_languages.html</link>
+<updated>2023-04-17T12:33:58Z</updated>
+<summary>http://slesinsky.org/brian/code/little_languages.html</summary>
+</entry>
+<entry>
+<title>I made my blog solar-powered, then things escalated</title>
+<link>https://louwrentius.com/i-made-my-blog-solar-powered-then-things-escalated.html</link>
+<updated>2023-04-17T12:33:44Z</updated>
+<summary>https://louwrentius.com/i-made-my-blog-solar-powered-then-things-escalated.html</summary>
+</entry>
 <entry>
 <title>Azure Developer CLI (azd) - April 2023 Release - Azure SDK Blog</title>
 <link>https://devblogs.microsoft.com/azure-sdk/azd-april-2023-release/</link>
