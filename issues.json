@@ -1,13 +1,8 @@
 [
   {
-    "body": "http://slesinsky.org/brian/code/little_languages.html",
-    "title": "Why most of us won't be inventing little languages - Brian Slesinsky",
-    "updatedAt": "2023-04-17T12:33:58Z"
-  },
-  {
-    "body": "https://louwrentius.com/i-made-my-blog-solar-powered-then-things-escalated.html",
-    "title": "I made my blog solar-powered, then things escalated",
-    "updatedAt": "2023-04-17T12:33:44Z"
+    "body": "https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/",
+    "title": "Offline Is Just Online With Extreme Latency - Jim Nielsen’s Blog",
+    "updatedAt": "2023-04-19T12:31:00Z"
   },
   {
     "body": "https://devblogs.microsoft.com/azure-sdk/azd-april-2023-release/",
@@ -63,11 +58,6 @@
     "body": "https://thenybble.de/posts/json-analysis/",
     "title": "Analyzing multi-gigabyte JSON files locally | thenybble.de",
     "updatedAt": "2023-03-18T16:13:44Z"
-  },
-  {
-    "body": "https://dashjoin.medium.com/json-schema-schema-org-json-ld-whats-the-difference-e30d7315686a",
-    "title": "JSON Schema, Schema.org, JSON-LD: What’s the Difference? | by Andreas Eberhart | Medium",
-    "updatedAt": "2023-03-17T10:54:16Z"
   },
   {
     "body": "https://martinheinz.dev/blog/92",
