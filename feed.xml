@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-04-20T06:23:58Z</updated>
+<updated>2023-04-20T06:25:04Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Google Knowledge Graph Search API, schema.org and JSON-LD | SAP Blogs</title>
+<link>https://blogs.sap.com/2016/01/08/google-knowledge-graph-search-api-schemaorg-and-json-ld/</link>
+<updated>2023-04-20T06:25:04Z</updated>
+<summary>https://blogs.sap.com/2016/01/08/google-knowledge-graph-search-api-schemaorg-and-json-ld/</summary>
+</entry>
 <entry>
 <title>Why did Prolog lose steam? | Mark J. Nelson</title>
 <link>https://www.kmjn.org/notes/prolog_lost_steam.html</link>
