@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-04-19T12:31:00Z</updated>
+<updated>2023-04-20T06:23:58Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Why did Prolog lose steam? | Mark J. Nelson</title>
+<link>https://www.kmjn.org/notes/prolog_lost_steam.html</link>
+<updated>2023-04-20T06:23:58Z</updated>
+<summary>https://www.kmjn.org/notes/prolog_lost_steam.html</summary>
+</entry>
 <entry>
 <title>Offline Is Just Online With Extreme Latency - Jim Nielsen’s Blog</title>
 <link>https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/</link>
