@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-04-20T06:25:04Z</updated>
+<updated>2023-04-25T05:31:51Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>ox | Sesquiotica</title>
+<link>https://sesquiotic.com/2023/04/20/ox/</link>
+<updated>2023-04-25T05:31:51Z</updated>
+<summary>https://sesquiotic.com/2023/04/20/ox/</summary>
+</entry>
 <entry>
 <title>Google Knowledge Graph Search API, schema.org and JSON-LD | SAP Blogs</title>
 <link>https://blogs.sap.com/2016/01/08/google-knowledge-graph-search-api-schemaorg-and-json-ld/</link>
