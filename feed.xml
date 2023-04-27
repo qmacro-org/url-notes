@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-04-25T10:12:12Z</updated>
+<updated>2023-04-27T06:38:24Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Beamer, Dressman, Bodybag</title>
+<link>https://europeanreviewofbooks.com/beamer-dressman-bodybag/en</link>
+<updated>2023-04-27T06:38:24Z</updated>
+<summary>https://europeanreviewofbooks.com/beamer-dressman-bodybag/en</summary>
+</entry>
 <entry>
 <title>Draft for Public Consultation: On-Board Guide - Electrical Safety for Small Craft</title>
 <link>https://electrical.theiet.org/get-involved/consultations/draft-for-public-comment-on-board-guide-electrical-safety-for-small-craft/</link>
