@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-04-27T08:00:18Z</updated>
+<updated>2023-04-28T14:10:01Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Developing an Application on SAP Cloud Foundry Runtime and SAP Kyma Runtime: A Comparative Analysis | SAP Blogs</title>
+<link>https://blogs.sap.com/2023/04/28/developing-an-application-on-sap-cloud-foundry-runtime-and-sap-kyma-runtime-a-comparative-analysis/</link>
+<updated>2023-04-28T14:10:01Z</updated>
+<summary>https://blogs.sap.com/2023/04/28/developing-an-application-on-sap-cloud-foundry-runtime-and-sap-kyma-runtime-a-comparative-analysis/</summary>
+</entry>
 <entry>
 <title>Why is OAuth still hard in 2023? | Nango Blog</title>
 <link>https://www.nango.dev/blog/why-is-oauth-still-hard</link>
