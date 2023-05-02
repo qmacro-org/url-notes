@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-05-02T05:07:34Z</updated>
+<updated>2023-05-02T15:45:59Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Self-hosted Soft Serve</title>
+<link>https://charm.sh/blog/self-hosted-soft-serve/</link>
+<updated>2023-05-02T15:45:59Z</updated>
+<summary>https://charm.sh/blog/self-hosted-soft-serve/</summary>
+</entry>
 <entry>
 <title>"A Great Ox Stands on my Tongue": the Pitfalls of Latin Translation – Antigone</title>
 <link>https://antigonejournal.com/2021/06/pitfalls-latin-translation/</link>
