@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-05-01T10:16:12Z</updated>
+<updated>2023-05-02T05:07:34Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>"A Great Ox Stands on my Tongue": the Pitfalls of Latin Translation – Antigone</title>
+<link>https://antigonejournal.com/2021/06/pitfalls-latin-translation/</link>
+<updated>2023-05-02T05:07:34Z</updated>
+<summary>https://antigonejournal.com/2021/06/pitfalls-latin-translation/</summary>
+</entry>
 <entry>
 <title>NMEA 2000 powered Raspberry Pi</title>
 <link>https://seabits.com/nmea-2000-powered-raspberry-pi/</link>
