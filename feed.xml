@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-05-02T18:06:34Z</updated>
+<updated>2023-05-04T11:46:42Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>madhadron - The seven programming ur-languages</title>
+<link>https://madhadron.com/programming/seven_ur_languages.html</link>
+<updated>2023-05-04T11:46:42Z</updated>
+<summary>https://madhadron.com/programming/seven_ur_languages.html</summary>
+</entry>
 <entry>
 <title>How Would You Improve This Shell Script? — Nick Janetakis</title>
 <link>https://nickjanetakis.com/blog/how-would-you-improve-this-shell-script</link>
