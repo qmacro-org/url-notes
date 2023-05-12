@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-05-12T05:55:07Z</updated>
+<updated>2023-05-12T10:42:04Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Chris's Wiki :: blog/sysadmin/MailingListsNoMoreReading</title>
+<link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MailingListsNoMoreReading</link>
+<updated>2023-05-12T10:42:04Z</updated>
+<summary>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MailingListsNoMoreReading</summary>
+</entry>
 <entry>
 <title>Tailscaling git.ht</title>
 <link>https://vlad.git.ht/a2575267fc147e7812b2abcf83b48b57</link>
