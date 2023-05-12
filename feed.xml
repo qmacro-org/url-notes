@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-05-11T07:13:53Z</updated>
+<updated>2023-05-12T05:55:07Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Tailscaling git.ht</title>
+<link>https://vlad.git.ht/a2575267fc147e7812b2abcf83b48b57</link>
+<updated>2023-05-12T05:55:07Z</updated>
+<summary>https://vlad.git.ht/a2575267fc147e7812b2abcf83b48b57</summary>
+</entry>
 <entry>
 <title>Deprecation of Cloud Foundry Stack cflinuxfs3 and Migration to cflinuxfs4 | SAP Blogs</title>
 <link>https://blogs.sap.com/2023/02/16/deprecation-of-cloud-foundry-stack-cflinuxfs3-and-migration-to-cflinuxfs4/</link>
