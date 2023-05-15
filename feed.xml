@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-05-12T13:44:45Z</updated>
+<updated>2023-05-15T08:30:49Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Reproducible Development with Devcontainers</title>
+<link>https://www.infoq.com/articles/devcontainers/</link>
+<updated>2023-05-15T08:30:49Z</updated>
+<summary>https://www.infoq.com/articles/devcontainers/</summary>
+</entry>
 <entry>
 <title>Scaling up the Prime Video audio/video monitoring service and reducing costs by 90% - Prime Video Tech</title>
 <link>https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90</link>
