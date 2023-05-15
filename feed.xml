@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-05-15T08:30:49Z</updated>
+<updated>2023-05-15T13:00:27Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>SAP S/4HANA Extensibility Options For Clean Core Journey | SAP Blogs</title>
+<link>https://blogs.sap.com/2023/05/01/sap-s-4hana-extensibility-options-for-clean-core-journey/?source=email-global-notification-bp-new-in-tag-followed</link>
+<updated>2023-05-15T13:00:27Z</updated>
+<summary>https://blogs.sap.com/2023/05/01/sap-s-4hana-extensibility-options-for-clean-core-journey/?source=email-global-notification-bp-new-in-tag-followed</summary>
+</entry>
 <entry>
 <title>Reproducible Development with Devcontainers</title>
 <link>https://www.infoq.com/articles/devcontainers/</link>
