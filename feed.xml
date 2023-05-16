@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-05-16T05:06:31Z</updated>
+<updated>2023-05-16T12:45:13Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Tailscaling git.ht: the game of curling</title>
+<link>https://vlad.git.ht/4b50ecb6e96e440429f3b22adb90fd1f</link>
+<updated>2023-05-16T12:45:13Z</updated>
+<summary>https://vlad.git.ht/4b50ecb6e96e440429f3b22adb90fd1f</summary>
+</entry>
 <entry>
 <title>#SAPCAP: Understanding CQL Queries (Node.js) | SAP Blogs</title>
 <link>https://blogs.sap.com/2023/05/15/sapcap-understanding-cql-queries-node.js/</link>
