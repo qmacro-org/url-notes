@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-05-15T13:00:27Z</updated>
+<updated>2023-05-16T05:06:31Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>#SAPCAP: Understanding CQL Queries (Node.js) | SAP Blogs</title>
+<link>https://blogs.sap.com/2023/05/15/sapcap-understanding-cql-queries-node.js/</link>
+<updated>2023-05-16T05:06:31Z</updated>
+<summary>https://blogs.sap.com/2023/05/15/sapcap-understanding-cql-queries-node.js/</summary>
+</entry>
 <entry>
 <title>SAP S/4HANA Extensibility Options For Clean Core Journey | SAP Blogs</title>
 <link>https://blogs.sap.com/2023/05/01/sap-s-4hana-extensibility-options-for-clean-core-journey/?source=email-global-notification-bp-new-in-tag-followed</link>
