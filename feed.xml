@@ -1,12 +1,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-05-16T12:45:37Z</updated>
+<updated>2023-05-25T16:21:26Z</updated>
 <author><name>DJ Adams</name></author>
 <entry>
-<title>Amelia Wattenberger</title>
-<link>https://wattenberger.com/thoughts/boo-chatbots</link>
-<updated>2023-05-16T12:45:37Z</updated>
-<summary>https://wattenberger.com/thoughts/boo-chatbots</summary>
+<title>hanslub42/rlwrap: A readline wrapper</title>
+<link>https://github.com/hanslub42/rlwrap</link>
+<updated>2023-05-25T16:21:26Z</updated>
+<summary>https://github.com/hanslub42/rlwrap</summary>
 </entry>
 <entry>
 <title>Tailscaling git.ht: the game of curling</title>
