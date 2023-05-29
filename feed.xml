@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-05-29T05:23:09Z</updated>
+<updated>2023-05-29T14:27:58Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Email addresses are not primary user identities | nicole@web</title>
+<link>https://ntietz.com/blog/email-address-not-identifier/</link>
+<updated>2023-05-29T14:27:58Z</updated>
+<summary>https://ntietz.com/blog/email-address-not-identifier/</summary>
+</entry>
 <entry>
 <title>The Gemini protocol seen by this HTTP client person | daniel.haxx.se</title>
 <link>https://daniel.haxx.se/blog/2023/05/28/the-gemini-protocol-seen-by-this-http-client-person/</link>
