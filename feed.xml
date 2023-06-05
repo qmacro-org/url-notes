@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-05-29T14:27:58Z</updated>
+<updated>2023-06-05T05:11:45Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>NixOS for the Impatient</title>
+<link>https://borretti.me/article/nixos-for-the-impatient</link>
+<updated>2023-06-05T05:11:45Z</updated>
+<summary>https://borretti.me/article/nixos-for-the-impatient</summary>
+</entry>
 <entry>
 <title>Email addresses are not primary user identities | nicole@web</title>
 <link>https://ntietz.com/blog/email-address-not-identifier/</link>
