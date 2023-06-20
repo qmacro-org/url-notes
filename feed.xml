@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-06-12T08:13:01Z</updated>
+<updated>2023-06-20T09:10:37Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Plain Text Journaling · peppe.rs</title>
+<link>https://peppe.rs/posts/plain_text_journaling/</link>
+<updated>2023-06-20T09:10:37Z</updated>
+<summary>https://peppe.rs/posts/plain_text_journaling/</summary>
+</entry>
 <entry>
 <title>moreutils</title>
 <link>https://joeyh.name/code/moreutils/</link>
