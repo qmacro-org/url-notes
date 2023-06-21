@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-06-21T05:52:19Z</updated>
+<updated>2023-06-21T05:54:31Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>How "Exit Traps" Can Make Your Bash Scripts Way More Robust And Reliable</title>
+<link>http://redsymbol.net/articles/bash-exit-traps/</link>
+<updated>2023-06-21T05:54:31Z</updated>
+<summary>http://redsymbol.net/articles/bash-exit-traps/</summary>
+</entry>
 <entry>
 <title>Hashing</title>
 <link>https://samwho.dev/hashing/</link>

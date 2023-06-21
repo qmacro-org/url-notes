@@ -1,5 +1,10 @@
 [
   {
+    "body": "http://redsymbol.net/articles/bash-exit-traps/",
+    "title": "How \"Exit Traps\" Can Make Your Bash Scripts Way More Robust And Reliable",
+    "updatedAt": "2023-06-21T05:54:31Z"
+  },
+  {
     "body": "https://samwho.dev/hashing/",
     "title": "Hashing",
     "updatedAt": "2023-06-21T05:52:19Z"
