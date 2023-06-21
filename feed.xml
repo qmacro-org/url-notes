@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-06-20T09:10:37Z</updated>
+<updated>2023-06-21T05:52:19Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Hashing</title>
+<link>https://samwho.dev/hashing/</link>
+<updated>2023-06-21T05:52:19Z</updated>
+<summary>https://samwho.dev/hashing/</summary>
+</entry>
 <entry>
 <title>Plain Text Journaling · peppe.rs</title>
 <link>https://peppe.rs/posts/plain_text_journaling/</link>
