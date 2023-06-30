@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://zwischenzugs.com/2023/06/27/learn-jq-the-hard-way-part-i-json/",
+    "title": "Learn jq the Hard Way, Part I: JSON – zwischenzugs",
+    "updatedAt": "2023-06-30T10:53:55Z"
+  },
+  {
     "body": "http://redsymbol.net/articles/bash-exit-traps/",
     "title": "How \"Exit Traps\" Can Make Your Bash Scripts Way More Robust And Reliable",
     "updatedAt": "2023-06-21T05:54:31Z"
