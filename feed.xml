@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-06-30T10:53:55Z</updated>
+<updated>2023-06-30T14:26:50Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>How Google Reader died — and why the web misses it more than ever - The Verge</title>
+<link>https://www.theverge.com/23778253/google-reader-death-2013-rss-social</link>
+<updated>2023-06-30T14:26:50Z</updated>
+<summary>https://www.theverge.com/23778253/google-reader-death-2013-rss-social</summary>
+</entry>
 <entry>
 <title>Learn jq the Hard Way, Part I: JSON – zwischenzugs</title>
 <link>https://zwischenzugs.com/2023/06/27/learn-jq-the-hard-way-part-i-json/</link>
