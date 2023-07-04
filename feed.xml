@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-06-30T14:26:50Z</updated>
+<updated>2023-07-04T06:24:24Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>3 things that surprised me while running SQLite in production</title>
+<link>https://www.joseferben.com/posts/3-things-that-surprised-me-while-running-sqlite-in-production/</link>
+<updated>2023-07-04T06:24:24Z</updated>
+<summary>https://www.joseferben.com/posts/3-things-that-surprised-me-while-running-sqlite-in-production/</summary>
+</entry>
 <entry>
 <title>How Google Reader died — and why the web misses it more than ever - The Verge</title>
 <link>https://www.theverge.com/23778253/google-reader-death-2013-rss-social</link>
