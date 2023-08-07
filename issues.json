@@ -1,5 +1,20 @@
 [
   {
+    "body": "https://blogs.sap.com/2022/03/07/sap-btp-security-oauth-2.0-understanding-token-exchange-2-using-destination/",
+    "title": "SAP BTP – Security – OAuth 2.0 – Understanding Token Exchange 2: using Destination | SAP Blogs",
+    "updatedAt": "2023-08-07T14:18:41Z"
+  },
+  {
+    "body": "https://blogs.sap.com/2023/06/14/sap-cap-hybrid-testing/",
+    "title": "SAP CAP Hybrid Testing | SAP Blogs",
+    "updatedAt": "2023-08-07T14:18:32Z"
+  },
+  {
+    "body": "https://sap.github.io/cloud-sdk/docs/js/guides/bas#checking-the-connection",
+    "title": "Connecting to External Systems From the Business Application Studio | SAP Cloud SDK",
+    "updatedAt": "2023-08-07T14:18:25Z"
+  },
+  {
     "body": "https://www.joseferben.com/posts/3-things-that-surprised-me-while-running-sqlite-in-production/",
     "title": "3 things that surprised me while running SQLite in production",
     "updatedAt": "2023-07-04T06:24:24Z"

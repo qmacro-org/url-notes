@@ -1,7 +1,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-07-04T06:24:24Z</updated>
+<updated>2023-08-07T14:18:41Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>SAP BTP – Security – OAuth 2.0 – Understanding Token Exchange 2: using Destination | SAP Blogs</title>
+<link>https://blogs.sap.com/2022/03/07/sap-btp-security-oauth-2.0-understanding-token-exchange-2-using-destination/</link>
+<updated>2023-08-07T14:18:41Z</updated>
+<summary>https://blogs.sap.com/2022/03/07/sap-btp-security-oauth-2.0-understanding-token-exchange-2-using-destination/</summary>
+</entry>
+<entry>
+<title>SAP CAP Hybrid Testing | SAP Blogs</title>
+<link>https://blogs.sap.com/2023/06/14/sap-cap-hybrid-testing/</link>
+<updated>2023-08-07T14:18:32Z</updated>
+<summary>https://blogs.sap.com/2023/06/14/sap-cap-hybrid-testing/</summary>
+</entry>
+<entry>
+<title>Connecting to External Systems From the Business Application Studio | SAP Cloud SDK</title>
+<link>https://sap.github.io/cloud-sdk/docs/js/guides/bas#checking-the-connection</link>
+<updated>2023-08-07T14:18:25Z</updated>
+<summary>https://sap.github.io/cloud-sdk/docs/js/guides/bas#checking-the-connection</summary>
+</entry>
 <entry>
 <title>3 things that surprised me while running SQLite in production</title>
 <link>https://www.joseferben.com/posts/3-things-that-surprised-me-while-running-sqlite-in-production/</link>
