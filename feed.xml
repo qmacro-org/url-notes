@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-08-09T05:38:47Z</updated>
+<updated>2023-08-11T14:32:59Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Driving Bazel with fzf – Jake Zimmerman</title>
+<link>https://blog.jez.io/fzf-bazel/</link>
+<updated>2023-08-11T14:32:59Z</updated>
+<summary>https://blog.jez.io/fzf-bazel/</summary>
+</entry>
 <entry>
 <title>Processing deeply nested JSON with jq streams :: blog.oddbit.com</title>
 <link>https://blog.oddbit.com/post/2023-07-27-jq-streams/</link>
