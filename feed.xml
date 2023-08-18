@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-08-11T14:32:59Z</updated>
+<updated>2023-08-18T15:27:18Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>UAA, XSUAA, Platform UAA, CFUAA – What Is It All About? | SAP Blogs</title>
+<link>https://blogs.sap.com/2019/01/07/uaa-xsuaa-platform-uaa-cfuaa-what-is-it-all-about/</link>
+<updated>2023-08-18T15:27:18Z</updated>
+<summary>https://blogs.sap.com/2019/01/07/uaa-xsuaa-platform-uaa-cfuaa-what-is-it-all-about/</summary>
+</entry>
 <entry>
 <title>Driving Bazel with fzf – Jake Zimmerman</title>
 <link>https://blog.jez.io/fzf-bazel/</link>
