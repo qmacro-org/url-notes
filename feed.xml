@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-08-28T13:04:52Z</updated>
+<updated>2023-08-28T13:06:20Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Application Security Descriptor Configuration Syntax | SAP Help Portal</title>
+<link>https://help.sap.com/docs/btp/sap-business-technology-platform/application-security-descriptor-configuration-syntax</link>
+<updated>2023-08-28T13:06:20Z</updated>
+<summary>https://help.sap.com/docs/btp/sap-business-technology-platform/application-security-descriptor-configuration-syntax</summary>
+</entry>
 <entry>
 <title>Add User Authentication to Your Application (SAP HANA Cloud) | Tutorials for SAP Developers</title>
 <link>https://developers.sap.com/tutorials/hana-cloud-cap-add-authentication.html</link>
