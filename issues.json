@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://auth0.com/blog/id-token-access-token-what-is-the-difference/",
+    "title": "ID Token and Access Token: What Is the Difference?",
+    "updatedAt": "2023-08-28T14:47:59Z"
+  },
+  {
     "body": "https://help.sap.com/docs/btp/sap-business-technology-platform/application-security-descriptor-configuration-syntax",
     "title": "Application Security Descriptor Configuration Syntax | SAP Help Portal",
     "updatedAt": "2023-08-28T13:06:20Z"
@@ -1243,10 +1248,5 @@
     "body": "https://www.innoq.com/en/blog/github-actions-automation/",
     "title": "Automating GitHub Pages Deployments with GitHub Actions – INNOQ",
     "updatedAt": "2021-02-26T21:30:39Z"
-  },
-  {
-    "body": "https://www.brainpickings.org/2016/09/06/james-gleick-the-information-claude-shannon/",
-    "title": "How the Bit Was Born: Claude Shannon and the Invention of Information – Brain Pickings",
-    "updatedAt": "2021-02-25T16:34:36Z"
   }
 ]
