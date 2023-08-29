@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-08-28T14:47:59Z</updated>
+<updated>2023-08-29T07:10:40Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>“Frontend has become full stack”: How GraphQL enables developers to rethink the backend/frontend rift – console.log()</title>
+<link>https://redmonk.com/kholterhoff/2023/08/28/frontend-has-become-full-stack/</link>
+<updated>2023-08-29T07:10:40Z</updated>
+<summary>https://redmonk.com/kholterhoff/2023/08/28/frontend-has-become-full-stack/</summary>
+</entry>
 <entry>
 <title>ID Token and Access Token: What Is the Difference?</title>
 <link>https://auth0.com/blog/id-token-access-token-what-is-the-difference/</link>
@@ -1497,11 +1503,5 @@
 <link>https://thevaluable.dev/vim-advanced/</link>
 <updated>2021-02-28T18:52:48Z</updated>
 <summary>https://thevaluable.dev/vim-advanced/</summary>
-</entry>
-<entry>
-<title>Automating GitHub Pages Deployments with GitHub Actions – INNOQ</title>
-<link>https://www.innoq.com/en/blog/github-actions-automation/</link>
-<updated>2021-02-26T21:30:39Z</updated>
-<summary>https://www.innoq.com/en/blog/github-actions-automation/</summary>
 </entry>
 </feed>

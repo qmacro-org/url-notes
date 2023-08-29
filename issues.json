@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://redmonk.com/kholterhoff/2023/08/28/frontend-has-become-full-stack/",
+    "title": "“Frontend has become full stack”: How GraphQL enables developers to rethink the backend/frontend rift – console.log()",
+    "updatedAt": "2023-08-29T07:10:40Z"
+  },
+  {
     "body": "https://auth0.com/blog/id-token-access-token-what-is-the-difference/",
     "title": "ID Token and Access Token: What Is the Difference?",
     "updatedAt": "2023-08-28T14:47:59Z"
@@ -1243,10 +1248,5 @@
     "body": "https://thevaluable.dev/vim-advanced/",
     "title": "A Vim Guide for Advanced Users",
     "updatedAt": "2021-02-28T18:52:48Z"
-  },
-  {
-    "body": "https://www.innoq.com/en/blog/github-actions-automation/",
-    "title": "Automating GitHub Pages Deployments with GitHub Actions – INNOQ",
-    "updatedAt": "2021-02-26T21:30:39Z"
   }
 ]
