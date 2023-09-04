@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://dannorth.net/2023/09/02/the-worst-programmer/",
+    "title": "The Worst Programmer I Know - Dan North & Associates Ltd",
+    "updatedAt": "2023-09-04T06:44:07Z"
+  },
+  {
     "body": "https://redmonk.com/kholterhoff/2023/08/28/frontend-has-become-full-stack/",
     "title": "“Frontend has become full stack”: How GraphQL enables developers to rethink the backend/frontend rift – console.log()",
     "updatedAt": "2023-08-29T07:10:40Z"
@@ -1243,10 +1248,5 @@
     "body": "https://htmlpreview.github.io/?https://github.com/newren/git-filter-repo/blob/docs/html/git-filter-repo.html",
     "title": "git-filter-repo(1)",
     "updatedAt": "2021-03-04T17:55:43Z"
-  },
-  {
-    "body": "https://thevaluable.dev/vim-advanced/",
-    "title": "A Vim Guide for Advanced Users",
-    "updatedAt": "2021-02-28T18:52:48Z"
   }
 ]

@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-08-29T07:10:40Z</updated>
+<updated>2023-09-04T06:44:07Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>The Worst Programmer I Know - Dan North &amp; Associates Ltd</title>
+<link>https://dannorth.net/2023/09/02/the-worst-programmer/</link>
+<updated>2023-09-04T06:44:07Z</updated>
+<summary>https://dannorth.net/2023/09/02/the-worst-programmer/</summary>
+</entry>
 <entry>
 <title>“Frontend has become full stack”: How GraphQL enables developers to rethink the backend/frontend rift – console.log()</title>
 <link>https://redmonk.com/kholterhoff/2023/08/28/frontend-has-become-full-stack/</link>
@@ -1497,11 +1503,5 @@
 <link>https://htmlpreview.github.io/?https://github.com/newren/git-filter-repo/blob/docs/html/git-filter-repo.html</link>
 <updated>2021-03-04T17:55:43Z</updated>
 <summary>https://htmlpreview.github.io/?https://github.com/newren/git-filter-repo/blob/docs/html/git-filter-repo.html</summary>
-</entry>
-<entry>
-<title>A Vim Guide for Advanced Users</title>
-<link>https://thevaluable.dev/vim-advanced/</link>
-<updated>2021-02-28T18:52:48Z</updated>
-<summary>https://thevaluable.dev/vim-advanced/</summary>
 </entry>
 </feed>
