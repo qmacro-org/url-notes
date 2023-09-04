@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://medium.com/@4c.dmnk/take-control-over-synologys-oauth-service-f96114be3707",
+    "title": "Take control over Synology’s OAuth Service | by Dominik | Medium",
+    "updatedAt": "2023-09-04T15:44:03Z"
+  },
+  {
     "body": "https://dannorth.net/2023/09/02/the-worst-programmer/",
     "title": "The Worst Programmer I Know - Dan North & Associates Ltd",
     "updatedAt": "2023-09-04T06:44:07Z"
@@ -1243,10 +1248,5 @@
     "body": "https://httptoolkit.tech/blog/http-wtf/",
     "title": "HTTPWTF | HTTP Toolkit",
     "updatedAt": "2021-03-05T13:54:11Z"
-  },
-  {
-    "body": "https://htmlpreview.github.io/?https://github.com/newren/git-filter-repo/blob/docs/html/git-filter-repo.html",
-    "title": "git-filter-repo(1)",
-    "updatedAt": "2021-03-04T17:55:43Z"
   }
 ]

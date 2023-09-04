@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-09-04T06:44:07Z</updated>
+<updated>2023-09-04T15:44:03Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Take control over Synology’s OAuth Service | by Dominik | Medium</title>
+<link>https://medium.com/@4c.dmnk/take-control-over-synologys-oauth-service-f96114be3707</link>
+<updated>2023-09-04T15:44:03Z</updated>
+<summary>https://medium.com/@4c.dmnk/take-control-over-synologys-oauth-service-f96114be3707</summary>
+</entry>
 <entry>
 <title>The Worst Programmer I Know - Dan North &amp; Associates Ltd</title>
 <link>https://dannorth.net/2023/09/02/the-worst-programmer/</link>
@@ -1497,11 +1503,5 @@
 <link>https://httptoolkit.tech/blog/http-wtf/</link>
 <updated>2021-03-05T13:54:11Z</updated>
 <summary>https://httptoolkit.tech/blog/http-wtf/</summary>
-</entry>
-<entry>
-<title>git-filter-repo(1)</title>
-<link>https://htmlpreview.github.io/?https://github.com/newren/git-filter-repo/blob/docs/html/git-filter-repo.html</link>
-<updated>2021-03-04T17:55:43Z</updated>
-<summary>https://htmlpreview.github.io/?https://github.com/newren/git-filter-repo/blob/docs/html/git-filter-repo.html</summary>
 </entry>
 </feed>
