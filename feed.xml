@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-09-04T15:44:03Z</updated>
+<updated>2023-09-04T15:44:27Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Access Synology NAS from anywhere · Tailscale</title>
+<link>https://tailscale.com/kb/1131/synology/</link>
+<updated>2023-09-04T15:44:27Z</updated>
+<summary>https://tailscale.com/kb/1131/synology/</summary>
+</entry>
 <entry>
 <title>Take control over Synology’s OAuth Service | by Dominik | Medium</title>
 <link>https://medium.com/@4c.dmnk/take-control-over-synologys-oauth-service-f96114be3707</link>
@@ -1497,11 +1503,5 @@
 <link>https://github.blog/2021-03-04-4-things-you-didnt-know-you-could-do-with-github-actions/</link>
 <updated>2021-03-05T17:59:20Z</updated>
 <summary>https://github.blog/2021-03-04-4-things-you-didnt-know-you-could-do-with-github-actions/</summary>
-</entry>
-<entry>
-<title>HTTPWTF | HTTP Toolkit</title>
-<link>https://httptoolkit.tech/blog/http-wtf/</link>
-<updated>2021-03-05T13:54:11Z</updated>
-<summary>https://httptoolkit.tech/blog/http-wtf/</summary>
 </entry>
 </feed>
