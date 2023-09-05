@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-09-05T11:47:19Z</updated>
+<updated>2023-09-05T16:54:31Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Two spaces after a period: Why you should never, ever do it.</title>
+<link>https://slate.com/technology/2011/01/two-spaces-after-a-period-why-you-should-never-ever-do-it.html</link>
+<updated>2023-09-05T16:54:31Z</updated>
+<summary>https://slate.com/technology/2011/01/two-spaces-after-a-period-why-you-should-never-ever-do-it.html</summary>
+</entry>
 <entry>
 <title>How to add custom properties to JWT token | SAP Blogs</title>
 <link>https://blogs.sap.com/2020/10/21/how-to-add-custom-properties-to-jwt-token/</link>
@@ -1497,11 +1503,5 @@
 <link>https://archive.org/details/DouglasAdams-Hyperland</link>
 <updated>2021-03-09T06:55:39Z</updated>
 <summary>https://archive.org/details/DouglasAdams-Hyperland</summary>
-</entry>
-<entry>
-<title>How the ARPANET Protocols Worked</title>
-<link>https://twobithistory.org/2021/03/08/arpanet-protocols.html</link>
-<updated>2021-03-08T19:15:31Z</updated>
-<summary>https://twobithistory.org/2021/03/08/arpanet-protocols.html</summary>
 </entry>
 </feed>
