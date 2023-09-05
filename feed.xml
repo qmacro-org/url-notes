@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-09-05T08:03:17Z</updated>
+<updated>2023-09-05T11:47:19Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>How to add custom properties to JWT token | SAP Blogs</title>
+<link>https://blogs.sap.com/2020/10/21/how-to-add-custom-properties-to-jwt-token/</link>
+<updated>2023-09-05T11:47:19Z</updated>
+<summary>https://blogs.sap.com/2020/10/21/how-to-add-custom-properties-to-jwt-token/</summary>
+</entry>
 <entry>
 <title>introducing curl command line variables | daniel.haxx.se</title>
 <link>https://daniel.haxx.se/blog/2023/07/31/introducing-curl-command-line-variables/</link>
@@ -1497,11 +1503,5 @@
 <link>https://twobithistory.org/2021/03/08/arpanet-protocols.html</link>
 <updated>2021-03-08T19:15:31Z</updated>
 <summary>https://twobithistory.org/2021/03/08/arpanet-protocols.html</summary>
-</entry>
-<entry>
-<title>Adding approval workflow to your GitHub Action</title>
-<link>https://timheuer.com/blog/add-approval-workflow-to-github-actions/</link>
-<updated>2021-03-08T19:14:17Z</updated>
-<summary>https://timheuer.com/blog/add-approval-workflow-to-github-actions/</summary>
 </entry>
 </feed>
