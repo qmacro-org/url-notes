@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://antonz.org/mastering-curl/",
+    "title": "Mastering curl: interactive text guide",
+    "updatedAt": "2023-09-06T07:33:54Z"
+  },
+  {
     "body": "https://slate.com/technology/2011/01/two-spaces-after-a-period-why-you-should-never-ever-do-it.html",
     "title": "Two spaces after a period: Why you should never, ever do it.",
     "updatedAt": "2023-09-05T16:54:31Z"
@@ -1243,10 +1248,5 @@
     "body": "https://www.infoq.com/articles/developer-advocate/",
     "title": "Book Review: Developer, Advocate!",
     "updatedAt": "2021-03-10T17:36:23Z"
-  },
-  {
-    "body": "https://archive.org/details/DouglasAdams-Hyperland",
-    "title": "Douglas Adams - Hyperland : Free Download, Borrow, and Streaming : Internet Archive",
-    "updatedAt": "2021-03-09T06:55:39Z"
   }
 ]

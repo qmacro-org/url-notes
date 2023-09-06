@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-09-05T16:54:31Z</updated>
+<updated>2023-09-06T07:33:54Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Mastering curl: interactive text guide</title>
+<link>https://antonz.org/mastering-curl/</link>
+<updated>2023-09-06T07:33:54Z</updated>
+<summary>https://antonz.org/mastering-curl/</summary>
+</entry>
 <entry>
 <title>Two spaces after a period: Why you should never, ever do it.</title>
 <link>https://slate.com/technology/2011/01/two-spaces-after-a-period-why-you-should-never-ever-do-it.html</link>
@@ -1497,11 +1503,5 @@
 <link>https://www.infoq.com/articles/developer-advocate/</link>
 <updated>2021-03-10T17:36:23Z</updated>
 <summary>https://www.infoq.com/articles/developer-advocate/</summary>
-</entry>
-<entry>
-<title>Douglas Adams - Hyperland : Free Download, Borrow, and Streaming : Internet Archive</title>
-<link>https://archive.org/details/DouglasAdams-Hyperland</link>
-<updated>2021-03-09T06:55:39Z</updated>
-<summary>https://archive.org/details/DouglasAdams-Hyperland</summary>
 </entry>
 </feed>
