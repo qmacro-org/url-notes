@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-09-12T13:19:16Z</updated>
+<updated>2023-09-12T13:24:34Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Chris's Wiki :: blog/unix/BourneShellObscureErrorRoots</title>
+<link>https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellObscureErrorRoots</link>
+<updated>2023-09-12T13:24:34Z</updated>
+<summary>https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellObscureErrorRoots</summary>
+</entry>
 <entry>
 <title>How many ways can you slice a URL and name the pieces? - Tantek</title>
 <link>https://tantek.com/2011/238/b1/many-ways-slice-url-name-pieces</link>
@@ -1497,11 +1503,5 @@
 <link>https://stackoverflow.com/questions/16082991/vim-switching-between-files-rapidly-using-vanilla-vim-no-plugins/16084326#16084326</link>
 <updated>2021-03-11T06:42:18Z</updated>
 <summary>https://stackoverflow.com/questions/16082991/vim-switching-between-files-rapidly-using-vanilla-vim-no-plugins/16084326#16084326</summary>
-</entry>
-<entry>
-<title>My Top Ten Tips for Surviving and Thriving in Developer Relations – thebeebs.net</title>
-<link>https://thebeebs.net/2021/03/02/my-top-ten-tips-for-surviving-and-thriving-in-developer-relations/</link>
-<updated>2021-03-10T17:45:21Z</updated>
-<summary>https://thebeebs.net/2021/03/02/my-top-ten-tips-for-surviving-and-thriving-in-developer-relations/</summary>
 </entry>
 </feed>

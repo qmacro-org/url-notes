@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellObscureErrorRoots",
+    "title": "Chris's Wiki :: blog/unix/BourneShellObscureErrorRoots",
+    "updatedAt": "2023-09-12T13:24:34Z"
+  },
+  {
     "body": "https://tantek.com/2011/238/b1/many-ways-slice-url-name-pieces",
     "title": "How many ways can you slice a URL and name the pieces? - Tantek",
     "updatedAt": "2023-09-12T13:19:16Z"
@@ -1243,10 +1248,5 @@
     "body": "https://stackoverflow.com/questions/16082991/vim-switching-between-files-rapidly-using-vanilla-vim-no-plugins/16084326#16084326",
     "title": "vim, switching between files rapidly using vanilla Vim (no plugins) - Stack Overflow",
     "updatedAt": "2021-03-11T06:42:18Z"
-  },
-  {
-    "body": "https://thebeebs.net/2021/03/02/my-top-ten-tips-for-surviving-and-thriving-in-developer-relations/",
-    "title": "My Top Ten Tips for Surviving and Thriving in Developer Relations – thebeebs.net",
-    "updatedAt": "2021-03-10T17:45:21Z"
   }
 ]
