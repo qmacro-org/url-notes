@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://tantek.com/2011/238/b1/many-ways-slice-url-name-pieces",
+    "title": "How many ways can you slice a URL and name the pieces? - Tantek",
+    "updatedAt": "2023-09-12T13:19:16Z"
+  },
+  {
     "body": "https://antonz.org/mastering-curl/",
     "title": "Mastering curl: interactive text guide",
     "updatedAt": "2023-09-06T07:33:54Z"
@@ -1243,10 +1248,5 @@
     "body": "https://thebeebs.net/2021/03/02/my-top-ten-tips-for-surviving-and-thriving-in-developer-relations/",
     "title": "My Top Ten Tips for Surviving and Thriving in Developer Relations – thebeebs.net",
     "updatedAt": "2021-03-10T17:45:21Z"
-  },
-  {
-    "body": "https://www.infoq.com/articles/developer-advocate/",
-    "title": "Book Review: Developer, Advocate!",
-    "updatedAt": "2021-03-10T17:36:23Z"
   }
 ]
