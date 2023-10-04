@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-10-04T11:02:50Z</updated>
+<updated>2023-10-04T14:09:49Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Picat is my favorite new toolbox language • Buttondown</title>
+<link>https://buttondown.email/hillelwayne/archive/picat-is-my-favorite-new-toolbox-language/</link>
+<updated>2023-10-04T14:09:49Z</updated>
+<summary>https://buttondown.email/hillelwayne/archive/picat-is-my-favorite-new-toolbox-language/</summary>
+</entry>
 <entry>
 <title>Conventional Comments</title>
 <link>https://conventionalcomments.org/</link>
@@ -1497,11 +1503,5 @@
 <link>https://blog.repl.it/dotcom</link>
 <updated>2021-03-12T11:39:20Z</updated>
 <summary>https://blog.repl.it/dotcom</summary>
-</entry>
-<entry>
-<title>vim, switching between files rapidly using vanilla Vim (no plugins) - Stack Overflow</title>
-<link>https://stackoverflow.com/questions/16082991/vim-switching-between-files-rapidly-using-vanilla-vim-no-plugins/16084326#16084326</link>
-<updated>2021-03-11T06:42:18Z</updated>
-<summary>https://stackoverflow.com/questions/16082991/vim-switching-between-files-rapidly-using-vanilla-vim-no-plugins/16084326#16084326</summary>
 </entry>
 </feed>
