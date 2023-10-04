@@ -1,12 +1,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-09-12T13:24:34Z</updated>
+<updated>2023-10-04T11:02:50Z</updated>
 <author><name>DJ Adams</name></author>
 <entry>
-<title>Chris's Wiki :: blog/unix/BourneShellObscureErrorRoots</title>
-<link>https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellObscureErrorRoots</link>
-<updated>2023-09-12T13:24:34Z</updated>
-<summary>https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellObscureErrorRoots</summary>
+<title>Conventional Comments</title>
+<link>https://conventionalcomments.org/</link>
+<updated>2023-10-04T11:02:50Z</updated>
+<summary>https://conventionalcomments.org/</summary>
 </entry>
 <entry>
 <title>How many ways can you slice a URL and name the pieces? - Tantek</title>
