@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-10-04T14:09:49Z</updated>
+<updated>2023-10-09T08:50:18Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Consuming a Business Technology Platform service from an S/4 HANA system using SM59 destination with OAuth | SAP Blogs</title>
+<link>https://blogs.sap.com/2023/05/19/consuming-a-business-technology-platform-service-from-an-s-4-hana-system-using-sm59-destination-with-oauth/</link>
+<updated>2023-10-09T08:50:18Z</updated>
+<summary>https://blogs.sap.com/2023/05/19/consuming-a-business-technology-platform-service-from-an-s-4-hana-system-using-sm59-destination-with-oauth/</summary>
+</entry>
 <entry>
 <title>Picat is my favorite new toolbox language • Buttondown</title>
 <link>https://buttondown.email/hillelwayne/archive/picat-is-my-favorite-new-toolbox-language/</link>
@@ -1497,11 +1503,5 @@
 <link>https://github.com/CodingGarden/faqs#faq---frequently-asked-questions</link>
 <updated>2021-03-12T16:50:47Z</updated>
 <summary>https://github.com/CodingGarden/faqs#faq---frequently-asked-questions</summary>
-</entry>
-<entry>
-<title>Repl.it - Replit Dotcom</title>
-<link>https://blog.repl.it/dotcom</link>
-<updated>2021-03-12T11:39:20Z</updated>
-<summary>https://blog.repl.it/dotcom</summary>
 </entry>
 </feed>
