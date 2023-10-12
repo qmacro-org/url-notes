@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-10-11T05:51:57Z</updated>
+<updated>2023-10-12T15:29:17Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>A Brief Introduction of ActivityPub: The Future of Social Networks | HackerNoon</title>
+<link>https://hackernoon.com/a-brief-introduction-of-activitypub-the-future-of-social-networks</link>
+<updated>2023-10-12T15:29:17Z</updated>
+<summary>https://hackernoon.com/a-brief-introduction-of-activitypub-the-future-of-social-networks</summary>
+</entry>
 <entry>
 <title>My E-Reader Setup - videah's blog</title>
 <link>https://blog.videah.net/my-e-reader-setup/</link>
@@ -1497,11 +1503,5 @@
 <link>https://dev.to/whitep4nth3r/my-twitch-live-coding-setup-in-obs-4he0</link>
 <updated>2021-03-15T14:54:55Z</updated>
 <summary>https://dev.to/whitep4nth3r/my-twitch-live-coding-setup-in-obs-4he0</summary>
-</entry>
-<entry>
-<title>What is the most underestimated programming language? | by Doug Ross | Skills Matter | Medium</title>
-<link>https://medium.com/skills-matter/what-is-the-most-underrated-programming-language-fafe164a8cd1</link>
-<updated>2021-03-14T08:28:18Z</updated>
-<summary>https://medium.com/skills-matter/what-is-the-most-underrated-programming-language-fafe164a8cd1</summary>
 </entry>
 </feed>
