@@ -1,24 +1,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-10-12T15:29:17Z</updated>
+<updated>2023-10-21T08:26:44Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>" [31m"?! ANSI Terminal security in 2023 and finding 10 CVEs</title>
+<link>https://dgl.cx/2023/09/ansi-terminal-security</link>
+<updated>2023-10-21T08:26:44Z</updated>
+<summary>https://dgl.cx/2023/09/ansi-terminal-security</summary>
+</entry>
 <entry>
 <title>A Brief Introduction of ActivityPub: The Future of Social Networks | HackerNoon</title>
 <link>https://hackernoon.com/a-brief-introduction-of-activitypub-the-future-of-social-networks</link>
 <updated>2023-10-12T15:29:17Z</updated>
 <summary>https://hackernoon.com/a-brief-introduction-of-activitypub-the-future-of-social-networks</summary>
-</entry>
-<entry>
-<title>My E-Reader Setup - videah's blog</title>
-<link>https://blog.videah.net/my-e-reader-setup/</link>
-<updated>2023-10-11T05:51:57Z</updated>
-<summary>https://blog.videah.net/my-e-reader-setup/</summary>
-</entry>
-<entry>
-<title>Show HN: REST Alternative to GraphQL and tRPC | Hacker News</title>
-<link>https://news.ycombinator.com/item?id=37830192</link>
-<updated>2023-10-10T15:35:24Z</updated>
-<summary>https://news.ycombinator.com/item?id=37830192</summary>
 </entry>
 <entry>
 <title>Consuming a Business Technology Platform service from an S/4 HANA system using SM59 destination with OAuth | SAP Blogs</title>
@@ -49,12 +43,6 @@
 <link>https://antonz.org/mastering-curl/</link>
 <updated>2023-09-06T07:33:54Z</updated>
 <summary>https://antonz.org/mastering-curl/</summary>
-</entry>
-<entry>
-<title>Two spaces after a period: Why you should never, ever do it.</title>
-<link>https://slate.com/technology/2011/01/two-spaces-after-a-period-why-you-should-never-ever-do-it.html</link>
-<updated>2023-09-05T16:54:31Z</updated>
-<summary>https://slate.com/technology/2011/01/two-spaces-after-a-period-why-you-should-never-ever-do-it.html</summary>
 </entry>
 <entry>
 <title>How to add custom properties to JWT token | SAP Blogs</title>
@@ -1503,5 +1491,17 @@
 <link>https://dev.to/whitep4nth3r/my-twitch-live-coding-setup-in-obs-4he0</link>
 <updated>2021-03-15T14:54:55Z</updated>
 <summary>https://dev.to/whitep4nth3r/my-twitch-live-coding-setup-in-obs-4he0</summary>
+</entry>
+<entry>
+<title>What is the most underestimated programming language? | by Doug Ross | Skills Matter | Medium</title>
+<link>https://medium.com/skills-matter/what-is-the-most-underrated-programming-language-fafe164a8cd1</link>
+<updated>2021-03-14T08:28:18Z</updated>
+<summary>https://medium.com/skills-matter/what-is-the-most-underrated-programming-language-fafe164a8cd1</summary>
+</entry>
+<entry>
+<title>Learn how to share and promote your work as an engineer | OpenFaaS - Serverless Functions Made Simple</title>
+<link>https://www.openfaas.com/blog/promote-and-share/</link>
+<updated>2021-03-13T17:34:58Z</updated>
+<summary>https://www.openfaas.com/blog/promote-and-share/</summary>
 </entry>
 </feed>
