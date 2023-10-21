@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-10-21T08:26:44Z</updated>
+<updated>2023-10-21T09:11:41Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Vim: you don't need NERDtree or (maybe) netrw | George Ornbo</title>
+<link>https://shapeshed.com/vim-netrw/</link>
+<updated>2023-10-21T09:11:41Z</updated>
+<summary>https://shapeshed.com/vim-netrw/</summary>
+</entry>
 <entry>
 <title>" [31m"?! ANSI Terminal security in 2023 and finding 10 CVEs</title>
 <link>https://dgl.cx/2023/09/ansi-terminal-security</link>
@@ -1497,11 +1503,5 @@
 <link>https://medium.com/skills-matter/what-is-the-most-underrated-programming-language-fafe164a8cd1</link>
 <updated>2021-03-14T08:28:18Z</updated>
 <summary>https://medium.com/skills-matter/what-is-the-most-underrated-programming-language-fafe164a8cd1</summary>
-</entry>
-<entry>
-<title>Learn how to share and promote your work as an engineer | OpenFaaS - Serverless Functions Made Simple</title>
-<link>https://www.openfaas.com/blog/promote-and-share/</link>
-<updated>2021-03-13T17:34:58Z</updated>
-<summary>https://www.openfaas.com/blog/promote-and-share/</summary>
 </entry>
 </feed>

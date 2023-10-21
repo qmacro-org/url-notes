@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://shapeshed.com/vim-netrw/",
+    "title": "Vim: you don't need NERDtree or (maybe) netrw | George Ornbo",
+    "updatedAt": "2023-10-21T09:11:41Z"
+  },
+  {
     "body": "https://dgl.cx/2023/09/ansi-terminal-security",
     "title": "\" [31m\"?! ANSI Terminal security in 2023 and finding 10 CVEs",
     "updatedAt": "2023-10-21T08:26:44Z"
@@ -1243,10 +1248,5 @@
     "body": "https://medium.com/skills-matter/what-is-the-most-underrated-programming-language-fafe164a8cd1",
     "title": "What is the most underestimated programming language? | by Doug Ross | Skills Matter | Medium",
     "updatedAt": "2021-03-14T08:28:18Z"
-  },
-  {
-    "body": "https://www.openfaas.com/blog/promote-and-share/",
-    "title": "Learn how to share and promote your work as an engineer | OpenFaaS - Serverless Functions Made Simple",
-    "updatedAt": "2021-03-13T17:34:58Z"
   }
 ]
