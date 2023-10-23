@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://sap.stackenterprise.co/articles/43679",
+    "title": "Some explanations on how Odata annotations are rendered into the final EDM out of a CAP CDS service definition - Stack@SAP",
+    "updatedAt": "2023-10-23T09:49:43Z"
+  },
+  {
     "body": "https://shapeshed.com/vim-netrw/",
     "title": "Vim: you don't need NERDtree or (maybe) netrw | George Ornbo",
     "updatedAt": "2023-10-21T09:11:41Z"
@@ -1243,10 +1248,5 @@
     "body": "https://dev.to/whitep4nth3r/my-twitch-live-coding-setup-in-obs-4he0",
     "title": "My Twitch live coding setup in OBS - DEV Community",
     "updatedAt": "2021-03-15T14:54:55Z"
-  },
-  {
-    "body": "https://medium.com/skills-matter/what-is-the-most-underrated-programming-language-fafe164a8cd1",
-    "title": "What is the most underestimated programming language? | by Doug Ross | Skills Matter | Medium",
-    "updatedAt": "2021-03-14T08:28:18Z"
   }
 ]
