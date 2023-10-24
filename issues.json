@@ -1,8 +1,13 @@
 [
   {
+    "body": "https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html",
+    "title": "LSP could have been better",
+    "updatedAt": "2023-10-24T12:46:52Z"
+  },
+  {
     "body": "https://sap.stackenterprise.co/articles/43679",
     "title": "Some explanations on how Odata annotations are rendered into the final EDM out of a CAP CDS service definition - Stack@SAP",
-    "updatedAt": "2023-10-23T09:49:43Z"
+    "updatedAt": "2023-10-23T10:01:19Z"
   },
   {
     "body": "https://shapeshed.com/vim-netrw/",
@@ -1243,10 +1248,5 @@
     "body": "https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/",
     "title": "7 Ways to Debug Jest Tests in Terminal | Pragmatic Pineapple 🍍",
     "updatedAt": "2021-03-15T16:21:46Z"
-  },
-  {
-    "body": "https://dev.to/whitep4nth3r/my-twitch-live-coding-setup-in-obs-4he0",
-    "title": "My Twitch live coding setup in OBS - DEV Community",
-    "updatedAt": "2021-03-15T14:54:55Z"
   }
 ]
