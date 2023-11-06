@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-10-24T12:46:52Z</updated>
+<updated>2023-11-06T08:17:04Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Git Notes: git's coolest, most unloved­ feature - Tyler Cipriani</title>
+<link>https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/</link>
+<updated>2023-11-06T08:17:04Z</updated>
+<summary>https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/</summary>
+</entry>
 <entry>
 <title>LSP could have been better</title>
 <link>https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html</link>
@@ -11,7 +17,7 @@
 <entry>
 <title>Some explanations on how Odata annotations are rendered into the final EDM out of a CAP CDS service definition - Stack@SAP</title>
 <link>https://sap.stackenterprise.co/articles/43679</link>
-<updated>2023-10-23T10:01:19Z</updated>
+<updated>2023-10-27T05:34:54Z</updated>
 <summary>https://sap.stackenterprise.co/articles/43679</summary>
 </entry>
 <entry>
@@ -1497,11 +1503,5 @@
 <link>https://medium.com/swlh/why-senior-engineers-hate-coding-interviews-d583d2855757</link>
 <updated>2021-03-16T17:45:56Z</updated>
 <summary>https://medium.com/swlh/why-senior-engineers-hate-coding-interviews-d583d2855757</summary>
-</entry>
-<entry>
-<title>7 Ways to Debug Jest Tests in Terminal | Pragmatic Pineapple 🍍</title>
-<link>https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/</link>
-<updated>2021-03-15T16:21:46Z</updated>
-<summary>https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/</summary>
 </entry>
 </feed>
