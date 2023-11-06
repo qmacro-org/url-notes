@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://help.sap.com/docs/btp/sap-business-technology-platform/deploy-docker-images-in-cloud-foundry-environment",
+    "title": "Deploy Docker Images in the Cloud Foundry Environment | SAP Help Portal",
+    "updatedAt": "2023-11-06T17:33:40Z"
+  },
+  {
     "body": "https://sap.github.io/open-resource-discovery/",
     "title": "Open Resource Discovery | Open Resource Discovery",
     "updatedAt": "2023-11-06T16:21:27Z"
@@ -1243,10 +1248,5 @@
     "body": "https://theor.xyz/posts/tech-stack-graph-unicode-fsharp/",
     "title": "Choosing a language to replace Javascript (and why it's F#) - theor's",
     "updatedAt": "2021-03-23T07:34:49Z"
-  },
-  {
-    "body": "https://rhardih.io/2021/03/migrating-from-lastpass-to-pass/",
-    "title": "Migrating from LastPass to pass – Zoned Out",
-    "updatedAt": "2021-03-21T06:31:09Z"
   }
 ]
