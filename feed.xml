@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-11-06T08:17:04Z</updated>
+<updated>2023-11-06T09:43:05Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Boaters’ Update 3 November 2023 | Canal &amp; River Trust</title>
+<link>https://canalrivertrust.org.uk/boating/boating-news-and-views/the-boaters-update/boaters-update-3-november-2023</link>
+<updated>2023-11-06T09:43:05Z</updated>
+<summary>https://canalrivertrust.org.uk/boating/boating-news-and-views/the-boaters-update/boaters-update-3-november-2023</summary>
+</entry>
 <entry>
 <title>Git Notes: git's coolest, most unloved­ feature - Tyler Cipriani</title>
 <link>https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/</link>
@@ -1497,11 +1503,5 @@
 <link>https://www.edwardthomson.com/blog/github_actions_21_github_script.html</link>
 <updated>2021-03-18T17:42:13Z</updated>
 <summary>https://www.edwardthomson.com/blog/github_actions_21_github_script.html</summary>
-</entry>
-<entry>
-<title>Why Senior Engineers Hate Coding Interviews | by Adam Storm | The Startup | Medium</title>
-<link>https://medium.com/swlh/why-senior-engineers-hate-coding-interviews-d583d2855757</link>
-<updated>2021-03-16T17:45:56Z</updated>
-<summary>https://medium.com/swlh/why-senior-engineers-hate-coding-interviews-d583d2855757</summary>
 </entry>
 </feed>
