@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-11-06T09:43:05Z</updated>
+<updated>2023-11-06T16:21:27Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Open Resource Discovery | Open Resource Discovery</title>
+<link>https://sap.github.io/open-resource-discovery/</link>
+<updated>2023-11-06T16:21:27Z</updated>
+<summary>https://sap.github.io/open-resource-discovery/</summary>
+</entry>
 <entry>
 <title>Boaters’ Update 3 November 2023 | Canal &amp; River Trust</title>
 <link>https://canalrivertrust.org.uk/boating/boating-news-and-views/the-boaters-update/boaters-update-3-november-2023</link>
@@ -1497,11 +1503,5 @@
 <link>https://rhardih.io/2021/03/migrating-from-lastpass-to-pass/</link>
 <updated>2021-03-21T06:31:09Z</updated>
 <summary>https://rhardih.io/2021/03/migrating-from-lastpass-to-pass/</summary>
-</entry>
-<entry>
-<title>Edward Thomson: GitHub Actions Day 21: GitHub Script</title>
-<link>https://www.edwardthomson.com/blog/github_actions_21_github_script.html</link>
-<updated>2021-03-18T17:42:13Z</updated>
-<summary>https://www.edwardthomson.com/blog/github_actions_21_github_script.html</summary>
 </entry>
 </feed>

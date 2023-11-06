@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://sap.github.io/open-resource-discovery/",
+    "title": "Open Resource Discovery | Open Resource Discovery",
+    "updatedAt": "2023-11-06T16:21:27Z"
+  },
+  {
     "body": "https://canalrivertrust.org.uk/boating/boating-news-and-views/the-boaters-update/boaters-update-3-november-2023",
     "title": "Boaters’ Update 3 November 2023 | Canal & River Trust",
     "updatedAt": "2023-11-06T09:43:05Z"
@@ -1243,10 +1248,5 @@
     "body": "https://rhardih.io/2021/03/migrating-from-lastpass-to-pass/",
     "title": "Migrating from LastPass to pass – Zoned Out",
     "updatedAt": "2021-03-21T06:31:09Z"
-  },
-  {
-    "body": "https://www.edwardthomson.com/blog/github_actions_21_github_script.html",
-    "title": "Edward Thomson: GitHub Actions Day 21: GitHub Script",
-    "updatedAt": "2021-03-18T17:42:13Z"
   }
 ]
