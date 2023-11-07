@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-11-07T06:59:48Z</updated>
+<updated>2023-11-07T07:55:28Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>anordal/shellharden: The corrective bash syntax highlighter</title>
+<link>https://github.com/anordal/shellharden</link>
+<updated>2023-11-07T07:55:28Z</updated>
+<summary>https://github.com/anordal/shellharden</summary>
+</entry>
 <entry>
 <title>What exactly was the point of [ “x$var” = “xval” ]? – Vidar's Blog</title>
 <link>https://www.vidarholen.net/contents/blog/?p=1035</link>
@@ -1497,11 +1503,5 @@
 <link>https://github.blog/2021-03-11-scripting-with-github-cli/</link>
 <updated>2021-03-24T14:01:27Z</updated>
 <summary>https://github.blog/2021-03-11-scripting-with-github-cli/</summary>
-</entry>
-<entry>
-<title>acco.io | I finally escaped Node (and you can too)</title>
-<link>https://acco.io/i-escaped-node</link>
-<updated>2021-03-24T05:11:09Z</updated>
-<summary>https://acco.io/i-escaped-node</summary>
 </entry>
 </feed>

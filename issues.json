@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://github.com/anordal/shellharden",
+    "title": "anordal/shellharden: The corrective bash syntax highlighter",
+    "updatedAt": "2023-11-07T07:55:28Z"
+  },
+  {
     "body": "https://www.vidarholen.net/contents/blog/?p=1035",
     "title": "What exactly was the point of [ “x$var” = “xval” ]? – Vidar's Blog",
     "updatedAt": "2023-11-07T06:59:48Z"
@@ -1243,10 +1248,5 @@
     "body": "https://github.blog/2021-03-11-scripting-with-github-cli/",
     "title": "Scripting with GitHub CLI - The GitHub Blog",
     "updatedAt": "2021-03-24T14:01:27Z"
-  },
-  {
-    "body": "https://acco.io/i-escaped-node",
-    "title": "acco.io | I finally escaped Node (and you can too)",
-    "updatedAt": "2021-03-24T05:11:09Z"
   }
 ]
