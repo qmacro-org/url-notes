@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://www.vidarholen.net/contents/blog/?p=1035",
+    "title": "What exactly was the point of [ “x$var” = “xval” ]? – Vidar's Blog",
+    "updatedAt": "2023-11-07T06:59:48Z"
+  },
+  {
     "body": "https://help.sap.com/docs/btp/sap-business-technology-platform/deploy-docker-images-in-cloud-foundry-environment",
     "title": "Deploy Docker Images in the Cloud Foundry Environment | SAP Help Portal",
     "updatedAt": "2023-11-06T17:33:40Z"
@@ -1243,10 +1248,5 @@
     "body": "https://acco.io/i-escaped-node",
     "title": "acco.io | I finally escaped Node (and you can too)",
     "updatedAt": "2021-03-24T05:11:09Z"
-  },
-  {
-    "body": "https://theor.xyz/posts/tech-stack-graph-unicode-fsharp/",
-    "title": "Choosing a language to replace Javascript (and why it's F#) - theor's",
-    "updatedAt": "2021-03-23T07:34:49Z"
   }
 ]
