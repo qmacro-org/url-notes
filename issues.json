@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://thehistoryoftheweb.com/im-a-teapot/",
+    "title": "Sorry Computer, You're Not a Teapot - The History of the Web",
+    "updatedAt": "2023-11-08T12:04:46Z"
+  },
+  {
     "body": "https://github.com/anordal/shellharden",
     "title": "anordal/shellharden: The corrective bash syntax highlighter",
     "updatedAt": "2023-11-07T07:55:28Z"
@@ -1243,10 +1248,5 @@
     "body": "https://www.swyx.io/slack-fumble/",
     "title": "Slack is Fumbling Developers",
     "updatedAt": "2021-03-24T16:45:25Z"
-  },
-  {
-    "body": "https://github.blog/2021-03-11-scripting-with-github-cli/",
-    "title": "Scripting with GitHub CLI - The GitHub Blog",
-    "updatedAt": "2021-03-24T14:01:27Z"
   }
 ]
