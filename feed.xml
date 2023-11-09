@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-11-08T12:04:46Z</updated>
+<updated>2023-11-09T06:55:11Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>What’s new in SAP Cloud Application Programming Model | SAP TechEd 2023 Edition | SAP Blogs</title>
+<link>https://blogs.sap.com/2023/11/02/whats-new-in-sap-cloud-application-programming-model-sap-teched-2023-edition/?source=Developer_Community-Upskill-Document-Audience_Engagement_%2F_Develop_Community-Global-blogs.sap.com&amp;campaigncode=CRM-XB23-MKT-DGECOMLD&amp;sprinklrid=11756726404</link>
+<updated>2023-11-09T06:55:11Z</updated>
+<summary>https://blogs.sap.com/2023/11/02/whats-new-in-sap-cloud-application-programming-model-sap-teched-2023-edition/?source=Developer_Community-Upskill-Document-Audience_Engagement_%2F_Develop_Community-Global-blogs.sap.com&amp;campaigncode=CRM-XB23-MKT-DGECOMLD&amp;sprinklrid=11756726404</summary>
+</entry>
 <entry>
 <title>Sorry Computer, You're Not a Teapot - The History of the Web</title>
 <link>https://thehistoryoftheweb.com/im-a-teapot/</link>
@@ -1497,11 +1503,5 @@
 <link>https://jvns.ca/blog/learn-how-things-work/</link>
 <updated>2021-03-24T20:46:09Z</updated>
 <summary>https://jvns.ca/blog/learn-how-things-work/</summary>
-</entry>
-<entry>
-<title>Slack is Fumbling Developers</title>
-<link>https://www.swyx.io/slack-fumble/</link>
-<updated>2021-03-24T16:45:25Z</updated>
-<summary>https://www.swyx.io/slack-fumble/</summary>
 </entry>
 </feed>
