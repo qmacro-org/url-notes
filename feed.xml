@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-11-09T06:55:11Z</updated>
+<updated>2023-11-10T09:51:52Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>GitHub Next | Realtime GitHub</title>
+<link>https://githubnext.com/projects/rtgh/</link>
+<updated>2023-11-10T09:51:52Z</updated>
+<summary>https://githubnext.com/projects/rtgh/</summary>
+</entry>
 <entry>
 <title>What’s new in SAP Cloud Application Programming Model | SAP TechEd 2023 Edition | SAP Blogs</title>
 <link>https://blogs.sap.com/2023/11/02/whats-new-in-sap-cloud-application-programming-model-sap-teched-2023-edition/?source=Developer_Community-Upskill-Document-Audience_Engagement_%2F_Develop_Community-Global-blogs.sap.com&amp;campaigncode=CRM-XB23-MKT-DGECOMLD&amp;sprinklrid=11756726404</link>
@@ -1497,11 +1503,5 @@
 <link>https://capiche.com/e/email-apps-as-a-remix</link>
 <updated>2021-03-27T14:10:51Z</updated>
 <summary>https://capiche.com/e/email-apps-as-a-remix</summary>
-</entry>
-<entry>
-<title>Get better at programming by learning how things work</title>
-<link>https://jvns.ca/blog/learn-how-things-work/</link>
-<updated>2021-03-24T20:46:09Z</updated>
-<summary>https://jvns.ca/blog/learn-how-things-work/</summary>
 </entry>
 </feed>

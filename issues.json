@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://githubnext.com/projects/rtgh/",
+    "title": "GitHub Next | Realtime GitHub",
+    "updatedAt": "2023-11-10T09:51:52Z"
+  },
+  {
     "body": "https://blogs.sap.com/2023/11/02/whats-new-in-sap-cloud-application-programming-model-sap-teched-2023-edition/?source=Developer_Community-Upskill-Document-Audience_Engagement_%2F_Develop_Community-Global-blogs.sap.com&campaigncode=CRM-XB23-MKT-DGECOMLD&sprinklrid=11756726404",
     "title": "What’s new in SAP Cloud Application Programming Model | SAP TechEd 2023 Edition | SAP Blogs",
     "updatedAt": "2023-11-09T06:55:11Z"
@@ -1243,10 +1248,5 @@
     "body": "https://capiche.com/e/email-apps-as-a-remix",
     "title": "Email is where new software features get invented. | Capiche",
     "updatedAt": "2021-03-27T14:10:51Z"
-  },
-  {
-    "body": "https://jvns.ca/blog/learn-how-things-work/",
-    "title": "Get better at programming by learning how things work",
-    "updatedAt": "2021-03-24T20:46:09Z"
   }
 ]
