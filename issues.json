@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://www.mcsweeneys.net/articles/in-the-office-auto-reply-emails-for-a-hybrid-work-schedule",
+    "title": "In the Office Auto-Reply Emails for a Hybrid Work Schedule - McSweeney’s Internet Tendency",
+    "updatedAt": "2023-11-15T17:03:56Z"
+  },
+  {
     "body": "https://githubnext.com/projects/rtgh/",
     "title": "GitHub Next | Realtime GitHub",
     "updatedAt": "2023-11-10T09:51:52Z"
@@ -1243,10 +1248,5 @@
     "body": "https://blog.jessfraz.com/post/docker-containers-on-the-desktop/",
     "title": "Ramblings from Jessie: Docker Containers on the Desktop",
     "updatedAt": "2021-03-27T16:23:38Z"
-  },
-  {
-    "body": "https://capiche.com/e/email-apps-as-a-remix",
-    "title": "Email is where new software features get invented. | Capiche",
-    "updatedAt": "2021-03-27T14:10:51Z"
   }
 ]

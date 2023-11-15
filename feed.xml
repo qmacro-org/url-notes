@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-11-10T09:51:52Z</updated>
+<updated>2023-11-15T17:03:56Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>In the Office Auto-Reply Emails for a Hybrid Work Schedule - McSweeney’s Internet Tendency</title>
+<link>https://www.mcsweeneys.net/articles/in-the-office-auto-reply-emails-for-a-hybrid-work-schedule</link>
+<updated>2023-11-15T17:03:56Z</updated>
+<summary>https://www.mcsweeneys.net/articles/in-the-office-auto-reply-emails-for-a-hybrid-work-schedule</summary>
+</entry>
 <entry>
 <title>GitHub Next | Realtime GitHub</title>
 <link>https://githubnext.com/projects/rtgh/</link>
@@ -1497,11 +1503,5 @@
 <link>https://blog.jessfraz.com/post/docker-containers-on-the-desktop/</link>
 <updated>2021-03-27T16:23:38Z</updated>
 <summary>https://blog.jessfraz.com/post/docker-containers-on-the-desktop/</summary>
-</entry>
-<entry>
-<title>Email is where new software features get invented. | Capiche</title>
-<link>https://capiche.com/e/email-apps-as-a-remix</link>
-<updated>2021-03-27T14:10:51Z</updated>
-<summary>https://capiche.com/e/email-apps-as-a-remix</summary>
 </entry>
 </feed>
