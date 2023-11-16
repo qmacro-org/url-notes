@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://datagubbe.se/usab2/",
+    "title": "The Decline of Usability: Revisited | datagubbe.se",
+    "updatedAt": "2023-11-16T09:29:57Z"
+  },
+  {
     "body": "https://www.mcsweeneys.net/articles/in-the-office-auto-reply-emails-for-a-hybrid-work-schedule",
     "title": "In the Office Auto-Reply Emails for a Hybrid Work Schedule - McSweeney’s Internet Tendency",
     "updatedAt": "2023-11-15T17:03:56Z"
@@ -1243,10 +1248,5 @@
     "body": "https://news.ycombinator.com/item?id=26620116",
     "title": "The Deno Company | Hacker News",
     "updatedAt": "2021-03-29T15:35:44Z"
-  },
-  {
-    "body": "https://blog.jessfraz.com/post/docker-containers-on-the-desktop/",
-    "title": "Ramblings from Jessie: Docker Containers on the Desktop",
-    "updatedAt": "2021-03-27T16:23:38Z"
   }
 ]

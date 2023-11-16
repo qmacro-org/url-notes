@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-11-15T17:03:56Z</updated>
+<updated>2023-11-16T09:29:57Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>The Decline of Usability: Revisited | datagubbe.se</title>
+<link>https://datagubbe.se/usab2/</link>
+<updated>2023-11-16T09:29:57Z</updated>
+<summary>https://datagubbe.se/usab2/</summary>
+</entry>
 <entry>
 <title>In the Office Auto-Reply Emails for a Hybrid Work Schedule - McSweeney’s Internet Tendency</title>
 <link>https://www.mcsweeneys.net/articles/in-the-office-auto-reply-emails-for-a-hybrid-work-schedule</link>
@@ -1497,11 +1503,5 @@
 <link>https://news.ycombinator.com/item?id=26620116</link>
 <updated>2021-03-29T15:35:44Z</updated>
 <summary>https://news.ycombinator.com/item?id=26620116</summary>
-</entry>
-<entry>
-<title>Ramblings from Jessie: Docker Containers on the Desktop</title>
-<link>https://blog.jessfraz.com/post/docker-containers-on-the-desktop/</link>
-<updated>2021-03-27T16:23:38Z</updated>
-<summary>https://blog.jessfraz.com/post/docker-containers-on-the-desktop/</summary>
 </entry>
 </feed>
