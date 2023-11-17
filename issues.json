@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://alan.norbauer.com/articles/devbox-intro",
+    "title": "Upgrade your Development Environments with Devbox | Alan Norbauer",
+    "updatedAt": "2023-11-17T14:23:09Z"
+  },
+  {
     "body": "https://blog.meain.io/2023/navigating-around-in-shell/",
     "title": "Navigating around in your shell",
     "updatedAt": "2023-11-17T14:16:09Z"
@@ -1243,10 +1248,5 @@
     "body": "http://www.winestockwebdesign.com/Essays/Eternal_Mainframe.html",
     "title": "The Eternal Mainframe",
     "updatedAt": "2021-04-01T11:45:23Z"
-  },
-  {
-    "body": "https://blogs.sap.com/2021/03/30/6-months-using-serverless-faas-environment-on-btp-my-review/",
-    "title": "6 Months using serverless (FaaS) environment on BTP – My Review | SAP Blogs",
-    "updatedAt": "2021-03-30T15:49:34Z"
   }
 ]

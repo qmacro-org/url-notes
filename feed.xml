@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-11-17T14:16:09Z</updated>
+<updated>2023-11-17T14:23:09Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Upgrade your Development Environments with Devbox | Alan Norbauer</title>
+<link>https://alan.norbauer.com/articles/devbox-intro</link>
+<updated>2023-11-17T14:23:09Z</updated>
+<summary>https://alan.norbauer.com/articles/devbox-intro</summary>
+</entry>
 <entry>
 <title>Navigating around in your shell</title>
 <link>https://blog.meain.io/2023/navigating-around-in-shell/</link>
@@ -1497,11 +1503,5 @@
 <link>http://www.winestockwebdesign.com/Essays/Eternal_Mainframe.html</link>
 <updated>2021-04-01T11:45:23Z</updated>
 <summary>http://www.winestockwebdesign.com/Essays/Eternal_Mainframe.html</summary>
-</entry>
-<entry>
-<title>6 Months using serverless (FaaS) environment on BTP – My Review | SAP Blogs</title>
-<link>https://blogs.sap.com/2021/03/30/6-months-using-serverless-faas-environment-on-btp-my-review/</link>
-<updated>2021-03-30T15:49:34Z</updated>
-<summary>https://blogs.sap.com/2021/03/30/6-months-using-serverless-faas-environment-on-btp-my-review/</summary>
 </entry>
 </feed>
