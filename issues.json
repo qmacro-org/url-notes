@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://blog.oddball.tech/how-code-dies/",
+    "title": "The Great Graveyard in the Cloud",
+    "updatedAt": "2023-11-17T14:24:05Z"
+  },
+  {
     "body": "https://alan.norbauer.com/articles/devbox-intro",
     "title": "Upgrade your Development Environments with Devbox | Alan Norbauer",
     "updatedAt": "2023-11-17T14:23:09Z"
@@ -1243,10 +1248,5 @@
     "body": "https://ianthehenry.com/posts/tmux-psa/",
     "title": "tmux lets you select and copy text with your keyboard",
     "updatedAt": "2021-04-02T04:45:44Z"
-  },
-  {
-    "body": "http://www.winestockwebdesign.com/Essays/Eternal_Mainframe.html",
-    "title": "The Eternal Mainframe",
-    "updatedAt": "2021-04-01T11:45:23Z"
   }
 ]

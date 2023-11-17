@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-11-17T14:23:09Z</updated>
+<updated>2023-11-17T14:24:05Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>The Great Graveyard in the Cloud</title>
+<link>https://blog.oddball.tech/how-code-dies/</link>
+<updated>2023-11-17T14:24:05Z</updated>
+<summary>https://blog.oddball.tech/how-code-dies/</summary>
+</entry>
 <entry>
 <title>Upgrade your Development Environments with Devbox | Alan Norbauer</title>
 <link>https://alan.norbauer.com/articles/devbox-intro</link>
@@ -1497,11 +1503,5 @@
 <link>https://ianthehenry.com/posts/tmux-psa/</link>
 <updated>2021-04-02T04:45:44Z</updated>
 <summary>https://ianthehenry.com/posts/tmux-psa/</summary>
-</entry>
-<entry>
-<title>The Eternal Mainframe</title>
-<link>http://www.winestockwebdesign.com/Essays/Eternal_Mainframe.html</link>
-<updated>2021-04-01T11:45:23Z</updated>
-<summary>http://www.winestockwebdesign.com/Essays/Eternal_Mainframe.html</summary>
 </entry>
 </feed>
