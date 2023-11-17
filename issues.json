@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://blog.meain.io/2023/navigating-around-in-shell/",
+    "title": "Navigating around in your shell",
+    "updatedAt": "2023-11-17T14:16:09Z"
+  },
+  {
     "body": "https://datagubbe.se/usab2/",
     "title": "The Decline of Usability: Revisited | datagubbe.se",
     "updatedAt": "2023-11-16T09:29:57Z"
@@ -1243,10 +1248,5 @@
     "body": "https://blogs.sap.com/2021/03/30/6-months-using-serverless-faas-environment-on-btp-my-review/",
     "title": "6 Months using serverless (FaaS) environment on BTP – My Review | SAP Blogs",
     "updatedAt": "2021-03-30T15:49:34Z"
-  },
-  {
-    "body": "https://news.ycombinator.com/item?id=26620116",
-    "title": "The Deno Company | Hacker News",
-    "updatedAt": "2021-03-29T15:35:44Z"
   }
 ]

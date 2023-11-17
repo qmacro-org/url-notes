@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-11-16T09:29:57Z</updated>
+<updated>2023-11-17T14:16:09Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Navigating around in your shell</title>
+<link>https://blog.meain.io/2023/navigating-around-in-shell/</link>
+<updated>2023-11-17T14:16:09Z</updated>
+<summary>https://blog.meain.io/2023/navigating-around-in-shell/</summary>
+</entry>
 <entry>
 <title>The Decline of Usability: Revisited | datagubbe.se</title>
 <link>https://datagubbe.se/usab2/</link>
@@ -1497,11 +1503,5 @@
 <link>https://blogs.sap.com/2021/03/30/6-months-using-serverless-faas-environment-on-btp-my-review/</link>
 <updated>2021-03-30T15:49:34Z</updated>
 <summary>https://blogs.sap.com/2021/03/30/6-months-using-serverless-faas-environment-on-btp-my-review/</summary>
-</entry>
-<entry>
-<title>The Deno Company | Hacker News</title>
-<link>https://news.ycombinator.com/item?id=26620116</link>
-<updated>2021-03-29T15:35:44Z</updated>
-<summary>https://news.ycombinator.com/item?id=26620116</summary>
 </entry>
 </feed>
