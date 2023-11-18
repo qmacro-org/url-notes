@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-11-17T14:24:05Z</updated>
+<updated>2023-11-18T09:51:15Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>garnix | Contextual CLIs</title>
+<link>https://garnix.io/blog/contextual-cli</link>
+<updated>2023-11-18T09:51:15Z</updated>
+<summary>https://garnix.io/blog/contextual-cli</summary>
+</entry>
 <entry>
 <title>The Great Graveyard in the Cloud</title>
 <link>https://blog.oddball.tech/how-code-dies/</link>
@@ -1497,11 +1503,5 @@
 <link>https://www.w3.org/History/1994/WWW/Journals/PhysicsWorld/PW.ascii</link>
 <updated>2021-04-04T08:46:04Z</updated>
 <summary>https://www.w3.org/History/1994/WWW/Journals/PhysicsWorld/PW.ascii</summary>
-</entry>
-<entry>
-<title>tmux lets you select and copy text with your keyboard</title>
-<link>https://ianthehenry.com/posts/tmux-psa/</link>
-<updated>2021-04-02T04:45:44Z</updated>
-<summary>https://ianthehenry.com/posts/tmux-psa/</summary>
 </entry>
 </feed>
