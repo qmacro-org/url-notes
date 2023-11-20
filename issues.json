@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://codemanship.wordpress.com/2023/11/20/the-bluffers-guide-to-the-mythical-man-month/",
+    "title": "The Bluffer’s Guide to The Mythical Man-Month – Codemanship's Blog",
+    "updatedAt": "2023-11-20T11:22:21Z"
+  },
+  {
     "body": "https://michenriksen.com/posts/italic-text-in-alacritty-tmux-neovim/",
     "title": "Italic text in Alacritty, tmux, and Neovim | Michael Henriksen",
     "updatedAt": "2023-11-20T10:32:51Z"
@@ -1243,10 +1248,5 @@
     "body": "https://github.blog/2021-04-05-behind-githubs-new-authentication-token-formats/",
     "title": "Behind GitHub's new authentication token formats - The GitHub Blog",
     "updatedAt": "2021-04-09T14:59:06Z"
-  },
-  {
-    "body": "https://www.hillelwayne.com/post/always-more-history/",
-    "title": "There's Always More History • Hillel Wayne",
-    "updatedAt": "2021-04-09T05:08:23Z"
   }
 ]
