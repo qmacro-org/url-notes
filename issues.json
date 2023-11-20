@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://stackoverflow.com/questions/76034521/docker-log-in-to-local-registry-with-docker-desktop-for-mac",
+    "title": "networking - Docker log in to local registry with Docker Desktop for Mac - Stack Overflow",
+    "updatedAt": "2023-11-20T13:58:23Z"
+  },
+  {
     "body": "https://codemanship.wordpress.com/2023/11/20/the-bluffers-guide-to-the-mythical-man-month/",
     "title": "The Bluffer’s Guide to The Mythical Man-Month – Codemanship's Blog",
     "updatedAt": "2023-11-20T11:22:21Z"
@@ -1243,10 +1248,5 @@
     "body": "https://dwheeler.com/essays/filenames-in-shell.html",
     "title": "Filenames and Pathnames in Shell (bash, dash, ash, ksh, and so on): How to do it Correctly",
     "updatedAt": "2021-04-09T16:33:05Z"
-  },
-  {
-    "body": "https://github.blog/2021-04-05-behind-githubs-new-authentication-token-formats/",
-    "title": "Behind GitHub's new authentication token formats - The GitHub Blog",
-    "updatedAt": "2021-04-09T14:59:06Z"
   }
 ]

@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-11-20T11:22:21Z</updated>
+<updated>2023-11-20T13:58:23Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>networking - Docker log in to local registry with Docker Desktop for Mac - Stack Overflow</title>
+<link>https://stackoverflow.com/questions/76034521/docker-log-in-to-local-registry-with-docker-desktop-for-mac</link>
+<updated>2023-11-20T13:58:23Z</updated>
+<summary>https://stackoverflow.com/questions/76034521/docker-log-in-to-local-registry-with-docker-desktop-for-mac</summary>
+</entry>
 <entry>
 <title>The Bluffer’s Guide to The Mythical Man-Month – Codemanship's Blog</title>
 <link>https://codemanship.wordpress.com/2023/11/20/the-bluffers-guide-to-the-mythical-man-month/</link>
@@ -1497,11 +1503,5 @@
 <link>https://dwheeler.com/essays/filenames-in-shell.html</link>
 <updated>2021-04-09T16:33:05Z</updated>
 <summary>https://dwheeler.com/essays/filenames-in-shell.html</summary>
-</entry>
-<entry>
-<title>Behind GitHub's new authentication token formats - The GitHub Blog</title>
-<link>https://github.blog/2021-04-05-behind-githubs-new-authentication-token-formats/</link>
-<updated>2021-04-09T14:59:06Z</updated>
-<summary>https://github.blog/2021-04-05-behind-githubs-new-authentication-token-formats/</summary>
 </entry>
 </feed>
