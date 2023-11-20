@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-11-20T13:58:23Z</updated>
+<updated>2023-11-20T17:02:33Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>The Rise, Fall, and Surprising Survival of dBase</title>
+<link>https://anotherboringtopic.substack.com/p/the-rise-fall-and-surprising-survival-e70</link>
+<updated>2023-11-20T17:02:33Z</updated>
+<summary>https://anotherboringtopic.substack.com/p/the-rise-fall-and-surprising-survival-e70</summary>
+</entry>
 <entry>
 <title>networking - Docker log in to local registry with Docker Desktop for Mac - Stack Overflow</title>
 <link>https://stackoverflow.com/questions/76034521/docker-log-in-to-local-registry-with-docker-desktop-for-mac</link>
@@ -1497,11 +1503,5 @@
 <link>https://dwheeler.com/essays/shellshock.html</link>
 <updated>2021-04-09T16:34:39Z</updated>
 <summary>https://dwheeler.com/essays/shellshock.html</summary>
-</entry>
-<entry>
-<title>Filenames and Pathnames in Shell (bash, dash, ash, ksh, and so on): How to do it Correctly</title>
-<link>https://dwheeler.com/essays/filenames-in-shell.html</link>
-<updated>2021-04-09T16:33:05Z</updated>
-<summary>https://dwheeler.com/essays/filenames-in-shell.html</summary>
 </entry>
 </feed>

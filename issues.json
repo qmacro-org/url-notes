@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://anotherboringtopic.substack.com/p/the-rise-fall-and-surprising-survival-e70",
+    "title": "The Rise, Fall, and Surprising Survival of dBase",
+    "updatedAt": "2023-11-20T17:02:33Z"
+  },
+  {
     "body": "https://stackoverflow.com/questions/76034521/docker-log-in-to-local-registry-with-docker-desktop-for-mac",
     "title": "networking - Docker log in to local registry with Docker Desktop for Mac - Stack Overflow",
     "updatedAt": "2023-11-20T13:58:23Z"
@@ -1243,10 +1248,5 @@
     "body": "https://dwheeler.com/essays/shellshock.html",
     "title": "Shellshock",
     "updatedAt": "2021-04-09T16:34:39Z"
-  },
-  {
-    "body": "https://dwheeler.com/essays/filenames-in-shell.html",
-    "title": "Filenames and Pathnames in Shell (bash, dash, ash, ksh, and so on): How to do it Correctly",
-    "updatedAt": "2021-04-09T16:33:05Z"
   }
 ]
