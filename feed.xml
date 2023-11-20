@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-11-18T12:10:33Z</updated>
+<updated>2023-11-20T09:05:07Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>&lt;/> htmx ~ Why I Tend Not To Use Content Negotiation</title>
+<link>https://htmx.org/essays/why-tend-not-to-use-content-negotiation/</link>
+<updated>2023-11-20T09:05:07Z</updated>
+<summary>https://htmx.org/essays/why-tend-not-to-use-content-negotiation/</summary>
+</entry>
 <entry>
 <title>(9) Breaking Point - A Kaleidoscope of Focus | LinkedIn</title>
 <link>https://www.linkedin.com/pulse/breaking-point-kaleidoscope-focus-gareth-ryan-6k0ye%3FtrackingId=D4TxIm%252BTThO0BF6WOL2NnQ%253D%253D/?trackingId=D4TxIm%2BTThO0BF6WOL2NnQ%3D%3D</link>
@@ -1497,11 +1503,5 @@
 <link>https://www.eff.org/deeplinks/2021/04/victory-fair-use-supreme-court-reverses-federal-circuit-oracle-v-google</link>
 <updated>2021-04-06T07:44:30Z</updated>
 <summary>https://www.eff.org/deeplinks/2021/04/victory-fair-use-supreme-court-reverses-federal-circuit-oracle-v-google</summary>
-</entry>
-<entry>
-<title>How we scaled the GitHub API with a sharded, replicated rate limiter in Redis - The GitHub Blog</title>
-<link>https://github.blog/2021-04-05-how-we-scaled-github-api-sharded-replicated-rate-limiter-redis/</link>
-<updated>2021-04-05T16:58:05Z</updated>
-<summary>https://github.blog/2021-04-05-how-we-scaled-github-api-sharded-replicated-rate-limiter-redis/</summary>
 </entry>
 </feed>
