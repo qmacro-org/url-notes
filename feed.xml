@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-11-20T09:05:07Z</updated>
+<updated>2023-11-20T10:32:51Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Italic text in Alacritty, tmux, and Neovim | Michael Henriksen</title>
+<link>https://michenriksen.com/posts/italic-text-in-alacritty-tmux-neovim/</link>
+<updated>2023-11-20T10:32:51Z</updated>
+<summary>https://michenriksen.com/posts/italic-text-in-alacritty-tmux-neovim/</summary>
+</entry>
 <entry>
 <title>&lt;/> htmx ~ Why I Tend Not To Use Content Negotiation</title>
 <link>https://htmx.org/essays/why-tend-not-to-use-content-negotiation/</link>
@@ -1497,11 +1503,5 @@
 <link>https://www.hillelwayne.com/post/always-more-history/</link>
 <updated>2021-04-09T05:08:23Z</updated>
 <summary>https://www.hillelwayne.com/post/always-more-history/</summary>
-</entry>
-<entry>
-<title>Victory for Fair Use: The Supreme Court Reverses the Federal Circuit in Oracle v. Google | Electronic Frontier Foundation</title>
-<link>https://www.eff.org/deeplinks/2021/04/victory-fair-use-supreme-court-reverses-federal-circuit-oracle-v-google</link>
-<updated>2021-04-06T07:44:30Z</updated>
-<summary>https://www.eff.org/deeplinks/2021/04/victory-fair-use-supreme-court-reverses-federal-circuit-oracle-v-google</summary>
 </entry>
 </feed>
