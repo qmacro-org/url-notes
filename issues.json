@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://computer.rip/2023-11-25-the-curse-of-docker.html",
+    "title": "2023-11-25 the curse of docker",
+    "updatedAt": "2023-11-27T08:26:11Z"
+  },
+  {
     "body": "https://anotherboringtopic.substack.com/p/the-rise-fall-and-surprising-survival-e70",
     "title": "The Rise, Fall, and Surprising Survival of dBase",
     "updatedAt": "2023-11-20T17:02:33Z"
@@ -1243,10 +1248,5 @@
     "body": "https://if50.substack.com/p/1984-the-hitchhikers-guide-to-the-galaxy",
     "title": "1984: The Hitchhiker's Guide to the Galaxy - 50 Years of Text Games",
     "updatedAt": "2021-04-09T16:35:29Z"
-  },
-  {
-    "body": "https://dwheeler.com/essays/shellshock.html",
-    "title": "Shellshock",
-    "updatedAt": "2021-04-09T16:34:39Z"
   }
 ]

@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-11-20T17:02:33Z</updated>
+<updated>2023-11-27T08:26:11Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>2023-11-25 the curse of docker</title>
+<link>https://computer.rip/2023-11-25-the-curse-of-docker.html</link>
+<updated>2023-11-27T08:26:11Z</updated>
+<summary>https://computer.rip/2023-11-25-the-curse-of-docker.html</summary>
+</entry>
 <entry>
 <title>The Rise, Fall, and Surprising Survival of dBase</title>
 <link>https://anotherboringtopic.substack.com/p/the-rise-fall-and-surprising-survival-e70</link>
@@ -1497,11 +1503,5 @@
 <link>https://if50.substack.com/p/1984-the-hitchhikers-guide-to-the-galaxy</link>
 <updated>2021-04-09T16:35:29Z</updated>
 <summary>https://if50.substack.com/p/1984-the-hitchhikers-guide-to-the-galaxy</summary>
-</entry>
-<entry>
-<title>Shellshock</title>
-<link>https://dwheeler.com/essays/shellshock.html</link>
-<updated>2021-04-09T16:34:39Z</updated>
-<summary>https://dwheeler.com/essays/shellshock.html</summary>
 </entry>
 </feed>
