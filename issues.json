@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://retroviator.com/pidp-11/",
+    "title": "PiDP-11 – Retro Viator",
+    "updatedAt": "2023-11-28T16:27:20Z"
+  },
+  {
     "body": "https://computer.rip/2023-11-25-the-curse-of-docker.html",
     "title": "2023-11-25 the curse of docker",
     "updatedAt": "2023-11-27T08:26:11Z"
@@ -1243,10 +1248,5 @@
     "body": "https://www.filfre.net/2013/11/douglas-adams/",
     "title": "» Douglas Adams The Digital Antiquarian",
     "updatedAt": "2021-04-09T16:35:59Z"
-  },
-  {
-    "body": "https://if50.substack.com/p/1984-the-hitchhikers-guide-to-the-galaxy",
-    "title": "1984: The Hitchhiker's Guide to the Galaxy - 50 Years of Text Games",
-    "updatedAt": "2021-04-09T16:35:29Z"
   }
 ]

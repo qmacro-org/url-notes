@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-11-27T08:26:11Z</updated>
+<updated>2023-11-28T16:27:20Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>PiDP-11 – Retro Viator</title>
+<link>https://retroviator.com/pidp-11/</link>
+<updated>2023-11-28T16:27:20Z</updated>
+<summary>https://retroviator.com/pidp-11/</summary>
+</entry>
 <entry>
 <title>2023-11-25 the curse of docker</title>
 <link>https://computer.rip/2023-11-25-the-curse-of-docker.html</link>
@@ -1497,11 +1503,5 @@
 <link>https://www.filfre.net/2013/11/douglas-adams/</link>
 <updated>2021-04-09T16:35:59Z</updated>
 <summary>https://www.filfre.net/2013/11/douglas-adams/</summary>
-</entry>
-<entry>
-<title>1984: The Hitchhiker's Guide to the Galaxy - 50 Years of Text Games</title>
-<link>https://if50.substack.com/p/1984-the-hitchhikers-guide-to-the-galaxy</link>
-<updated>2021-04-09T16:35:29Z</updated>
-<summary>https://if50.substack.com/p/1984-the-hitchhikers-guide-to-the-galaxy</summary>
 </entry>
 </feed>
