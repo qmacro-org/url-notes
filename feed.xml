@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-11-28T16:27:20Z</updated>
+<updated>2023-11-30T18:06:10Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Writing useful terminal TUI on Linux with dialog and jq - Fedora Magazine</title>
+<link>https://fedoramagazine.org/writing-useful-terminal-tui-on-linux-with-dialog-and-jq/</link>
+<updated>2023-11-30T18:06:10Z</updated>
+<summary>https://fedoramagazine.org/writing-useful-terminal-tui-on-linux-with-dialog-and-jq/</summary>
+</entry>
 <entry>
 <title>PiDP-11 – Retro Viator</title>
 <link>https://retroviator.com/pidp-11/</link>
@@ -1497,11 +1503,5 @@
 <link>https://coda.io/@atc/analyze-your-peloton-workout-stats-with-real-time-updates</link>
 <updated>2021-04-11T16:28:38Z</updated>
 <summary>https://coda.io/@atc/analyze-your-peloton-workout-stats-with-real-time-updates</summary>
-</entry>
-<entry>
-<title>» Douglas Adams The Digital Antiquarian</title>
-<link>https://www.filfre.net/2013/11/douglas-adams/</link>
-<updated>2021-04-09T16:35:59Z</updated>
-<summary>https://www.filfre.net/2013/11/douglas-adams/</summary>
 </entry>
 </feed>
