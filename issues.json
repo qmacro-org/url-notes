@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://vonheikemen.github.io/devlog/tools/configuring-neovim-using-lua/",
+    "title": "Everything you need to know to configure neovim using lua | Devlog",
+    "updatedAt": "2023-12-01T13:40:40Z"
+  },
+  {
     "body": "https://fedoramagazine.org/writing-useful-terminal-tui-on-linux-with-dialog-and-jq/",
     "title": "Writing useful terminal TUI on Linux with dialog and jq - Fedora Magazine",
     "updatedAt": "2023-11-30T18:06:10Z"
@@ -1243,10 +1248,5 @@
     "body": "https://statico.github.io/vim3.html",
     "title": "Vim After 15 Years | Ian Langworth’s Things of Variable Interest",
     "updatedAt": "2021-04-12T08:34:17Z"
-  },
-  {
-    "body": "https://coda.io/@atc/analyze-your-peloton-workout-stats-with-real-time-updates",
-    "title": "Analyze your Peloton workout stats with real-time updates · Analyze your Peloton workout stats with real-time updates (template and scripts)",
-    "updatedAt": "2021-04-11T16:28:38Z"
   }
 ]

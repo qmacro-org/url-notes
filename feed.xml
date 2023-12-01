@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-11-30T18:06:10Z</updated>
+<updated>2023-12-01T13:40:40Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Everything you need to know to configure neovim using lua | Devlog</title>
+<link>https://vonheikemen.github.io/devlog/tools/configuring-neovim-using-lua/</link>
+<updated>2023-12-01T13:40:40Z</updated>
+<summary>https://vonheikemen.github.io/devlog/tools/configuring-neovim-using-lua/</summary>
+</entry>
 <entry>
 <title>Writing useful terminal TUI on Linux with dialog and jq - Fedora Magazine</title>
 <link>https://fedoramagazine.org/writing-useful-terminal-tui-on-linux-with-dialog-and-jq/</link>
@@ -1497,11 +1503,5 @@
 <link>https://statico.github.io/vim3.html</link>
 <updated>2021-04-12T08:34:17Z</updated>
 <summary>https://statico.github.io/vim3.html</summary>
-</entry>
-<entry>
-<title>Analyze your Peloton workout stats with real-time updates · Analyze your Peloton workout stats with real-time updates (template and scripts)</title>
-<link>https://coda.io/@atc/analyze-your-peloton-workout-stats-with-real-time-updates</link>
-<updated>2021-04-11T16:28:38Z</updated>
-<summary>https://coda.io/@atc/analyze-your-peloton-workout-stats-with-real-time-updates</summary>
 </entry>
 </feed>
