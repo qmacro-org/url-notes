@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-12-01T13:40:40Z</updated>
+<updated>2023-12-03T11:47:14Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>A Personal History of APL</title>
+<link>https://ed-thelen.org/comp-hist/APL-hist.html</link>
+<updated>2023-12-03T11:47:14Z</updated>
+<summary>https://ed-thelen.org/comp-hist/APL-hist.html</summary>
+</entry>
 <entry>
 <title>Everything you need to know to configure neovim using lua | Devlog</title>
 <link>https://vonheikemen.github.io/devlog/tools/configuring-neovim-using-lua/</link>
@@ -1497,11 +1503,5 @@
 <link>https://oncletom.io/2016/pipelining-http/</link>
 <updated>2021-04-13T16:53:17Z</updated>
 <summary>https://oncletom.io/2016/pipelining-http/</summary>
-</entry>
-<entry>
-<title>Vim After 15 Years | Ian Langworth’s Things of Variable Interest</title>
-<link>https://statico.github.io/vim3.html</link>
-<updated>2021-04-12T08:34:17Z</updated>
-<summary>https://statico.github.io/vim3.html</summary>
 </entry>
 </feed>
