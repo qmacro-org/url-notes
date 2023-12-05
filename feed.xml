@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-12-05T09:15:18Z</updated>
+<updated>2023-12-05T14:03:27Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Email in the terminal like it's 1993</title>
+<link>https://myconscious.stream/blog/Email-in-the-terminal-like-it's-1993/</link>
+<updated>2023-12-05T14:03:27Z</updated>
+<summary>https://myconscious.stream/blog/Email-in-the-terminal-like-it's-1993/</summary>
+</entry>
 <entry>
 <title>Laurence Tratt: How Often Should We Sharpen Our Tools?</title>
 <link>https://tratt.net/laurie/blog/2023/how_often_should_we_sharpen_our_tools.html</link>
@@ -1497,11 +1503,5 @@
 <link>https://github.blog/2021-03-10-measuring-enterprise-developer-productivity/</link>
 <updated>2021-04-14T10:50:35Z</updated>
 <summary>https://github.blog/2021-03-10-measuring-enterprise-developer-productivity/</summary>
-</entry>
-<entry>
-<title>4 things you didn’t know you could do with GitHub Actions - The GitHub Blog</title>
-<link>https://github.blog/2021-03-04-4-things-you-didnt-know-you-could-do-with-github-actions/</link>
-<updated>2021-04-14T10:50:25Z</updated>
-<summary>https://github.blog/2021-03-04-4-things-you-didnt-know-you-could-do-with-github-actions/</summary>
 </entry>
 </feed>
