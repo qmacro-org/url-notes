@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://asdf-vm.com/guide/introduction.html",
+    "title": "Introduction | asdf",
+    "updatedAt": "2023-12-05T14:27:26Z"
+  },
+  {
     "body": "https://myconscious.stream/blog/Email-in-the-terminal-like-it's-1993/",
     "title": "Email in the terminal like it's 1993",
     "updatedAt": "2023-12-05T14:03:27Z"
@@ -1243,10 +1248,5 @@
     "body": "https://www.aaron-powell.com/posts/2021-01-22-extending-the-github-cli/",
     "title": "Extending the GitHub CLI",
     "updatedAt": "2021-04-17T15:30:40Z"
-  },
-  {
-    "body": "https://github.blog/2021-03-10-measuring-enterprise-developer-productivity/",
-    "title": "Measuring enterprise developer productivity - The GitHub Blog",
-    "updatedAt": "2021-04-14T10:50:35Z"
   }
 ]

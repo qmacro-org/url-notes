@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-12-05T14:03:27Z</updated>
+<updated>2023-12-05T14:27:26Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Introduction | asdf</title>
+<link>https://asdf-vm.com/guide/introduction.html</link>
+<updated>2023-12-05T14:27:26Z</updated>
+<summary>https://asdf-vm.com/guide/introduction.html</summary>
+</entry>
 <entry>
 <title>Email in the terminal like it's 1993</title>
 <link>https://myconscious.stream/blog/Email-in-the-terminal-like-it's-1993/</link>
@@ -1497,11 +1503,5 @@
 <link>https://www.aaron-powell.com/posts/2021-01-22-extending-the-github-cli/</link>
 <updated>2021-04-17T15:30:40Z</updated>
 <summary>https://www.aaron-powell.com/posts/2021-01-22-extending-the-github-cli/</summary>
-</entry>
-<entry>
-<title>Measuring enterprise developer productivity - The GitHub Blog</title>
-<link>https://github.blog/2021-03-10-measuring-enterprise-developer-productivity/</link>
-<updated>2021-04-14T10:50:35Z</updated>
-<summary>https://github.blog/2021-03-10-measuring-enterprise-developer-productivity/</summary>
 </entry>
 </feed>
