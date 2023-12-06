@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-12-05T14:27:26Z</updated>
+<updated>2023-12-06T10:25:52Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Why developers should care about credential-types for xsuaa? | SAP Blogs</title>
+<link>https://blogs.sap.com/2022/07/05/why-developers-should-care-about-credential-types-for-xsuaa/</link>
+<updated>2023-12-06T10:25:52Z</updated>
+<summary>https://blogs.sap.com/2022/07/05/why-developers-should-care-about-credential-types-for-xsuaa/</summary>
+</entry>
 <entry>
 <title>Introduction | asdf</title>
 <link>https://asdf-vm.com/guide/introduction.html</link>
@@ -1497,11 +1503,5 @@
 <link>https://www.aaron-powell.com/posts/2021-03-08-your-open-source-project-needs-a-dev-container-heres-why/</link>
 <updated>2021-04-17T15:31:30Z</updated>
 <summary>https://www.aaron-powell.com/posts/2021-03-08-your-open-source-project-needs-a-dev-container-heres-why/</summary>
-</entry>
-<entry>
-<title>Extending the GitHub CLI</title>
-<link>https://www.aaron-powell.com/posts/2021-01-22-extending-the-github-cli/</link>
-<updated>2021-04-17T15:30:40Z</updated>
-<summary>https://www.aaron-powell.com/posts/2021-01-22-extending-the-github-cli/</summary>
 </entry>
 </feed>

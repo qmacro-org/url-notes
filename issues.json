@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://blogs.sap.com/2022/07/05/why-developers-should-care-about-credential-types-for-xsuaa/",
+    "title": "Why developers should care about credential-types for xsuaa? | SAP Blogs",
+    "updatedAt": "2023-12-06T10:25:52Z"
+  },
+  {
     "body": "https://asdf-vm.com/guide/introduction.html",
     "title": "Introduction | asdf",
     "updatedAt": "2023-12-05T14:27:26Z"
@@ -1243,10 +1248,5 @@
     "body": "https://www.aaron-powell.com/posts/2021-03-08-your-open-source-project-needs-a-dev-container-heres-why/",
     "title": "Your Open Source Project Needs a devcontainer - Here's Why",
     "updatedAt": "2021-04-17T15:31:30Z"
-  },
-  {
-    "body": "https://www.aaron-powell.com/posts/2021-01-22-extending-the-github-cli/",
-    "title": "Extending the GitHub CLI",
-    "updatedAt": "2021-04-17T15:30:40Z"
   }
 ]
