@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-12-06T10:25:52Z</updated>
+<updated>2023-12-13T13:41:50Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Reclaiming the Web with a Personal Reader</title>
+<link>https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/</link>
+<updated>2023-12-13T13:41:50Z</updated>
+<summary>https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/</summary>
+</entry>
 <entry>
 <title>Why developers should care about credential-types for xsuaa? | SAP Blogs</title>
 <link>https://blogs.sap.com/2022/07/05/why-developers-should-care-about-credential-types-for-xsuaa/</link>
@@ -1497,11 +1503,5 @@
 <link>https://www.infoq.com/articles/event-driven-finding-seams/?utm_campaign=infoq_content&amp;utm_source=twitter&amp;utm_medium=feed&amp;utm_term=Cloud</link>
 <updated>2021-04-19T19:32:16Z</updated>
 <summary>https://www.infoq.com/articles/event-driven-finding-seams/?utm_campaign=infoq_content&amp;utm_source=twitter&amp;utm_medium=feed&amp;utm_term=Cloud</summary>
-</entry>
-<entry>
-<title>Your Open Source Project Needs a devcontainer - Here's Why</title>
-<link>https://www.aaron-powell.com/posts/2021-03-08-your-open-source-project-needs-a-dev-container-heres-why/</link>
-<updated>2021-04-17T15:31:30Z</updated>
-<summary>https://www.aaron-powell.com/posts/2021-03-08-your-open-source-project-needs-a-dev-container-heres-why/</summary>
 </entry>
 </feed>
