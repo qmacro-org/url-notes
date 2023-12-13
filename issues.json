@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://777.tf/blog/2023/12/08/using-fido-keys/",
+    "title": "Jae's Website - Using FIDO keys",
+    "updatedAt": "2023-12-13T14:05:42Z"
+  },
+  {
     "body": "https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/",
     "title": "Reclaiming the Web with a Personal Reader",
     "updatedAt": "2023-12-13T13:41:50Z"
@@ -1243,10 +1248,5 @@
     "body": "https://cmpct.info/~calvin/Articles/Network10/Network10.htm",
     "title": "Network 10",
     "updatedAt": "2021-04-20T06:22:33Z"
-  },
-  {
-    "body": "https://www.infoq.com/articles/event-driven-finding-seams/?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=Cloud",
-    "title": "From Monolith to Event-Driven: Finding Seams in Your Future Architecture",
-    "updatedAt": "2021-04-19T19:32:16Z"
   }
 ]
