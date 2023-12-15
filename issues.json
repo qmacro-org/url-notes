@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://retool.com/pipes",
+    "title": "Pipe Dreams: The life and times of Yahoo Pipes",
+    "updatedAt": "2023-12-15T12:09:13Z"
+  },
+  {
     "body": "https://777.tf/blog/2023/12/08/using-fido-keys/",
     "title": "Jae's Website - Using FIDO keys",
     "updatedAt": "2023-12-13T14:05:42Z"
@@ -15,19 +20,9 @@
     "updatedAt": "2023-12-06T10:25:52Z"
   },
   {
-    "body": "https://asdf-vm.com/guide/introduction.html",
-    "title": "Introduction | asdf",
-    "updatedAt": "2023-12-05T14:27:26Z"
-  },
-  {
     "body": "https://myconscious.stream/blog/Email-in-the-terminal-like-it's-1993/",
     "title": "Email in the terminal like it's 1993",
     "updatedAt": "2023-12-05T14:03:27Z"
-  },
-  {
-    "body": "https://tratt.net/laurie/blog/2023/how_often_should_we_sharpen_our_tools.html",
-    "title": "Laurence Tratt: How Often Should We Sharpen Our Tools?",
-    "updatedAt": "2023-12-05T09:15:18Z"
   },
   {
     "body": "https://ed-thelen.org/comp-hist/APL-hist.html",
@@ -1248,5 +1243,10 @@
     "body": "https://cmpct.info/~calvin/Articles/Network10/Network10.htm",
     "title": "Network 10",
     "updatedAt": "2021-04-20T06:22:33Z"
+  },
+  {
+    "body": "https://www.infoq.com/articles/event-driven-finding-seams/?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=Cloud",
+    "title": "From Monolith to Event-Driven: Finding Seams in Your Future Architecture",
+    "updatedAt": "2021-04-19T19:32:16Z"
   }
 ]

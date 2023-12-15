@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-12-13T14:05:42Z</updated>
+<updated>2023-12-15T12:09:13Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Pipe Dreams: The life and times of Yahoo Pipes</title>
+<link>https://retool.com/pipes</link>
+<updated>2023-12-15T12:09:13Z</updated>
+<summary>https://retool.com/pipes</summary>
+</entry>
 <entry>
 <title>Jae's Website - Using FIDO keys</title>
 <link>https://777.tf/blog/2023/12/08/using-fido-keys/</link>
@@ -21,22 +27,10 @@
 <summary>https://blogs.sap.com/2022/07/05/why-developers-should-care-about-credential-types-for-xsuaa/</summary>
 </entry>
 <entry>
-<title>Introduction | asdf</title>
-<link>https://asdf-vm.com/guide/introduction.html</link>
-<updated>2023-12-05T14:27:26Z</updated>
-<summary>https://asdf-vm.com/guide/introduction.html</summary>
-</entry>
-<entry>
 <title>Email in the terminal like it's 1993</title>
 <link>https://myconscious.stream/blog/Email-in-the-terminal-like-it's-1993/</link>
 <updated>2023-12-05T14:03:27Z</updated>
 <summary>https://myconscious.stream/blog/Email-in-the-terminal-like-it's-1993/</summary>
-</entry>
-<entry>
-<title>Laurence Tratt: How Often Should We Sharpen Our Tools?</title>
-<link>https://tratt.net/laurie/blog/2023/how_often_should_we_sharpen_our_tools.html</link>
-<updated>2023-12-05T09:15:18Z</updated>
-<summary>https://tratt.net/laurie/blog/2023/how_often_should_we_sharpen_our_tools.html</summary>
 </entry>
 <entry>
 <title>A Personal History of APL</title>
@@ -1503,5 +1497,11 @@
 <link>https://cmpct.info/~calvin/Articles/Network10/Network10.htm</link>
 <updated>2021-04-20T06:22:33Z</updated>
 <summary>https://cmpct.info/~calvin/Articles/Network10/Network10.htm</summary>
+</entry>
+<entry>
+<title>From Monolith to Event-Driven: Finding Seams in Your Future Architecture</title>
+<link>https://www.infoq.com/articles/event-driven-finding-seams/?utm_campaign=infoq_content&amp;utm_source=twitter&amp;utm_medium=feed&amp;utm_term=Cloud</link>
+<updated>2021-04-19T19:32:16Z</updated>
+<summary>https://www.infoq.com/articles/event-driven-finding-seams/?utm_campaign=infoq_content&amp;utm_source=twitter&amp;utm_medium=feed&amp;utm_term=Cloud</summary>
 </entry>
 </feed>
