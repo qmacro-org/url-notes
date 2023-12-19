@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-12-15T12:09:13Z</updated>
+<updated>2023-12-19T10:25:14Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>ktock/buildg: Interactive debugger for Dockerfile, with support for IDEs (VS Code, Emacs, Neovim, etc.)</title>
+<link>https://github.com/ktock/buildg</link>
+<updated>2023-12-19T10:25:14Z</updated>
+<summary>https://github.com/ktock/buildg</summary>
+</entry>
 <entry>
 <title>Pipe Dreams: The life and times of Yahoo Pipes</title>
 <link>https://retool.com/pipes</link>
@@ -1497,11 +1503,5 @@
 <link>https://cmpct.info/~calvin/Articles/Network10/Network10.htm</link>
 <updated>2021-04-20T06:22:33Z</updated>
 <summary>https://cmpct.info/~calvin/Articles/Network10/Network10.htm</summary>
-</entry>
-<entry>
-<title>From Monolith to Event-Driven: Finding Seams in Your Future Architecture</title>
-<link>https://www.infoq.com/articles/event-driven-finding-seams/?utm_campaign=infoq_content&amp;utm_source=twitter&amp;utm_medium=feed&amp;utm_term=Cloud</link>
-<updated>2021-04-19T19:32:16Z</updated>
-<summary>https://www.infoq.com/articles/event-driven-finding-seams/?utm_campaign=infoq_content&amp;utm_source=twitter&amp;utm_medium=feed&amp;utm_term=Cloud</summary>
 </entry>
 </feed>
