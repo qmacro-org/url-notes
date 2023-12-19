@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-12-19T10:25:14Z</updated>
+<updated>2023-12-19T13:35:20Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Here’s why the fediverse is the future of social networks, and the web - The Verge</title>
+<link>https://www.theverge.com/23990974/social-media-2023-fediverse-mastodon-threads-activitypub</link>
+<updated>2023-12-19T13:35:20Z</updated>
+<summary>https://www.theverge.com/23990974/social-media-2023-fediverse-mastodon-threads-activitypub</summary>
+</entry>
 <entry>
 <title>ktock/buildg: Interactive debugger for Dockerfile, with support for IDEs (VS Code, Emacs, Neovim, etc.)</title>
 <link>https://github.com/ktock/buildg</link>
@@ -1497,11 +1503,5 @@
 <link>https://earthly.dev/blog/brown-green-language/ - via Max Wessel</link>
 <updated>2021-04-23T05:08:07Z</updated>
 <summary>https://earthly.dev/blog/brown-green-language/ - via Max Wessel</summary>
-</entry>
-<entry>
-<title>Network 10</title>
-<link>https://cmpct.info/~calvin/Articles/Network10/Network10.htm</link>
-<updated>2021-04-20T06:22:33Z</updated>
-<summary>https://cmpct.info/~calvin/Articles/Network10/Network10.htm</summary>
 </entry>
 </feed>

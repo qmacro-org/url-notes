@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://www.theverge.com/23990974/social-media-2023-fediverse-mastodon-threads-activitypub",
+    "title": "Here’s why the fediverse is the future of social networks, and the web - The Verge",
+    "updatedAt": "2023-12-19T13:35:20Z"
+  },
+  {
     "body": "https://github.com/ktock/buildg",
     "title": "ktock/buildg: Interactive debugger for Dockerfile, with support for IDEs (VS Code, Emacs, Neovim, etc.)",
     "updatedAt": "2023-12-19T10:25:14Z"
@@ -1243,10 +1248,5 @@
     "body": "https://earthly.dev/blog/brown-green-language/ - via Max Wessel",
     "title": "Green Vs. Brown Programming Languages - Earthly Blog",
     "updatedAt": "2021-04-23T05:08:07Z"
-  },
-  {
-    "body": "https://cmpct.info/~calvin/Articles/Network10/Network10.htm",
-    "title": "Network 10",
-    "updatedAt": "2021-04-20T06:22:33Z"
   }
 ]
