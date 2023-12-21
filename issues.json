@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://www.webdesignmuseum.org/web-design-history",
+    "title": "Web Design History - Web Design Museum",
+    "updatedAt": "2023-12-21T14:41:07Z"
+  },
+  {
     "body": "https://www.theverge.com/23990974/social-media-2023-fediverse-mastodon-threads-activitypub",
     "title": "Here’s why the fediverse is the future of social networks, and the web - The Verge",
     "updatedAt": "2023-12-19T13:35:20Z"
@@ -1243,10 +1248,5 @@
     "body": "https://goodapi.co/blog/rest-vs-graphql",
     "title": "REST vs. GraphQL: A Critical Review",
     "updatedAt": "2021-04-23T13:28:00Z"
-  },
-  {
-    "body": "https://earthly.dev/blog/brown-green-language/ - via Max Wessel",
-    "title": "Green Vs. Brown Programming Languages - Earthly Blog",
-    "updatedAt": "2021-04-23T05:08:07Z"
   }
 ]
