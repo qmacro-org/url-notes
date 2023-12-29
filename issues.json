@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://en.wikipedia.org/wiki/Raft_(algorithm)",
+    "title": "Raft (algorithm) - Wikipedia",
+    "updatedAt": "2023-12-29T11:53:51Z"
+  },
+  {
     "body": "https://www.webdesignmuseum.org/web-design-history",
     "title": "Web Design History - Web Design Museum",
     "updatedAt": "2023-12-21T14:41:07Z"
@@ -1243,10 +1248,5 @@
     "body": "https://11sigma.com/blog/2021/04/26/yaml-is-more-than-json-without-brackets-part-1/",
     "title": "YAML is more than JSON without brackets (part 1) - 11Sigma",
     "updatedAt": "2021-04-28T04:36:52Z"
-  },
-  {
-    "body": "https://goodapi.co/blog/rest-vs-graphql",
-    "title": "REST vs. GraphQL: A Critical Review",
-    "updatedAt": "2021-04-23T13:28:00Z"
   }
 ]
