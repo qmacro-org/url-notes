@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2023-12-29T11:53:51Z</updated>
+<updated>2024-01-04T11:22:12Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>How to SSH into a Docker container · Tailscale</title>
+<link>https://tailscale.com/learn/ssh-into-docker-container</link>
+<updated>2024-01-04T11:22:12Z</updated>
+<summary>https://tailscale.com/learn/ssh-into-docker-container</summary>
+</entry>
 <entry>
 <title>Raft (algorithm) - Wikipedia</title>
 <link>https://en.wikipedia.org/wiki/Raft_(algorithm)</link>
@@ -1497,11 +1503,5 @@
 <link>https://seb.jambor.dev/posts/cd-is-not-a-program/</link>
 <updated>2021-04-29T12:58:03Z</updated>
 <summary>https://seb.jambor.dev/posts/cd-is-not-a-program/</summary>
-</entry>
-<entry>
-<title>YAML is more than JSON without brackets (part 1) - 11Sigma</title>
-<link>https://11sigma.com/blog/2021/04/26/yaml-is-more-than-json-without-brackets-part-1/</link>
-<updated>2021-04-28T04:36:52Z</updated>
-<summary>https://11sigma.com/blog/2021/04/26/yaml-is-more-than-json-without-brackets-part-1/</summary>
 </entry>
 </feed>
