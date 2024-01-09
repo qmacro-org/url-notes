@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-01-04T11:22:12Z</updated>
+<updated>2024-01-09T11:57:34Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>It is spelled “URl” – Terence Eden’s Blog</title>
+<link>https://shkspr.mobi/blog/2020/03/it-is-spelled-url/</link>
+<updated>2024-01-09T11:57:34Z</updated>
+<summary>https://shkspr.mobi/blog/2020/03/it-is-spelled-url/</summary>
+</entry>
 <entry>
 <title>How to SSH into a Docker container · Tailscale</title>
 <link>https://tailscale.com/learn/ssh-into-docker-container</link>
@@ -1497,11 +1503,5 @@
 <link>https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/</link>
 <updated>2021-05-01T17:04:40Z</updated>
 <summary>https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/</summary>
-</entry>
-<entry>
-<title>cd is not a program - Sebastian Jambor's blog</title>
-<link>https://seb.jambor.dev/posts/cd-is-not-a-program/</link>
-<updated>2021-04-29T12:58:03Z</updated>
-<summary>https://seb.jambor.dev/posts/cd-is-not-a-program/</summary>
 </entry>
 </feed>

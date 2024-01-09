@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://shkspr.mobi/blog/2020/03/it-is-spelled-url/",
+    "title": "It is spelled “URl” – Terence Eden’s Blog",
+    "updatedAt": "2024-01-09T11:57:34Z"
+  },
+  {
     "body": "https://tailscale.com/learn/ssh-into-docker-container",
     "title": "How to SSH into a Docker container · Tailscale",
     "updatedAt": "2024-01-04T11:22:12Z"
@@ -1243,10 +1248,5 @@
     "body": "https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/",
     "title": "Why I Prefer Makefiles Over package.json Scripts for Node.js Projects",
     "updatedAt": "2021-05-01T17:04:40Z"
-  },
-  {
-    "body": "https://seb.jambor.dev/posts/cd-is-not-a-program/",
-    "title": "cd is not a program - Sebastian Jambor's blog",
-    "updatedAt": "2021-04-29T12:58:03Z"
   }
 ]
