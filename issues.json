@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://github.com/vadimklimov/sap-cloud-connector",
+    "title": "vadimklimov/sap-cloud-connector: SAP Cloud Connector",
+    "updatedAt": "2024-01-16T11:21:08Z"
+  },
+  {
     "body": "https://shkspr.mobi/blog/2020/03/it-is-spelled-url/",
     "title": "It is spelled “URl” – Terence Eden’s Blog",
     "updatedAt": "2024-01-09T11:57:34Z"
@@ -1243,10 +1248,5 @@
     "body": "https://nymag.com/strategist/article/best-mechanical-keyboards.html",
     "title": "8 Best Mechanical Keyboards 2021 | The Strategist | New York Magazine",
     "updatedAt": "2021-05-03T16:29:56Z"
-  },
-  {
-    "body": "https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/",
-    "title": "Why I Prefer Makefiles Over package.json Scripts for Node.js Projects",
-    "updatedAt": "2021-05-01T17:04:40Z"
   }
 ]
