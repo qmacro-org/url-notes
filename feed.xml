@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-01-16T11:21:08Z</updated>
+<updated>2024-01-17T09:42:05Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Laurence Tratt: Faster Shell Startup With Shell Switching</title>
+<link>https://tratt.net/laurie/blog/2024/faster_shell_startup_with_shell_switching.html</link>
+<updated>2024-01-17T09:42:05Z</updated>
+<summary>https://tratt.net/laurie/blog/2024/faster_shell_startup_with_shell_switching.html</summary>
+</entry>
 <entry>
 <title>vadimklimov/sap-cloud-connector: SAP Cloud Connector</title>
 <link>https://github.com/vadimklimov/sap-cloud-connector</link>
@@ -1497,11 +1503,5 @@
 <link>https://securitylab.github.com/research/github-actions-preventing-pwn-requests/</link>
 <updated>2021-05-06T15:31:56Z</updated>
 <summary>https://securitylab.github.com/research/github-actions-preventing-pwn-requests/</summary>
-</entry>
-<entry>
-<title>8 Best Mechanical Keyboards 2021 | The Strategist | New York Magazine</title>
-<link>https://nymag.com/strategist/article/best-mechanical-keyboards.html</link>
-<updated>2021-05-03T16:29:56Z</updated>
-<summary>https://nymag.com/strategist/article/best-mechanical-keyboards.html</summary>
 </entry>
 </feed>
