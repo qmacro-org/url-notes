@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://www.linkedin.com/pulse/becoming-technical-content-creator-github-tczrc/?utm_source=share&utm_medium=member_ios&utm_campaign=share_via",
+    "title": "(1) Becoming a technical content creator | LinkedIn",
+    "updatedAt": "2024-01-19T07:02:55Z"
+  },
+  {
     "body": "https://tratt.net/laurie/blog/2024/faster_shell_startup_with_shell_switching.html",
     "title": "Laurence Tratt: Faster Shell Startup With Shell Switching",
     "updatedAt": "2024-01-17T09:42:05Z"
@@ -1243,10 +1248,5 @@
     "body": "https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners",
     "title": "About code owners - GitHub Docs",
     "updatedAt": "2021-05-07T11:59:56Z"
-  },
-  {
-    "body": "https://securitylab.github.com/research/github-actions-preventing-pwn-requests/",
-    "title": "Keeping your GitHub Actions and workflows secure: Preventing pwn requests | GitHub Security Lab",
-    "updatedAt": "2021-05-06T15:31:56Z"
   }
 ]

@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-01-17T09:42:05Z</updated>
+<updated>2024-01-19T07:02:55Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>(1) Becoming a technical content creator | LinkedIn</title>
+<link>https://www.linkedin.com/pulse/becoming-technical-content-creator-github-tczrc/?utm_source=share&amp;utm_medium=member_ios&amp;utm_campaign=share_via</link>
+<updated>2024-01-19T07:02:55Z</updated>
+<summary>https://www.linkedin.com/pulse/becoming-technical-content-creator-github-tczrc/?utm_source=share&amp;utm_medium=member_ios&amp;utm_campaign=share_via</summary>
+</entry>
 <entry>
 <title>Laurence Tratt: Faster Shell Startup With Shell Switching</title>
 <link>https://tratt.net/laurie/blog/2024/faster_shell_startup_with_shell_switching.html</link>
@@ -1497,11 +1503,5 @@
 <link>https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners</link>
 <updated>2021-05-07T11:59:56Z</updated>
 <summary>https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners</summary>
-</entry>
-<entry>
-<title>Keeping your GitHub Actions and workflows secure: Preventing pwn requests | GitHub Security Lab</title>
-<link>https://securitylab.github.com/research/github-actions-preventing-pwn-requests/</link>
-<updated>2021-05-06T15:31:56Z</updated>
-<summary>https://securitylab.github.com/research/github-actions-preventing-pwn-requests/</summary>
 </entry>
 </feed>
