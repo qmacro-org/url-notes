@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-01-19T07:02:55Z</updated>
+<updated>2024-01-20T16:06:06Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>The Thorny Problem of Keeping the Internet’s Time | The New Yorker</title>
+<link>https://www.newyorker.com/tech/annals-of-technology/the-thorny-problem-of-keeping-the-internets-time</link>
+<updated>2024-01-20T16:06:06Z</updated>
+<summary>https://www.newyorker.com/tech/annals-of-technology/the-thorny-problem-of-keeping-the-internets-time</summary>
+</entry>
 <entry>
 <title>(1) Becoming a technical content creator | LinkedIn</title>
 <link>https://www.linkedin.com/pulse/becoming-technical-content-creator-github-tczrc/?utm_source=share&amp;utm_medium=member_ios&amp;utm_campaign=share_via</link>
@@ -1497,11 +1503,5 @@
 <link>https://kevq.uk/how-to-setup-pi-hole-on-a-synology-nas/</link>
 <updated>2021-05-14T05:38:36Z</updated>
 <summary>https://kevq.uk/how-to-setup-pi-hole-on-a-synology-nas/</summary>
-</entry>
-<entry>
-<title>About code owners - GitHub Docs</title>
-<link>https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners</link>
-<updated>2021-05-07T11:59:56Z</updated>
-<summary>https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners</summary>
 </entry>
 </feed>
