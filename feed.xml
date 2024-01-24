@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-01-20T16:06:06Z</updated>
+<updated>2024-01-24T07:57:57Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>nojhan/named-pipes-services: Example of how to build services that use named pipes FIFO as I/O</title>
+<link>https://github.com/nojhan/named-pipes-services</link>
+<updated>2024-01-24T07:57:57Z</updated>
+<summary>https://github.com/nojhan/named-pipes-services</summary>
+</entry>
 <entry>
 <title>The Thorny Problem of Keeping the Internet’s Time | The New Yorker</title>
 <link>https://www.newyorker.com/tech/annals-of-technology/the-thorny-problem-of-keeping-the-internets-time</link>
@@ -1497,11 +1503,5 @@
 <link>https://www.baldurbjarnason.com/2021/the-oss-bubble-and-the-blogging-bubble/</link>
 <updated>2021-05-16T12:31:37Z</updated>
 <summary>https://www.baldurbjarnason.com/2021/the-oss-bubble-and-the-blogging-bubble/</summary>
-</entry>
-<entry>
-<title>How To Setup Pi-hole On A Synology NAS - Kev Quirk</title>
-<link>https://kevq.uk/how-to-setup-pi-hole-on-a-synology-nas/</link>
-<updated>2021-05-14T05:38:36Z</updated>
-<summary>https://kevq.uk/how-to-setup-pi-hole-on-a-synology-nas/</summary>
 </entry>
 </feed>
