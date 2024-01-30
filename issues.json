@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://earthly.dev/blog/devcontainers/",
+    "title": "Code From Anywhere: Dev Containers and Github Codespaces - Earthly Blog",
+    "updatedAt": "2024-01-30T13:11:37Z"
+  },
+  {
     "body": "https://github.com/nojhan/named-pipes-services",
     "title": "nojhan/named-pipes-services: Example of how to build services that use named pipes FIFO as I/O",
     "updatedAt": "2024-01-24T07:57:57Z"
@@ -1243,10 +1248,5 @@
     "body": "https://github.blog/2021-04-27-ship-code-faster-safer-feature-flags/",
     "title": "How we ship code faster and safer with feature flags | The GitHub Blog",
     "updatedAt": "2021-05-18T12:16:47Z"
-  },
-  {
-    "body": "https://www.baldurbjarnason.com/2021/the-oss-bubble-and-the-blogging-bubble/",
-    "title": "The Open-Source Software bubble that is and the blogging bubble that was – Baldur Bjarnason",
-    "updatedAt": "2021-05-16T12:31:37Z"
   }
 ]
