@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://cogdogblog.com/2024/01/de-enshittification-recipes/",
+    "title": "A Recipe for the Disenshittification of Web Recipes – CogDogBlog",
+    "updatedAt": "2024-01-31T18:40:35Z"
+  },
+  {
     "body": "https://earthly.dev/blog/devcontainers/",
     "title": "Code From Anywhere: Dev Containers and Github Codespaces - Earthly Blog",
     "updatedAt": "2024-01-30T13:11:37Z"
@@ -1243,10 +1248,5 @@
     "body": "https://mybuild.microsoft.com/sessions/2debfc2e-f0b3-4adf-bcec-d126930f806f",
     "title": "MyBuild - Build cloud-native applications that run anywhere",
     "updatedAt": "2021-05-27T06:06:50Z"
-  },
-  {
-    "body": "https://github.blog/2021-04-27-ship-code-faster-safer-feature-flags/",
-    "title": "How we ship code faster and safer with feature flags | The GitHub Blog",
-    "updatedAt": "2021-05-18T12:16:47Z"
   }
 ]
