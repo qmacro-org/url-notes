@@ -1,12 +1,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-01-31T18:40:35Z</updated>
+<updated>2024-02-05T16:41:57Z</updated>
 <author><name>DJ Adams</name></author>
 <entry>
-<title>A Recipe for the Disenshittification of Web Recipes – CogDogBlog</title>
-<link>https://cogdogblog.com/2024/01/de-enshittification-recipes/</link>
-<updated>2024-01-31T18:40:35Z</updated>
-<summary>https://cogdogblog.com/2024/01/de-enshittification-recipes/</summary>
+<title>Programming in 1969</title>
+<link>https://www.ilikebigbits.com/2019_07_08_programming_in_1969.html</link>
+<updated>2024-02-05T16:41:57Z</updated>
+<summary>https://www.ilikebigbits.com/2019_07_08_programming_in_1969.html</summary>
 </entry>
 <entry>
 <title>Code From Anywhere: Dev Containers and Github Codespaces - Earthly Blog</title>
@@ -43,12 +43,6 @@
 <link>https://github.com/vadimklimov/sap-cloud-connector</link>
 <updated>2024-01-16T11:21:08Z</updated>
 <summary>https://github.com/vadimklimov/sap-cloud-connector</summary>
-</entry>
-<entry>
-<title>It is spelled “URl” – Terence Eden’s Blog</title>
-<link>https://shkspr.mobi/blog/2020/03/it-is-spelled-url/</link>
-<updated>2024-01-09T11:57:34Z</updated>
-<summary>https://shkspr.mobi/blog/2020/03/it-is-spelled-url/</summary>
 </entry>
 <entry>
 <title>How to SSH into a Docker container · Tailscale</title>
@@ -1503,5 +1497,11 @@
 <link>https://mybuild.microsoft.com/sessions/2debfc2e-f0b3-4adf-bcec-d126930f806f</link>
 <updated>2021-05-27T06:06:50Z</updated>
 <summary>https://mybuild.microsoft.com/sessions/2debfc2e-f0b3-4adf-bcec-d126930f806f</summary>
+</entry>
+<entry>
+<title>How we ship code faster and safer with feature flags | The GitHub Blog</title>
+<link>https://github.blog/2021-04-27-ship-code-faster-safer-feature-flags/</link>
+<updated>2021-05-18T12:16:47Z</updated>
+<summary>https://github.blog/2021-04-27-ship-code-faster-safer-feature-flags/</summary>
 </entry>
 </feed>

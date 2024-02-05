@@ -1,8 +1,8 @@
 [
   {
-    "body": "https://cogdogblog.com/2024/01/de-enshittification-recipes/",
-    "title": "A Recipe for the Disenshittification of Web Recipes – CogDogBlog",
-    "updatedAt": "2024-01-31T18:40:35Z"
+    "body": "https://www.ilikebigbits.com/2019_07_08_programming_in_1969.html",
+    "title": "Programming in 1969",
+    "updatedAt": "2024-02-05T16:41:57Z"
   },
   {
     "body": "https://earthly.dev/blog/devcontainers/",
@@ -33,11 +33,6 @@
     "body": "https://github.com/vadimklimov/sap-cloud-connector",
     "title": "vadimklimov/sap-cloud-connector: SAP Cloud Connector",
     "updatedAt": "2024-01-16T11:21:08Z"
-  },
-  {
-    "body": "https://shkspr.mobi/blog/2020/03/it-is-spelled-url/",
-    "title": "It is spelled “URl” – Terence Eden’s Blog",
-    "updatedAt": "2024-01-09T11:57:34Z"
   },
   {
     "body": "https://tailscale.com/learn/ssh-into-docker-container",
@@ -1248,5 +1243,10 @@
     "body": "https://mybuild.microsoft.com/sessions/2debfc2e-f0b3-4adf-bcec-d126930f806f",
     "title": "MyBuild - Build cloud-native applications that run anywhere",
     "updatedAt": "2021-05-27T06:06:50Z"
+  },
+  {
+    "body": "https://github.blog/2021-04-27-ship-code-faster-safer-feature-flags/",
+    "title": "How we ship code faster and safer with feature flags | The GitHub Blog",
+    "updatedAt": "2021-05-18T12:16:47Z"
   }
 ]
