@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-02-05T16:41:57Z</updated>
+<updated>2024-02-14T09:21:27Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>IBM, sonic delay lines, and the history of the 80×24 display</title>
+<link>https://www.righto.com/2019/11/ibm-sonic-delay-lines-and-history-of.html</link>
+<updated>2024-02-14T09:21:27Z</updated>
+<summary>https://www.righto.com/2019/11/ibm-sonic-delay-lines-and-history-of.html</summary>
+</entry>
 <entry>
 <title>Programming in 1969</title>
 <link>https://www.ilikebigbits.com/2019_07_08_programming_in_1969.html</link>
@@ -1497,11 +1503,5 @@
 <link>https://mybuild.microsoft.com/sessions/2debfc2e-f0b3-4adf-bcec-d126930f806f</link>
 <updated>2021-05-27T06:06:50Z</updated>
 <summary>https://mybuild.microsoft.com/sessions/2debfc2e-f0b3-4adf-bcec-d126930f806f</summary>
-</entry>
-<entry>
-<title>How we ship code faster and safer with feature flags | The GitHub Blog</title>
-<link>https://github.blog/2021-04-27-ship-code-faster-safer-feature-flags/</link>
-<updated>2021-05-18T12:16:47Z</updated>
-<summary>https://github.blog/2021-04-27-ship-code-faster-safer-feature-flags/</summary>
 </entry>
 </feed>

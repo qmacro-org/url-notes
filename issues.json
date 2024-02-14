@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://www.righto.com/2019/11/ibm-sonic-delay-lines-and-history-of.html",
+    "title": "IBM, sonic delay lines, and the history of the 80×24 display",
+    "updatedAt": "2024-02-14T09:21:27Z"
+  },
+  {
     "body": "https://www.ilikebigbits.com/2019_07_08_programming_in_1969.html",
     "title": "Programming in 1969",
     "updatedAt": "2024-02-05T16:41:57Z"
@@ -1243,10 +1248,5 @@
     "body": "https://mybuild.microsoft.com/sessions/2debfc2e-f0b3-4adf-bcec-d126930f806f",
     "title": "MyBuild - Build cloud-native applications that run anywhere",
     "updatedAt": "2021-05-27T06:06:50Z"
-  },
-  {
-    "body": "https://github.blog/2021-04-27-ship-code-faster-safer-feature-flags/",
-    "title": "How we ship code faster and safer with feature flags | The GitHub Blog",
-    "updatedAt": "2021-05-18T12:16:47Z"
   }
 ]
