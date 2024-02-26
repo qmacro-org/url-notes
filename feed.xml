@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-02-14T09:21:27Z</updated>
+<updated>2024-02-26T12:24:06Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>2024-02-25 a history of the tty</title>
+<link>https://computer.rip/2024-02-25-a-history-of-the-tty.html</link>
+<updated>2024-02-26T12:24:06Z</updated>
+<summary>https://computer.rip/2024-02-25-a-history-of-the-tty.html</summary>
+</entry>
 <entry>
 <title>IBM, sonic delay lines, and the history of the 80×24 display</title>
 <link>https://www.righto.com/2019/11/ibm-sonic-delay-lines-and-history-of.html</link>
@@ -1497,11 +1503,5 @@
 <link>https://charlesatan.medium.com/a-framework-to-determine-which-keycaps-fit-your-mechanical-keyboard-94f3f8b2dff5</link>
 <updated>2021-06-01T06:07:41Z</updated>
 <summary>https://charlesatan.medium.com/a-framework-to-determine-which-keycaps-fit-your-mechanical-keyboard-94f3f8b2dff5</summary>
-</entry>
-<entry>
-<title>MyBuild - Build cloud-native applications that run anywhere</title>
-<link>https://mybuild.microsoft.com/sessions/2debfc2e-f0b3-4adf-bcec-d126930f806f</link>
-<updated>2021-05-27T06:06:50Z</updated>
-<summary>https://mybuild.microsoft.com/sessions/2debfc2e-f0b3-4adf-bcec-d126930f806f</summary>
 </entry>
 </feed>

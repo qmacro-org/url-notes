@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://computer.rip/2024-02-25-a-history-of-the-tty.html",
+    "title": "2024-02-25 a history of the tty",
+    "updatedAt": "2024-02-26T12:24:06Z"
+  },
+  {
     "body": "https://www.righto.com/2019/11/ibm-sonic-delay-lines-and-history-of.html",
     "title": "IBM, sonic delay lines, and the history of the 80×24 display",
     "updatedAt": "2024-02-14T09:21:27Z"
@@ -1243,10 +1248,5 @@
     "body": "https://charlesatan.medium.com/a-framework-to-determine-which-keycaps-fit-your-mechanical-keyboard-94f3f8b2dff5",
     "title": "A Framework to Determine Which Keycaps Fit Your Mechanical Keyboard | by Charles Tan | Apr, 2021 | Medium",
     "updatedAt": "2021-06-01T06:07:41Z"
-  },
-  {
-    "body": "https://mybuild.microsoft.com/sessions/2debfc2e-f0b3-4adf-bcec-d126930f806f",
-    "title": "MyBuild - Build cloud-native applications that run anywhere",
-    "updatedAt": "2021-05-27T06:06:50Z"
   }
 ]
