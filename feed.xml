@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-02-26T12:24:06Z</updated>
+<updated>2024-03-01T11:43:42Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Array languages vs. the curse of the spreadsheet — Elias Mårtenson</title>
+<link>https://blog.dhsdevelopments.com/array-languages-vs</link>
+<updated>2024-03-01T11:43:42Z</updated>
+<summary>https://blog.dhsdevelopments.com/array-languages-vs</summary>
+</entry>
 <entry>
 <title>2024-02-25 a history of the tty</title>
 <link>https://computer.rip/2024-02-25-a-history-of-the-tty.html</link>
@@ -1497,11 +1503,5 @@
 <link>https://blogs.sap.com/2021/05/27/introducing-sap-btp-service-operator/?</link>
 <updated>2021-06-01T06:55:03Z</updated>
 <summary>https://blogs.sap.com/2021/05/27/introducing-sap-btp-service-operator/?</summary>
-</entry>
-<entry>
-<title>A Framework to Determine Which Keycaps Fit Your Mechanical Keyboard | by Charles Tan | Apr, 2021 | Medium</title>
-<link>https://charlesatan.medium.com/a-framework-to-determine-which-keycaps-fit-your-mechanical-keyboard-94f3f8b2dff5</link>
-<updated>2021-06-01T06:07:41Z</updated>
-<summary>https://charlesatan.medium.com/a-framework-to-determine-which-keycaps-fit-your-mechanical-keyboard-94f3f8b2dff5</summary>
 </entry>
 </feed>
