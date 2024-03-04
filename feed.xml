@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-03-01T11:43:42Z</updated>
+<updated>2024-03-04T17:41:01Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>The Rise and Fall of Steve Jobs’s Greatest Rival</title>
+<link>https://every.to/the-crazy-ones/the-rise-and-fall-of-steve-jobs-s-greatest-rival</link>
+<updated>2024-03-04T17:41:01Z</updated>
+<summary>https://every.to/the-crazy-ones/the-rise-and-fall-of-steve-jobs-s-greatest-rival</summary>
+</entry>
 <entry>
 <title>Array languages vs. the curse of the spreadsheet — Elias Mårtenson</title>
 <link>https://blog.dhsdevelopments.com/array-languages-vs</link>
@@ -1497,11 +1503,5 @@
 <link>https://www.chiark.greenend.org.uk/~cjwatson/blog/ssh-quoting.html</link>
 <updated>2021-06-13T06:46:53Z</updated>
 <summary>https://www.chiark.greenend.org.uk/~cjwatson/blog/ssh-quoting.html</summary>
-</entry>
-<entry>
-<title>Introducing SAP BTP Service Operator | SAP Blogs</title>
-<link>https://blogs.sap.com/2021/05/27/introducing-sap-btp-service-operator/?</link>
-<updated>2021-06-01T06:55:03Z</updated>
-<summary>https://blogs.sap.com/2021/05/27/introducing-sap-btp-service-operator/?</summary>
 </entry>
 </feed>

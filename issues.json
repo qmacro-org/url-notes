@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://every.to/the-crazy-ones/the-rise-and-fall-of-steve-jobs-s-greatest-rival",
+    "title": "The Rise and Fall of Steve Jobs’s Greatest Rival",
+    "updatedAt": "2024-03-04T17:41:01Z"
+  },
+  {
     "body": "https://blog.dhsdevelopments.com/array-languages-vs",
     "title": "Array languages vs. the curse of the spreadsheet — Elias Mårtenson",
     "updatedAt": "2024-03-01T11:43:42Z"
@@ -1243,10 +1248,5 @@
     "body": "https://www.chiark.greenend.org.uk/~cjwatson/blog/ssh-quoting.html",
     "title": "SSH quoting",
     "updatedAt": "2021-06-13T06:46:53Z"
-  },
-  {
-    "body": "https://blogs.sap.com/2021/05/27/introducing-sap-btp-service-operator/?",
-    "title": "Introducing SAP BTP Service Operator | SAP Blogs",
-    "updatedAt": "2021-06-01T06:55:03Z"
   }
 ]
