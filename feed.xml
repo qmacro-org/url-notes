@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-03-04T17:41:01Z</updated>
+<updated>2024-03-16T10:22:55Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Nix is a better Docker image builder than Docker's image builder - Xe Iaso</title>
+<link>https://xeiaso.net/talks/2024/nix-docker-build/</link>
+<updated>2024-03-16T10:22:55Z</updated>
+<summary>https://xeiaso.net/talks/2024/nix-docker-build/</summary>
+</entry>
 <entry>
 <title>The Rise and Fall of Steve Jobs’s Greatest Rival</title>
 <link>https://every.to/the-crazy-ones/the-rise-and-fall-of-steve-jobs-s-greatest-rival</link>
@@ -1497,11 +1503,5 @@
 <link>https://blog.palantir.com/rethinking-crud-for-rest-api-designs-a2a8287dc2af</link>
 <updated>2021-08-18T14:32:38Z</updated>
 <summary>https://blog.palantir.com/rethinking-crud-for-rest-api-designs-a2a8287dc2af</summary>
-</entry>
-<entry>
-<title>SSH quoting</title>
-<link>https://www.chiark.greenend.org.uk/~cjwatson/blog/ssh-quoting.html</link>
-<updated>2021-06-13T06:46:53Z</updated>
-<summary>https://www.chiark.greenend.org.uk/~cjwatson/blog/ssh-quoting.html</summary>
 </entry>
 </feed>
