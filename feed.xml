@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-03-17T16:56:42Z</updated>
+<updated>2024-03-18T08:42:29Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Configuring Neovim As A SAP Developer | by Simon Laursen | Mar, 2024 | Medium</title>
+<link>https://medium.com/@simonvlaursen/configuring-neovim-as-a-sap-developer-d7aa42823d55</link>
+<updated>2024-03-18T08:42:29Z</updated>
+<summary>https://medium.com/@simonvlaursen/configuring-neovim-as-a-sap-developer-d7aa42823d55</summary>
+</entry>
 <entry>
 <title>We were wizards - a foreword to Learning Perl - J Wolfgang Goerlich</title>
 <link>https://jwgoerlich.com/we-were-wizards-learning-perl/</link>
@@ -1497,11 +1503,5 @@
 <link>https://nooshu.com/blog/2019/11/18/implementing-webmentions/</link>
 <updated>2021-08-22T15:27:33Z</updated>
 <summary>https://nooshu.com/blog/2019/11/18/implementing-webmentions/</summary>
-</entry>
-<entry>
-<title>An Opinionated Guide to xargs</title>
-<link>https://www.oilshell.org/blog/2021/08/xargs.html</link>
-<updated>2021-08-22T15:26:43Z</updated>
-<summary>https://www.oilshell.org/blog/2021/08/xargs.html</summary>
 </entry>
 </feed>

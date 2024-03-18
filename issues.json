@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://medium.com/@simonvlaursen/configuring-neovim-as-a-sap-developer-d7aa42823d55",
+    "title": "Configuring Neovim As A SAP Developer | by Simon Laursen | Mar, 2024 | Medium",
+    "updatedAt": "2024-03-18T08:42:29Z"
+  },
+  {
     "body": "https://jwgoerlich.com/we-were-wizards-learning-perl/",
     "title": "We were wizards - a foreword to Learning Perl - J Wolfgang Goerlich",
     "updatedAt": "2024-03-17T16:56:42Z"
@@ -1243,10 +1248,5 @@
     "body": "https://nooshu.com/blog/2019/11/18/implementing-webmentions/",
     "title": "Implementing Webmentions on this blog - Matt Hobbs",
     "updatedAt": "2021-08-22T15:27:33Z"
-  },
-  {
-    "body": "https://www.oilshell.org/blog/2021/08/xargs.html",
-    "title": "An Opinionated Guide to xargs",
-    "updatedAt": "2021-08-22T15:26:43Z"
   }
 ]
