@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://thenewstack.io/using-ai-to-improve-bad-business-writing/",
+    "title": "Using AI to Improve Bad Business Writing - The New Stack",
+    "updatedAt": "2024-03-26T17:39:33Z"
+  },
+  {
     "body": "https://www.annwan.me/computers/what-why-how-containers/",
     "title": "The What, Why and How of Containers – Annwan",
     "updatedAt": "2024-03-26T07:42:04Z"
@@ -1243,10 +1248,5 @@
     "body": "https://github.blog/changelog/2021-08-25-github-actions-reduce-duplication-with-action-composition/",
     "title": "GitHub Actions: Reduce duplication with action composition | GitHub Changelog",
     "updatedAt": "2021-08-31T06:06:11Z"
-  },
-  {
-    "body": "https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7",
-    "title": "How Discord Stores Billions of Messages | by Stanislav Vishnevskiy | Discord Blog",
-    "updatedAt": "2021-08-25T15:05:27Z"
   }
 ]
