@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://redmonk.com/kholterhoff/2024/03/01/why-the-frontend-kingmaker-isnt-full-stack-a-history/",
+    "title": "Why the Frontend Kingmaker isn’t Full-Stack: A History – console.log()",
+    "updatedAt": "2024-03-27T16:39:32Z"
+  },
+  {
     "body": "https://thenewstack.io/using-ai-to-improve-bad-business-writing/",
     "title": "Using AI to Improve Bad Business Writing - The New Stack",
     "updatedAt": "2024-03-26T17:39:33Z"
@@ -1243,10 +1248,5 @@
     "body": "https://www.docker.com/blog/updating-product-subscriptions/",
     "title": "Docker is Updating and Extending Our Product Subscriptions - Docker Blog",
     "updatedAt": "2021-09-01T12:20:42Z"
-  },
-  {
-    "body": "https://github.blog/changelog/2021-08-25-github-actions-reduce-duplication-with-action-composition/",
-    "title": "GitHub Actions: Reduce duplication with action composition | GitHub Changelog",
-    "updatedAt": "2021-08-31T06:06:11Z"
   }
 ]

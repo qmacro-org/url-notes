@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-03-26T17:39:33Z</updated>
+<updated>2024-03-27T16:39:32Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Why the Frontend Kingmaker isn’t Full-Stack: A History – console.log()</title>
+<link>https://redmonk.com/kholterhoff/2024/03/01/why-the-frontend-kingmaker-isnt-full-stack-a-history/</link>
+<updated>2024-03-27T16:39:32Z</updated>
+<summary>https://redmonk.com/kholterhoff/2024/03/01/why-the-frontend-kingmaker-isnt-full-stack-a-history/</summary>
+</entry>
 <entry>
 <title>Using AI to Improve Bad Business Writing - The New Stack</title>
 <link>https://thenewstack.io/using-ai-to-improve-bad-business-writing/</link>
@@ -1497,11 +1503,5 @@
 <link>https://www.docker.com/blog/updating-product-subscriptions/</link>
 <updated>2021-09-01T12:20:42Z</updated>
 <summary>https://www.docker.com/blog/updating-product-subscriptions/</summary>
-</entry>
-<entry>
-<title>GitHub Actions: Reduce duplication with action composition | GitHub Changelog</title>
-<link>https://github.blog/changelog/2021-08-25-github-actions-reduce-duplication-with-action-composition/</link>
-<updated>2021-08-31T06:06:11Z</updated>
-<summary>https://github.blog/changelog/2021-08-25-github-actions-reduce-duplication-with-action-composition/</summary>
 </entry>
 </feed>
