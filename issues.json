@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://community.sap.com/t5/technology-blogs-by-members/executing-simple-rest-requests-with-sap-cap-applications/ba-p/13513021",
+    "title": "Executing simple REST requests with SAP CAP applic... - SAP Community",
+    "updatedAt": "2024-03-28T09:30:11Z"
+  },
+  {
     "body": "https://redmonk.com/kholterhoff/2024/03/01/why-the-frontend-kingmaker-isnt-full-stack-a-history/",
     "title": "Why the Frontend Kingmaker isn’t Full-Stack: A History – console.log()",
     "updatedAt": "2024-03-27T16:39:32Z"
@@ -1243,10 +1248,5 @@
     "body": "https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman/",
     "title": "'Migrating from Docker to Podman' by Marcus Noble",
     "updatedAt": "2021-09-03T07:33:53Z"
-  },
-  {
-    "body": "https://www.docker.com/blog/updating-product-subscriptions/",
-    "title": "Docker is Updating and Extending Our Product Subscriptions - Docker Blog",
-    "updatedAt": "2021-09-01T12:20:42Z"
   }
 ]

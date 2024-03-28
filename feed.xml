@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-03-27T16:39:32Z</updated>
+<updated>2024-03-28T09:30:11Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Executing simple REST requests with SAP CAP applic... - SAP Community</title>
+<link>https://community.sap.com/t5/technology-blogs-by-members/executing-simple-rest-requests-with-sap-cap-applications/ba-p/13513021</link>
+<updated>2024-03-28T09:30:11Z</updated>
+<summary>https://community.sap.com/t5/technology-blogs-by-members/executing-simple-rest-requests-with-sap-cap-applications/ba-p/13513021</summary>
+</entry>
 <entry>
 <title>Why the Frontend Kingmaker isn’t Full-Stack: A History – console.log()</title>
 <link>https://redmonk.com/kholterhoff/2024/03/01/why-the-frontend-kingmaker-isnt-full-stack-a-history/</link>
@@ -1497,11 +1503,5 @@
 <link>https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman/</link>
 <updated>2021-09-03T07:33:53Z</updated>
 <summary>https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman/</summary>
-</entry>
-<entry>
-<title>Docker is Updating and Extending Our Product Subscriptions - Docker Blog</title>
-<link>https://www.docker.com/blog/updating-product-subscriptions/</link>
-<updated>2021-09-01T12:20:42Z</updated>
-<summary>https://www.docker.com/blog/updating-product-subscriptions/</summary>
 </entry>
 </feed>
