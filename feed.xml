@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-03-28T10:13:44Z</updated>
+<updated>2024-03-28T14:56:32Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>The Future of Frontend is Already Here – console.log()</title>
+<link>https://redmonk.com/kholterhoff/2024/03/28/the-future-of-frontend-is-already-here/</link>
+<updated>2024-03-28T14:56:32Z</updated>
+<summary>https://redmonk.com/kholterhoff/2024/03/28/the-future-of-frontend-is-already-here/</summary>
+</entry>
 <entry>
 <title>Develop CAP Project with Lazyvim in Docker - SAP Community</title>
 <link>https://community.sap.com/t5/technology-blogs-by-members/develop-cap-project-with-lazyvim-in-docker/ba-p/13651759</link>
@@ -1497,11 +1503,5 @@
 <link>https://github.com/jlevy/the-art-of-command-line</link>
 <updated>2021-09-22T10:07:17Z</updated>
 <summary>https://github.com/jlevy/the-art-of-command-line</summary>
-</entry>
-<entry>
-<title>Are Dockerfiles good enough?</title>
-<link>https://matduggan.com/are-dockerfiles-good-enough/</link>
-<updated>2021-09-11T05:38:18Z</updated>
-<summary>https://matduggan.com/are-dockerfiles-good-enough/</summary>
 </entry>
 </feed>

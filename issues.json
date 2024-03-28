@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://redmonk.com/kholterhoff/2024/03/28/the-future-of-frontend-is-already-here/",
+    "title": "The Future of Frontend is Already Here – console.log()",
+    "updatedAt": "2024-03-28T14:56:32Z"
+  },
+  {
     "body": "https://community.sap.com/t5/technology-blogs-by-members/develop-cap-project-with-lazyvim-in-docker/ba-p/13651759",
     "title": "Develop CAP Project with Lazyvim in Docker - SAP Community",
     "updatedAt": "2024-03-28T10:13:44Z"
@@ -1243,10 +1248,5 @@
     "body": "https://github.com/jlevy/the-art-of-command-line",
     "title": "jlevy/the-art-of-command-line: Master the command line, in one page",
     "updatedAt": "2021-09-22T10:07:17Z"
-  },
-  {
-    "body": "https://matduggan.com/are-dockerfiles-good-enough/",
-    "title": "Are Dockerfiles good enough?",
-    "updatedAt": "2021-09-11T05:38:18Z"
   }
 ]
