@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-03-28T09:30:11Z</updated>
+<updated>2024-03-28T10:13:44Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Develop CAP Project with Lazyvim in Docker - SAP Community</title>
+<link>https://community.sap.com/t5/technology-blogs-by-members/develop-cap-project-with-lazyvim-in-docker/ba-p/13651759</link>
+<updated>2024-03-28T10:13:44Z</updated>
+<summary>https://community.sap.com/t5/technology-blogs-by-members/develop-cap-project-with-lazyvim-in-docker/ba-p/13651759</summary>
+</entry>
 <entry>
 <title>Executing simple REST requests with SAP CAP applic... - SAP Community</title>
 <link>https://community.sap.com/t5/technology-blogs-by-members/executing-simple-rest-requests-with-sap-cap-applications/ba-p/13513021</link>
@@ -1497,11 +1503,5 @@
 <link>https://matduggan.com/are-dockerfiles-good-enough/</link>
 <updated>2021-09-11T05:38:18Z</updated>
 <summary>https://matduggan.com/are-dockerfiles-good-enough/</summary>
-</entry>
-<entry>
-<title>'Migrating from Docker to Podman' by Marcus Noble</title>
-<link>https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman/</link>
-<updated>2021-09-03T07:33:53Z</updated>
-<summary>https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman/</summary>
 </entry>
 </feed>

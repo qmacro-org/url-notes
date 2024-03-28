@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://community.sap.com/t5/technology-blogs-by-members/develop-cap-project-with-lazyvim-in-docker/ba-p/13651759",
+    "title": "Develop CAP Project with Lazyvim in Docker - SAP Community",
+    "updatedAt": "2024-03-28T10:13:44Z"
+  },
+  {
     "body": "https://community.sap.com/t5/technology-blogs-by-members/executing-simple-rest-requests-with-sap-cap-applications/ba-p/13513021",
     "title": "Executing simple REST requests with SAP CAP applic... - SAP Community",
     "updatedAt": "2024-03-28T09:30:11Z"
@@ -1243,10 +1248,5 @@
     "body": "https://matduggan.com/are-dockerfiles-good-enough/",
     "title": "Are Dockerfiles good enough?",
     "updatedAt": "2021-09-11T05:38:18Z"
-  },
-  {
-    "body": "https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman/",
-    "title": "'Migrating from Docker to Podman' by Marcus Noble",
-    "updatedAt": "2021-09-03T07:33:53Z"
   }
 ]
