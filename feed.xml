@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-03-28T14:56:32Z</updated>
+<updated>2024-04-01T20:09:03Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Set Up Remote Debugging to Diagnose CAP Applicatio... - SAP Community</title>
+<link>https://community.sap.com/t5/technology-blogs-by-sap/set-up-remote-debugging-to-diagnose-cap-applications-node-js-stack-at/ba-p/13515376#attaching-debugger</link>
+<updated>2024-04-01T20:09:03Z</updated>
+<summary>https://community.sap.com/t5/technology-blogs-by-sap/set-up-remote-debugging-to-diagnose-cap-applications-node-js-stack-at/ba-p/13515376#attaching-debugger</summary>
+</entry>
 <entry>
 <title>The Future of Frontend is Already Here – console.log()</title>
 <link>https://redmonk.com/kholterhoff/2024/03/28/the-future-of-frontend-is-already-here/</link>
@@ -1497,11 +1503,5 @@
 <link>https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z</link>
 <updated>2021-09-23T11:56:09Z</updated>
 <summary>https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z</summary>
-</entry>
-<entry>
-<title>jlevy/the-art-of-command-line: Master the command line, in one page</title>
-<link>https://github.com/jlevy/the-art-of-command-line</link>
-<updated>2021-09-22T10:07:17Z</updated>
-<summary>https://github.com/jlevy/the-art-of-command-line</summary>
 </entry>
 </feed>

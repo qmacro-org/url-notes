@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://community.sap.com/t5/technology-blogs-by-sap/set-up-remote-debugging-to-diagnose-cap-applications-node-js-stack-at/ba-p/13515376#attaching-debugger",
+    "title": "Set Up Remote Debugging to Diagnose CAP Applicatio... - SAP Community",
+    "updatedAt": "2024-04-01T20:09:03Z"
+  },
+  {
     "body": "https://redmonk.com/kholterhoff/2024/03/28/the-future-of-frontend-is-already-here/",
     "title": "The Future of Frontend is Already Here – console.log()",
     "updatedAt": "2024-03-28T14:56:32Z"
@@ -1243,10 +1248,5 @@
     "body": "https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z",
     "title": "Kids who grew up with search engines could change STEM education forever - The Verge",
     "updatedAt": "2021-09-23T11:56:09Z"
-  },
-  {
-    "body": "https://github.com/jlevy/the-art-of-command-line",
-    "title": "jlevy/the-art-of-command-line: Master the command line, in one page",
-    "updatedAt": "2021-09-22T10:07:17Z"
   }
 ]
