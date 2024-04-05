@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-04-02T18:02:13Z</updated>
+<updated>2024-04-05T11:38:23Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Zoomer Tries RSS: In Praise of Yarr - tudor's website</title>
+<link>https://tudorr.ro/blog/zoomer-tries-rss/</link>
+<updated>2024-04-05T11:38:23Z</updated>
+<summary>https://tudorr.ro/blog/zoomer-tries-rss/</summary>
+</entry>
 <entry>
 <title>There's Always More History</title>
 <link>https://www.hillelwayne.com/post/always-more-history/</link>
@@ -1497,11 +1503,5 @@
 <link>https://thequietus.com/articles/30786-russell-hoban-riddley-walker-essay</link>
 <updated>2021-11-22T11:29:35Z</updated>
 <summary>https://thequietus.com/articles/30786-russell-hoban-riddley-walker-essay</summary>
-</entry>
-<entry>
-<title>The Greedy Doctor Problem - by Jan Hendrik Kirchner - On Brains, Minds And Their Possible Uses</title>
-<link>https://universalprior.substack.com/p/the-greedy-doctor-problem</link>
-<updated>2021-11-19T15:02:11Z</updated>
-<summary>https://universalprior.substack.com/p/the-greedy-doctor-problem</summary>
 </entry>
 </feed>
