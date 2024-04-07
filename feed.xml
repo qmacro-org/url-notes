@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-04-05T11:38:23Z</updated>
+<updated>2024-04-07T15:39:45Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>The Secret Father of Modern Computing</title>
+<link>https://every.to/the-crazy-ones/the-secret-father-of-modern-computing</link>
+<updated>2024-04-07T15:39:45Z</updated>
+<summary>https://every.to/the-crazy-ones/the-secret-father-of-modern-computing</summary>
+</entry>
 <entry>
 <title>Zoomer Tries RSS: In Praise of Yarr - tudor's website</title>
 <link>https://tudorr.ro/blog/zoomer-tries-rss/</link>
@@ -1497,11 +1503,5 @@
 <link>https://blog.replit.com/nix-vs-docker</link>
 <updated>2021-11-30T19:59:41Z</updated>
 <summary>https://blog.replit.com/nix-vs-docker</summary>
-</entry>
-<entry>
-<title>The Quietus | Features | Tome On The Range | A Place Where The Unwordable Happens: The Novels Of Russell Hoban</title>
-<link>https://thequietus.com/articles/30786-russell-hoban-riddley-walker-essay</link>
-<updated>2021-11-22T11:29:35Z</updated>
-<summary>https://thequietus.com/articles/30786-russell-hoban-riddley-walker-essay</summary>
 </entry>
 </feed>
