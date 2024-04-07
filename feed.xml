@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-04-07T15:39:45Z</updated>
+<updated>2024-04-07T17:11:47Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Solar Panel Battery Storage: Can You Save Money Storing Energy? - Which?</title>
+<link>https://www.which.co.uk/reviews/solar-panels/article/solar-panels/solar-panel-battery-storage-a2AfJ0s5tCyT</link>
+<updated>2024-04-07T17:11:47Z</updated>
+<summary>https://www.which.co.uk/reviews/solar-panels/article/solar-panels/solar-panel-battery-storage-a2AfJ0s5tCyT</summary>
+</entry>
 <entry>
 <title>The Secret Father of Modern Computing</title>
 <link>https://every.to/the-crazy-ones/the-secret-father-of-modern-computing</link>
@@ -1497,11 +1503,5 @@
 <link>https://github.com/charmbracelet/soft-serve</link>
 <updated>2021-12-09T08:05:31Z</updated>
 <summary>https://github.com/charmbracelet/soft-serve</summary>
-</entry>
-<entry>
-<title>Replit - Will Nix Overtake Docker?</title>
-<link>https://blog.replit.com/nix-vs-docker</link>
-<updated>2021-11-30T19:59:41Z</updated>
-<summary>https://blog.replit.com/nix-vs-docker</summary>
 </entry>
 </feed>
