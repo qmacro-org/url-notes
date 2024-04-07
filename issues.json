@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://solar.lowtechmagazine.com/2023/06/rebuilding-a-solar-powered-website/",
+    "title": "Rebuilding a Solar Powered Website | LOW←TECH MAGAZINE",
+    "updatedAt": "2024-04-07T17:49:00Z"
+  },
+  {
     "body": "https://www.which.co.uk/reviews/solar-panels/article/solar-panels/solar-panel-battery-storage-a2AfJ0s5tCyT",
     "title": "Solar Panel Battery Storage: Can You Save Money Storing Energy? - Which?",
     "updatedAt": "2024-04-07T17:11:47Z"
@@ -1243,10 +1248,5 @@
     "body": "https://catonmat.net/sed-one-liners-explained-part-one",
     "title": "Sed One-Liners Explained, Part I: File Spacing, Numbering and Text Conversion and Substitution",
     "updatedAt": "2021-12-15T15:00:21Z"
-  },
-  {
-    "body": "https://github.com/charmbracelet/soft-serve",
-    "title": "charmbracelet/soft-serve: A tasty, self-hostable Git server for the command line🍦",
-    "updatedAt": "2021-12-09T08:05:31Z"
   }
 ]
