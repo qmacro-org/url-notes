@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://savannahostrowski.com/posts/raspberry-pi-cluster/",
+    "title": "Self-hosting on a Raspberry Pi cluster | Savannah Ostrowski",
+    "updatedAt": "2024-04-08T08:44:11Z"
+  },
+  {
     "body": "https://solar.lowtechmagazine.com/2023/06/rebuilding-a-solar-powered-website/",
     "title": "Rebuilding a Solar Powered Website | LOW←TECH MAGAZINE",
     "updatedAt": "2024-04-07T17:49:00Z"
@@ -1243,10 +1248,5 @@
     "body": "https://www.infoq.com/news/2021/12/reading-code/?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=culture-methods",
     "title": "The Challenges of Reading Code and How to Deal with Them",
     "updatedAt": "2021-12-17T09:35:42Z"
-  },
-  {
-    "body": "https://catonmat.net/sed-one-liners-explained-part-one",
-    "title": "Sed One-Liners Explained, Part I: File Spacing, Numbering and Text Conversion and Substitution",
-    "updatedAt": "2021-12-15T15:00:21Z"
   }
 ]
