@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://blog.surges.eu/sap-cap-generate-csv-files-with-test-data-easily/",
+    "title": "SAP CAP: Generate .csv-files with test data easily | My notes collection",
+    "updatedAt": "2024-04-09T09:39:40Z"
+  },
+  {
     "body": "https://savannahostrowski.com/posts/raspberry-pi-cluster/",
     "title": "Self-hosting on a Raspberry Pi cluster | Savannah Ostrowski",
     "updatedAt": "2024-04-08T08:44:11Z"
@@ -1243,10 +1248,5 @@
     "body": "https://cprimozic.net/blog/my-selfhosted-websites-architecture/",
     "title": "My Setup for Self-Hosting Dozens of Web Applications + Services on a Single Server - Casey Primozic's Homepage",
     "updatedAt": "2021-12-31T09:59:57Z"
-  },
-  {
-    "body": "https://www.infoq.com/news/2021/12/reading-code/?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=culture-methods",
-    "title": "The Challenges of Reading Code and How to Deal with Them",
-    "updatedAt": "2021-12-17T09:35:42Z"
   }
 ]

@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-04-08T08:44:11Z</updated>
+<updated>2024-04-09T09:39:40Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>SAP CAP: Generate .csv-files with test data easily | My notes collection</title>
+<link>https://blog.surges.eu/sap-cap-generate-csv-files-with-test-data-easily/</link>
+<updated>2024-04-09T09:39:40Z</updated>
+<summary>https://blog.surges.eu/sap-cap-generate-csv-files-with-test-data-easily/</summary>
+</entry>
 <entry>
 <title>Self-hosting on a Raspberry Pi cluster | Savannah Ostrowski</title>
 <link>https://savannahostrowski.com/posts/raspberry-pi-cluster/</link>
@@ -1497,11 +1503,5 @@
 <link>https://cprimozic.net/blog/my-selfhosted-websites-architecture/</link>
 <updated>2021-12-31T09:59:57Z</updated>
 <summary>https://cprimozic.net/blog/my-selfhosted-websites-architecture/</summary>
-</entry>
-<entry>
-<title>The Challenges of Reading Code and How to Deal with Them</title>
-<link>https://www.infoq.com/news/2021/12/reading-code/?utm_campaign=infoq_content&amp;utm_source=twitter&amp;utm_medium=feed&amp;utm_term=culture-methods</link>
-<updated>2021-12-17T09:35:42Z</updated>
-<summary>https://www.infoq.com/news/2021/12/reading-code/?utm_campaign=infoq_content&amp;utm_source=twitter&amp;utm_medium=feed&amp;utm_term=culture-methods</summary>
 </entry>
 </feed>
