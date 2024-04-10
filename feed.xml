@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-04-09T09:39:40Z</updated>
+<updated>2024-04-10T16:08:44Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Shell History Is Your Best Productivity Tool | Martin Heinz | Personal Website &amp; Blog</title>
+<link>https://martinheinz.dev/blog/110</link>
+<updated>2024-04-10T16:08:44Z</updated>
+<summary>https://martinheinz.dev/blog/110</summary>
+</entry>
 <entry>
 <title>SAP CAP: Generate .csv-files with test data easily | My notes collection</title>
 <link>https://blog.surges.eu/sap-cap-generate-csv-files-with-test-data-easily/</link>
@@ -1497,11 +1503,5 @@
 <link>https://blogs.sap.com/2022/01/22/howto-odata-high-level-overview/</link>
 <updated>2022-01-24T06:54:13Z</updated>
 <summary>https://blogs.sap.com/2022/01/22/howto-odata-high-level-overview/</summary>
-</entry>
-<entry>
-<title>My Setup for Self-Hosting Dozens of Web Applications + Services on a Single Server - Casey Primozic's Homepage</title>
-<link>https://cprimozic.net/blog/my-selfhosted-websites-architecture/</link>
-<updated>2021-12-31T09:59:57Z</updated>
-<summary>https://cprimozic.net/blog/my-selfhosted-websites-architecture/</summary>
 </entry>
 </feed>

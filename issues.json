@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://martinheinz.dev/blog/110",
+    "title": "Shell History Is Your Best Productivity Tool | Martin Heinz | Personal Website & Blog",
+    "updatedAt": "2024-04-10T16:08:44Z"
+  },
+  {
     "body": "https://blog.surges.eu/sap-cap-generate-csv-files-with-test-data-easily/",
     "title": "SAP CAP: Generate .csv-files with test data easily | My notes collection",
     "updatedAt": "2024-04-09T09:39:40Z"
@@ -1243,10 +1248,5 @@
     "body": "https://blogs.sap.com/2022/01/22/howto-odata-high-level-overview/",
     "title": "Howto OData – High level overview | SAP Blogs",
     "updatedAt": "2022-01-24T06:54:13Z"
-  },
-  {
-    "body": "https://cprimozic.net/blog/my-selfhosted-websites-architecture/",
-    "title": "My Setup for Self-Hosting Dozens of Web Applications + Services on a Single Server - Casey Primozic's Homepage",
-    "updatedAt": "2021-12-31T09:59:57Z"
   }
 ]
