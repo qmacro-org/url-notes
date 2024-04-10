@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://community.sap.com/t5/technology-blogs-by-sap/what-s-new-in-sap-cloud-application-programming-model-sap-teched-2023/ba-p/13576447",
+    "title": "What’s new in SAP Cloud Application Programming Mo... - SAP Community",
+    "updatedAt": "2024-04-10T16:13:05Z"
+  },
+  {
     "body": "https://martinheinz.dev/blog/110",
     "title": "Shell History Is Your Best Productivity Tool | Martin Heinz | Personal Website & Blog",
     "updatedAt": "2024-04-10T16:08:44Z"
@@ -1243,10 +1248,5 @@
     "body": "https://www.zachleat.com/web/trailing-slash/ via Salma",
     "title": "Trailing Slashes on URLs: Contentious or Settled?—zachleat.com",
     "updatedAt": "2022-01-25T16:42:37Z"
-  },
-  {
-    "body": "https://blogs.sap.com/2022/01/22/howto-odata-high-level-overview/",
-    "title": "Howto OData – High level overview | SAP Blogs",
-    "updatedAt": "2022-01-24T06:54:13Z"
   }
 ]
