@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-04-10T16:13:05Z</updated>
+<updated>2024-04-11T09:34:39Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>If Inheritance is so bad, why does everyone use it? • Buttondown</title>
+<link>https://buttondown.email/hillelwayne/archive/if-inheritance-is-so-bad-why-does-everyone-use-it/</link>
+<updated>2024-04-11T09:34:39Z</updated>
+<summary>https://buttondown.email/hillelwayne/archive/if-inheritance-is-so-bad-why-does-everyone-use-it/</summary>
+</entry>
 <entry>
 <title>What’s new in SAP Cloud Application Programming Mo... - SAP Community</title>
 <link>https://community.sap.com/t5/technology-blogs-by-sap/what-s-new-in-sap-cloud-application-programming-model-sap-teched-2023/ba-p/13576447</link>
@@ -1497,11 +1503,5 @@
 <link>https://grouptestwinner.com/best-4g-lte-router/</link>
 <updated>2022-01-30T20:37:16Z</updated>
 <summary>https://grouptestwinner.com/best-4g-lte-router/</summary>
-</entry>
-<entry>
-<title>Trailing Slashes on URLs: Contentious or Settled?—zachleat.com</title>
-<link>https://www.zachleat.com/web/trailing-slash/ via Salma</link>
-<updated>2022-01-25T16:42:37Z</updated>
-<summary>https://www.zachleat.com/web/trailing-slash/ via Salma</summary>
 </entry>
 </feed>
