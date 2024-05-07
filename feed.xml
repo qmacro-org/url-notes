@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-04-11T09:34:39Z</updated>
+<updated>2024-05-07T15:59:25Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Programming is Hard, Let's Go Scripting...</title>
+<link>https://www.perl.com/pub/2007/12/06/soto-11.html/</link>
+<updated>2024-05-07T15:59:25Z</updated>
+<summary>https://www.perl.com/pub/2007/12/06/soto-11.html/</summary>
+</entry>
 <entry>
 <title>If Inheritance is so bad, why does everyone use it? • Buttondown</title>
 <link>https://buttondown.email/hillelwayne/archive/if-inheritance-is-so-bad-why-does-everyone-use-it/</link>
@@ -1497,11 +1503,5 @@
 <link>https://www.revk.uk/2022/02/crlf-has-long-history.html</link>
 <updated>2022-02-08T17:35:20Z</updated>
 <summary>https://www.revk.uk/2022/02/crlf-has-long-history.html</summary>
-</entry>
-<entry>
-<title>Best Mains Powered 4G and 5G Routers – Grouptest Winner</title>
-<link>https://grouptestwinner.com/best-4g-lte-router/</link>
-<updated>2022-01-30T20:37:16Z</updated>
-<summary>https://grouptestwinner.com/best-4g-lte-router/</summary>
 </entry>
 </feed>
