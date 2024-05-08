@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-05-08T14:40:16Z</updated>
+<updated>2024-05-08T16:09:21Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>JSON command-line toolbox (jq, gron, jc, etc)</title>
+<link>https://racum.blog/articles/json-toolbox/</link>
+<updated>2024-05-08T16:09:21Z</updated>
+<summary>https://racum.blog/articles/json-toolbox/</summary>
+</entry>
 <entry>
 <title>Some explanations on how Odata annotations are rendered into the final EDM out of a CAP CDS service definition - Stack@SAP</title>
 <link>https://sap.stackenterprise.co/articles/43679</link>
@@ -1497,11 +1503,5 @@
 <link>https://revelry.co/insights/development/nix-time/</link>
 <updated>2022-02-18T07:55:38Z</updated>
 <summary>https://revelry.co/insights/development/nix-time/</summary>
-</entry>
-<entry>
-<title>A Fresh Look at IBM 3270 Information Display System</title>
-<link>https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system</link>
-<updated>2022-02-12T11:28:03Z</updated>
-<summary>https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system</summary>
 </entry>
 </feed>

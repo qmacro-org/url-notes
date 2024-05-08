@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://racum.blog/articles/json-toolbox/",
+    "title": "JSON command-line toolbox (jq, gron, jc, etc)",
+    "updatedAt": "2024-05-08T16:09:21Z"
+  },
+  {
     "body": "https://sap.stackenterprise.co/articles/43679",
     "title": "Some explanations on how Odata annotations are rendered into the final EDM out of a CAP CDS service definition - Stack@SAP",
     "updatedAt": "2024-05-08T14:40:16Z"
@@ -1243,10 +1248,5 @@
     "body": "https://revelry.co/insights/development/nix-time/",
     "title": "Nix: An Idea Whose Time Has Come",
     "updatedAt": "2022-02-18T07:55:38Z"
-  },
-  {
-    "body": "https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system",
-    "title": "A Fresh Look at IBM 3270 Information Display System",
-    "updatedAt": "2022-02-12T11:28:03Z"
   }
 ]
