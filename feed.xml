@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-05-07T15:59:25Z</updated>
+<updated>2024-05-08T14:40:16Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Some explanations on how Odata annotations are rendered into the final EDM out of a CAP CDS service definition - Stack@SAP</title>
+<link>https://sap.stackenterprise.co/articles/43679</link>
+<updated>2024-05-08T14:40:16Z</updated>
+<summary>https://sap.stackenterprise.co/articles/43679</summary>
+</entry>
 <entry>
 <title>Programming is Hard, Let's Go Scripting...</title>
 <link>https://www.perl.com/pub/2007/12/06/soto-11.html/</link>
@@ -1497,11 +1503,5 @@
 <link>https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system</link>
 <updated>2022-02-12T11:28:03Z</updated>
 <summary>https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system</summary>
-</entry>
-<entry>
-<title>RevK®'s ramblings: CR+LF has a long history...</title>
-<link>https://www.revk.uk/2022/02/crlf-has-long-history.html</link>
-<updated>2022-02-08T17:35:20Z</updated>
-<summary>https://www.revk.uk/2022/02/crlf-has-long-history.html</summary>
 </entry>
 </feed>

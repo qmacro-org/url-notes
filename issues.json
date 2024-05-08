@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://sap.stackenterprise.co/articles/43679",
+    "title": "Some explanations on how Odata annotations are rendered into the final EDM out of a CAP CDS service definition - Stack@SAP",
+    "updatedAt": "2024-05-08T14:40:16Z"
+  },
+  {
     "body": "https://www.perl.com/pub/2007/12/06/soto-11.html/",
     "title": "Programming is Hard, Let's Go Scripting...",
     "updatedAt": "2024-05-07T15:59:25Z"
@@ -1243,10 +1248,5 @@
     "body": "https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system",
     "title": "A Fresh Look at IBM 3270 Information Display System",
     "updatedAt": "2022-02-12T11:28:03Z"
-  },
-  {
-    "body": "https://www.revk.uk/2022/02/crlf-has-long-history.html",
-    "title": "RevK®'s ramblings: CR+LF has a long history...",
-    "updatedAt": "2022-02-08T17:35:20Z"
   }
 ]
