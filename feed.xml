@@ -1,12 +1,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-05-10T16:03:06Z</updated>
+<updated>2024-05-15T05:46:11Z</updated>
 <author><name>DJ Adams</name></author>
 <entry>
-<title>Was VMware's takeover by Broadcom a terrible mistake? - Tech Monitor</title>
-<link>https://techmonitor.ai/technology/cloud/vmware-takeover-by-broadcom-mistake</link>
-<updated>2024-05-10T16:03:06Z</updated>
-<summary>https://techmonitor.ai/technology/cloud/vmware-takeover-by-broadcom-mistake</summary>
+<title>Understanding Container Image Layers - Ken Muse</title>
+<link>https://www.kenmuse.com/blog/understanding-container-image-layers/</link>
+<updated>2024-05-15T05:46:11Z</updated>
+<summary>https://www.kenmuse.com/blog/understanding-container-image-layers/</summary>
 </entry>
 <entry>
 <title>Some explanations on how Odata annotations are rendered into the final EDM out of a CAP CDS service definition - Stack@SAP</title>
@@ -27,12 +27,6 @@
 <summary>https://buttondown.email/hillelwayne/archive/if-inheritance-is-so-bad-why-does-everyone-use-it/</summary>
 </entry>
 <entry>
-<title>What’s new in SAP Cloud Application Programming Mo... - SAP Community</title>
-<link>https://community.sap.com/t5/technology-blogs-by-sap/what-s-new-in-sap-cloud-application-programming-model-sap-teched-2023/ba-p/13576447</link>
-<updated>2024-04-10T16:13:05Z</updated>
-<summary>https://community.sap.com/t5/technology-blogs-by-sap/what-s-new-in-sap-cloud-application-programming-model-sap-teched-2023/ba-p/13576447</summary>
-</entry>
-<entry>
 <title>Shell History Is Your Best Productivity Tool | Martin Heinz | Personal Website &amp; Blog</title>
 <link>https://martinheinz.dev/blog/110</link>
 <updated>2024-04-10T16:08:44Z</updated>
@@ -49,12 +43,6 @@
 <link>https://savannahostrowski.com/posts/raspberry-pi-cluster/</link>
 <updated>2024-04-08T08:44:11Z</updated>
 <summary>https://savannahostrowski.com/posts/raspberry-pi-cluster/</summary>
-</entry>
-<entry>
-<title>Rebuilding a Solar Powered Website | LOW←TECH MAGAZINE</title>
-<link>https://solar.lowtechmagazine.com/2023/06/rebuilding-a-solar-powered-website/</link>
-<updated>2024-04-07T17:49:00Z</updated>
-<summary>https://solar.lowtechmagazine.com/2023/06/rebuilding-a-solar-powered-website/</summary>
 </entry>
 <entry>
 <title>Solar Panel Battery Storage: Can You Save Money Storing Energy? - Which?</title>
@@ -1503,5 +1491,17 @@
 <link>https://revelry.co/insights/development/nix-time/</link>
 <updated>2022-02-18T07:55:38Z</updated>
 <summary>https://revelry.co/insights/development/nix-time/</summary>
+</entry>
+<entry>
+<title>A Fresh Look at IBM 3270 Information Display System</title>
+<link>https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system</link>
+<updated>2022-02-12T11:28:03Z</updated>
+<summary>https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system</summary>
+</entry>
+<entry>
+<title>RevK®'s ramblings: CR+LF has a long history...</title>
+<link>https://www.revk.uk/2022/02/crlf-has-long-history.html</link>
+<updated>2022-02-08T17:35:20Z</updated>
+<summary>https://www.revk.uk/2022/02/crlf-has-long-history.html</summary>
 </entry>
 </feed>

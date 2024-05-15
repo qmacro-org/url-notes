@@ -1,8 +1,8 @@
 [
   {
-    "body": "https://techmonitor.ai/technology/cloud/vmware-takeover-by-broadcom-mistake",
-    "title": "Was VMware's takeover by Broadcom a terrible mistake? - Tech Monitor",
-    "updatedAt": "2024-05-10T16:03:06Z"
+    "body": "https://www.kenmuse.com/blog/understanding-container-image-layers/",
+    "title": "Understanding Container Image Layers - Ken Muse",
+    "updatedAt": "2024-05-15T05:46:11Z"
   },
   {
     "body": "https://sap.stackenterprise.co/articles/43679",
@@ -20,11 +20,6 @@
     "updatedAt": "2024-04-11T09:34:39Z"
   },
   {
-    "body": "https://community.sap.com/t5/technology-blogs-by-sap/what-s-new-in-sap-cloud-application-programming-model-sap-teched-2023/ba-p/13576447",
-    "title": "What’s new in SAP Cloud Application Programming Mo... - SAP Community",
-    "updatedAt": "2024-04-10T16:13:05Z"
-  },
-  {
     "body": "https://martinheinz.dev/blog/110",
     "title": "Shell History Is Your Best Productivity Tool | Martin Heinz | Personal Website & Blog",
     "updatedAt": "2024-04-10T16:08:44Z"
@@ -38,11 +33,6 @@
     "body": "https://savannahostrowski.com/posts/raspberry-pi-cluster/",
     "title": "Self-hosting on a Raspberry Pi cluster | Savannah Ostrowski",
     "updatedAt": "2024-04-08T08:44:11Z"
-  },
-  {
-    "body": "https://solar.lowtechmagazine.com/2023/06/rebuilding-a-solar-powered-website/",
-    "title": "Rebuilding a Solar Powered Website | LOW←TECH MAGAZINE",
-    "updatedAt": "2024-04-07T17:49:00Z"
   },
   {
     "body": "https://www.which.co.uk/reviews/solar-panels/article/solar-panels/solar-panel-battery-storage-a2AfJ0s5tCyT",
@@ -1248,5 +1238,15 @@
     "body": "https://revelry.co/insights/development/nix-time/",
     "title": "Nix: An Idea Whose Time Has Come",
     "updatedAt": "2022-02-18T07:55:38Z"
+  },
+  {
+    "body": "https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system",
+    "title": "A Fresh Look at IBM 3270 Information Display System",
+    "updatedAt": "2022-02-12T11:28:03Z"
+  },
+  {
+    "body": "https://www.revk.uk/2022/02/crlf-has-long-history.html",
+    "title": "RevK®'s ramblings: CR+LF has a long history...",
+    "updatedAt": "2022-02-08T17:35:20Z"
   }
 ]
