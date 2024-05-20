@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-05-15T05:46:11Z</updated>
+<updated>2024-05-20T16:53:33Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>What We Can Learn From Software History by Hillel Wayne – Deconstruct</title>
+<link>https://www.deconstructconf.com/2019/hillel-wayne-what-we-can-learn-from-software-history</link>
+<updated>2024-05-20T16:53:33Z</updated>
+<summary>https://www.deconstructconf.com/2019/hillel-wayne-what-we-can-learn-from-software-history</summary>
+</entry>
 <entry>
 <title>Understanding Container Image Layers - Ken Muse</title>
 <link>https://www.kenmuse.com/blog/understanding-container-image-layers/</link>
@@ -43,12 +49,6 @@
 <link>https://savannahostrowski.com/posts/raspberry-pi-cluster/</link>
 <updated>2024-04-08T08:44:11Z</updated>
 <summary>https://savannahostrowski.com/posts/raspberry-pi-cluster/</summary>
-</entry>
-<entry>
-<title>Solar Panel Battery Storage: Can You Save Money Storing Energy? - Which?</title>
-<link>https://www.which.co.uk/reviews/solar-panels/article/solar-panels/solar-panel-battery-storage-a2AfJ0s5tCyT</link>
-<updated>2024-04-07T17:11:47Z</updated>
-<summary>https://www.which.co.uk/reviews/solar-panels/article/solar-panels/solar-panel-battery-storage-a2AfJ0s5tCyT</summary>
 </entry>
 <entry>
 <title>The Secret Father of Modern Computing</title>
@@ -103,12 +103,6 @@
 <link>https://thenewstack.io/using-ai-to-improve-bad-business-writing/</link>
 <updated>2024-03-26T17:39:33Z</updated>
 <summary>https://thenewstack.io/using-ai-to-improve-bad-business-writing/</summary>
-</entry>
-<entry>
-<title>The What, Why and How of Containers – Annwan</title>
-<link>https://www.annwan.me/computers/what-why-how-containers/</link>
-<updated>2024-03-26T07:42:04Z</updated>
-<summary>https://www.annwan.me/computers/what-why-how-containers/</summary>
 </entry>
 <entry>
 <title>Configuring Neovim As A SAP Developer | by Simon Laursen | Mar, 2024 | Medium</title>
@@ -1503,5 +1497,11 @@
 <link>https://www.revk.uk/2022/02/crlf-has-long-history.html</link>
 <updated>2022-02-08T17:35:20Z</updated>
 <summary>https://www.revk.uk/2022/02/crlf-has-long-history.html</summary>
+</entry>
+<entry>
+<title>Best Mains Powered 4G and 5G Routers – Grouptest Winner</title>
+<link>https://grouptestwinner.com/best-4g-lte-router/</link>
+<updated>2022-01-30T20:37:16Z</updated>
+<summary>https://grouptestwinner.com/best-4g-lte-router/</summary>
 </entry>
 </feed>
