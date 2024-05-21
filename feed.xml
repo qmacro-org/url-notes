@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-05-20T16:53:33Z</updated>
+<updated>2024-05-21T09:56:52Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Your next obsolete skill: UI5 development | It's full of stars!</title>
+<link>https://www.itsfullofstars.de/2024/05/your-next-obsolete-skill-ui5-development/</link>
+<updated>2024-05-21T09:56:52Z</updated>
+<summary>https://www.itsfullofstars.de/2024/05/your-next-obsolete-skill-ui5-development/</summary>
+</entry>
 <entry>
 <title>What We Can Learn From Software History by Hillel Wayne – Deconstruct</title>
 <link>https://www.deconstructconf.com/2019/hillel-wayne-what-we-can-learn-from-software-history</link>
@@ -1497,11 +1503,5 @@
 <link>https://www.revk.uk/2022/02/crlf-has-long-history.html</link>
 <updated>2022-02-08T17:35:20Z</updated>
 <summary>https://www.revk.uk/2022/02/crlf-has-long-history.html</summary>
-</entry>
-<entry>
-<title>Best Mains Powered 4G and 5G Routers – Grouptest Winner</title>
-<link>https://grouptestwinner.com/best-4g-lte-router/</link>
-<updated>2022-01-30T20:37:16Z</updated>
-<summary>https://grouptestwinner.com/best-4g-lte-router/</summary>
 </entry>
 </feed>
