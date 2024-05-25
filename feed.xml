@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-05-24T11:07:59Z</updated>
+<updated>2024-05-25T06:33:17Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>ssh authentication via Yubikeys</title>
+<link>https://feldspaten.org/2024/02/03/ssh-authentication-via-Yubikeys/</link>
+<updated>2024-05-25T06:33:17Z</updated>
+<summary>https://feldspaten.org/2024/02/03/ssh-authentication-via-Yubikeys/</summary>
+</entry>
 <entry>
 <title>Language change harms our ability to communicate and understand, researcher argues</title>
 <link>https://phys.org/news/2024-05-language-ability-communicate.html</link>
@@ -1497,11 +1503,5 @@
 <link>https://revelry.co/insights/development/nix-time/</link>
 <updated>2022-02-18T07:55:38Z</updated>
 <summary>https://revelry.co/insights/development/nix-time/</summary>
-</entry>
-<entry>
-<title>A Fresh Look at IBM 3270 Information Display System</title>
-<link>https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system</link>
-<updated>2022-02-12T11:28:03Z</updated>
-<summary>https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system</summary>
 </entry>
 </feed>
