@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-05-28T10:20:42Z</updated>
+<updated>2024-05-30T16:16:46Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Why, after 6 years, I’m over GraphQL</title>
+<link>https://bessey.dev/blog/2024/05/24/why-im-over-graphql/</link>
+<updated>2024-05-30T16:16:46Z</updated>
+<summary>https://bessey.dev/blog/2024/05/24/why-im-over-graphql/</summary>
+</entry>
 <entry>
 <title>Pluralistic: Linkrot (21 May 2024) – Pluralistic: Daily links from Cory Doctorow</title>
 <link>https://pluralistic.net/2024/05/21/noway-back-machine/</link>
@@ -1497,11 +1503,5 @@
 <link>https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system</link>
 <updated>2022-02-12T11:28:03Z</updated>
 <summary>https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system</summary>
-</entry>
-<entry>
-<title>RevK®'s ramblings: CR+LF has a long history...</title>
-<link>https://www.revk.uk/2022/02/crlf-has-long-history.html</link>
-<updated>2022-02-08T17:35:20Z</updated>
-<summary>https://www.revk.uk/2022/02/crlf-has-long-history.html</summary>
 </entry>
 </feed>
