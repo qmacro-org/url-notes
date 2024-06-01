@@ -1,12 +1,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-05-30T16:16:46Z</updated>
+<updated>2024-06-01T04:32:48Z</updated>
 <author><name>DJ Adams</name></author>
 <entry>
-<title>Why, after 6 years, I’m over GraphQL</title>
-<link>https://bessey.dev/blog/2024/05/24/why-im-over-graphql/</link>
-<updated>2024-05-30T16:16:46Z</updated>
-<summary>https://bessey.dev/blog/2024/05/24/why-im-over-graphql/</summary>
+<title>Why, after 8 years, I still like GraphQL sometimes in the right context</title>
+<link>https://www.magiroux.com/eight-years-of-graphql</link>
+<updated>2024-06-01T04:32:48Z</updated>
+<summary>https://www.magiroux.com/eight-years-of-graphql</summary>
 </entry>
 <entry>
 <title>Pluralistic: Linkrot (21 May 2024) – Pluralistic: Daily links from Cory Doctorow</title>
