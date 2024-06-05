@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/",
+    "title": "You'll regret using natural keys",
+    "updatedAt": "2024-06-05T04:19:29Z"
+  },
+  {
     "body": "https://www.magiroux.com/eight-years-of-graphql",
     "title": "Why, after 8 years, I still like GraphQL sometimes in the right context",
     "updatedAt": "2024-06-01T04:32:48Z"
@@ -1243,10 +1248,5 @@
     "body": "https://revelry.co/insights/development/nix-time/",
     "title": "Nix: An Idea Whose Time Has Come",
     "updatedAt": "2022-02-18T07:55:38Z"
-  },
-  {
-    "body": "https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system",
-    "title": "A Fresh Look at IBM 3270 Information Display System",
-    "updatedAt": "2022-02-12T11:28:03Z"
   }
 ]

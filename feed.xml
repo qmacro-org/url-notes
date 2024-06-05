@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-06-01T04:32:48Z</updated>
+<updated>2024-06-05T04:19:29Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>You'll regret using natural keys</title>
+<link>https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/</link>
+<updated>2024-06-05T04:19:29Z</updated>
+<summary>https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/</summary>
+</entry>
 <entry>
 <title>Why, after 8 years, I still like GraphQL sometimes in the right context</title>
 <link>https://www.magiroux.com/eight-years-of-graphql</link>
@@ -1497,11 +1503,5 @@
 <link>https://revelry.co/insights/development/nix-time/</link>
 <updated>2022-02-18T07:55:38Z</updated>
 <summary>https://revelry.co/insights/development/nix-time/</summary>
-</entry>
-<entry>
-<title>A Fresh Look at IBM 3270 Information Display System</title>
-<link>https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system</link>
-<updated>2022-02-12T11:28:03Z</updated>
-<summary>https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system</summary>
 </entry>
 </feed>
