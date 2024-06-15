@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://ngrok.com/blog-post/reverse-proxy-vs-api-gateway?utm_medium=newsletter&_hsmi=304004273&utm_source=email",
+    "title": "ngrok blog: Reverse proxy vs. API gateway: Key differences explained",
+    "updatedAt": "2024-06-15T10:57:31Z"
+  },
+  {
     "body": "https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/",
     "title": "You'll regret using natural keys",
     "updatedAt": "2024-06-05T04:19:29Z"
@@ -1243,10 +1248,5 @@
     "body": "https://www.linux.com/news/state-of-the-open-mainframe-2021/ via Andrew Barnard",
     "title": "State of the Open Mainframe 2021 - Linux.com",
     "updatedAt": "2022-02-21T08:01:48Z"
-  },
-  {
-    "body": "https://revelry.co/insights/development/nix-time/",
-    "title": "Nix: An Idea Whose Time Has Come",
-    "updatedAt": "2022-02-18T07:55:38Z"
   }
 ]

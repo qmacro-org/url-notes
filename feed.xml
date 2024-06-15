@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-06-05T04:19:29Z</updated>
+<updated>2024-06-15T10:57:31Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>ngrok blog: Reverse proxy vs. API gateway: Key differences explained</title>
+<link>https://ngrok.com/blog-post/reverse-proxy-vs-api-gateway?utm_medium=newsletter&amp;_hsmi=304004273&amp;utm_source=email</link>
+<updated>2024-06-15T10:57:31Z</updated>
+<summary>https://ngrok.com/blog-post/reverse-proxy-vs-api-gateway?utm_medium=newsletter&amp;_hsmi=304004273&amp;utm_source=email</summary>
+</entry>
 <entry>
 <title>You'll regret using natural keys</title>
 <link>https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/</link>
@@ -1497,11 +1503,5 @@
 <link>https://www.linux.com/news/state-of-the-open-mainframe-2021/ via Andrew Barnard</link>
 <updated>2022-02-21T08:01:48Z</updated>
 <summary>https://www.linux.com/news/state-of-the-open-mainframe-2021/ via Andrew Barnard</summary>
-</entry>
-<entry>
-<title>Nix: An Idea Whose Time Has Come</title>
-<link>https://revelry.co/insights/development/nix-time/</link>
-<updated>2022-02-18T07:55:38Z</updated>
-<summary>https://revelry.co/insights/development/nix-time/</summary>
 </entry>
 </feed>
