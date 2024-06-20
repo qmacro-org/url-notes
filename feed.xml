@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-06-20T12:50:03Z</updated>
+<updated>2024-06-20T15:10:57Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>#SAPCAP: Understanding CQL Queries (Node.js) - SAP Community</title>
+<link>https://community.sap.com/t5/technology-blogs-by-sap/sapcap-understanding-cql-queries-node-js/ba-p/13554662</link>
+<updated>2024-06-20T15:10:57Z</updated>
+<summary>https://community.sap.com/t5/technology-blogs-by-sap/sapcap-understanding-cql-queries-node-js/ba-p/13554662</summary>
+</entry>
 <entry>
 <title>History and auto-completion with rlwrap : Neuroning</title>
 <link>https://neuroning.com/post/history-and-auto-completion-with-rlwrap/</link>
@@ -1497,11 +1503,5 @@
 <link>https://arcan-fe.com/2022/04/02/the-day-of-a-new-command-line-interface-shell/</link>
 <updated>2022-04-04T09:30:16Z</updated>
 <summary>https://arcan-fe.com/2022/04/02/the-day-of-a-new-command-line-interface-shell/</summary>
-</entry>
-<entry>
-<title>Kevin Boone: Why the fascination with retrocomputing?</title>
-<link>https://kevinboone.me/retrocomputing.html?i=1</link>
-<updated>2022-03-29T07:22:51Z</updated>
-<summary>https://kevinboone.me/retrocomputing.html?i=1</summary>
 </entry>
 </feed>
