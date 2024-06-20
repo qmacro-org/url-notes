@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://blog.notmyidea.org/generating-my-weeknotes-quotes-with-jq-and-readeck.html",
+    "title": "Generating my weeknotes quotes with jq and readeck - Alexis Métaireau",
+    "updatedAt": "2024-06-20T09:48:33Z"
+  },
+  {
     "body": "https://sap.stackenterprise.co/articles/56563",
     "title": "How to redefine annotation assignments - Stack@SAP",
     "updatedAt": "2024-06-20T09:24:12Z"
@@ -1243,10 +1248,5 @@
     "body": "https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/?utm_brand=arstechnica&utm_source=twitter&utm_social-type=owned&utm_medium=social",
     "title": "A brief tour of the PDP-11, the most influential minicomputer of all time | Ars Technica",
     "updatedAt": "2022-03-14T16:44:54Z"
-  },
-  {
-    "body": "https://observablehq.com/@rlesser/wordle-twitter-exploration",
-    "title": "Wordle, 15 Million Tweets Later / Robert Lesser / Observable",
-    "updatedAt": "2022-03-09T06:20:29Z"
   }
 ]
