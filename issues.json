@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://sap.stackenterprise.co/articles/56563",
+    "title": "How to redefine annotation assignments - Stack@SAP",
+    "updatedAt": "2024-06-20T09:24:12Z"
+  },
+  {
     "body": "https://ngrok.com/blog-post/reverse-proxy-vs-api-gateway?utm_medium=newsletter&_hsmi=304004273&utm_source=email",
     "title": "ngrok blog: Reverse proxy vs. API gateway: Key differences explained",
     "updatedAt": "2024-06-15T10:57:31Z"
@@ -1243,10 +1248,5 @@
     "body": "https://observablehq.com/@rlesser/wordle-twitter-exploration",
     "title": "Wordle, 15 Million Tweets Later / Robert Lesser / Observable",
     "updatedAt": "2022-03-09T06:20:29Z"
-  },
-  {
-    "body": "https://www.linux.com/news/state-of-the-open-mainframe-2021/ via Andrew Barnard",
-    "title": "State of the Open Mainframe 2021 - Linux.com",
-    "updatedAt": "2022-02-21T08:01:48Z"
   }
 ]

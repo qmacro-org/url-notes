@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-06-15T10:57:31Z</updated>
+<updated>2024-06-20T09:24:12Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>How to redefine annotation assignments - Stack@SAP</title>
+<link>https://sap.stackenterprise.co/articles/56563</link>
+<updated>2024-06-20T09:24:12Z</updated>
+<summary>https://sap.stackenterprise.co/articles/56563</summary>
+</entry>
 <entry>
 <title>ngrok blog: Reverse proxy vs. API gateway: Key differences explained</title>
 <link>https://ngrok.com/blog-post/reverse-proxy-vs-api-gateway?utm_medium=newsletter&amp;_hsmi=304004273&amp;utm_source=email</link>
@@ -1497,11 +1503,5 @@
 <link>https://observablehq.com/@rlesser/wordle-twitter-exploration</link>
 <updated>2022-03-09T06:20:29Z</updated>
 <summary>https://observablehq.com/@rlesser/wordle-twitter-exploration</summary>
-</entry>
-<entry>
-<title>State of the Open Mainframe 2021 - Linux.com</title>
-<link>https://www.linux.com/news/state-of-the-open-mainframe-2021/ via Andrew Barnard</link>
-<updated>2022-02-21T08:01:48Z</updated>
-<summary>https://www.linux.com/news/state-of-the-open-mainframe-2021/ via Andrew Barnard</summary>
 </entry>
 </feed>
