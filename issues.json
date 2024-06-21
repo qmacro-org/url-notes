@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://community.sap.com/t5/technology-blogs-by-sap/sap-cap-adapter-to-expose-odata-as-custom-rest-service/ba-p/13497591",
+    "title": "SAP CAP Adapter to expose OData as custom REST Ser... - SAP Community",
+    "updatedAt": "2024-06-21T05:49:09Z"
+  },
+  {
     "body": "https://community.sap.com/t5/technology-blogs-by-sap/sapcap-understanding-cql-queries-node-js/ba-p/13554662",
     "title": "#SAPCAP: Understanding CQL Queries (Node.js) - SAP Community",
     "updatedAt": "2024-06-20T15:10:57Z"
@@ -1243,10 +1248,5 @@
     "body": "https://blog.cloudflare.com/pipefail-how-a-missing-shell-option-slowed-cloudflare-down/",
     "title": "PIPEFAIL: How a missing shell option slowed Cloudflare down",
     "updatedAt": "2022-04-07T10:58:41Z"
-  },
-  {
-    "body": "https://arcan-fe.com/2022/04/02/the-day-of-a-new-command-line-interface-shell/",
-    "title": "The Day of a new Command-Line Interface: Shell | Arcan",
-    "updatedAt": "2022-04-04T09:30:16Z"
   }
 ]
