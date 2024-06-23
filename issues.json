@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://www.joanwestenberg.com/rss-the-forgotten-protocol-that-still-matters%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B",
+    "title": "@Westenberg | RSS: The forgotten protocol that still matters​​​​​​​​​​​​​​​​",
+    "updatedAt": "2024-06-23T05:54:29Z"
+  },
+  {
     "body": "https://community.sap.com/t5/technology-blogs-by-sap/sap-cap-adapter-to-expose-odata-as-custom-rest-service/ba-p/13497591",
     "title": "SAP CAP Adapter to expose OData as custom REST Ser... - SAP Community",
     "updatedAt": "2024-06-21T05:49:09Z"
@@ -1243,10 +1248,5 @@
     "body": "https://github.com/termstandard/colors",
     "title": "termstandard/colors: Color standards for terminal emulators",
     "updatedAt": "2022-04-09T08:21:49Z"
-  },
-  {
-    "body": "https://blog.cloudflare.com/pipefail-how-a-missing-shell-option-slowed-cloudflare-down/",
-    "title": "PIPEFAIL: How a missing shell option slowed Cloudflare down",
-    "updatedAt": "2022-04-07T10:58:41Z"
   }
 ]

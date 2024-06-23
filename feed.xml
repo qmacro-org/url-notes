@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-06-21T05:49:09Z</updated>
+<updated>2024-06-23T05:54:29Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>@Westenberg | RSS: The forgotten protocol that still matters​​​​​​​​​​​​​​​​</title>
+<link>https://www.joanwestenberg.com/rss-the-forgotten-protocol-that-still-matters%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B</link>
+<updated>2024-06-23T05:54:29Z</updated>
+<summary>https://www.joanwestenberg.com/rss-the-forgotten-protocol-that-still-matters%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B</summary>
+</entry>
 <entry>
 <title>SAP CAP Adapter to expose OData as custom REST Ser... - SAP Community</title>
 <link>https://community.sap.com/t5/technology-blogs-by-sap/sap-cap-adapter-to-expose-odata-as-custom-rest-service/ba-p/13497591</link>
@@ -1497,11 +1503,5 @@
 <link>https://github.com/termstandard/colors</link>
 <updated>2022-04-09T08:21:49Z</updated>
 <summary>https://github.com/termstandard/colors</summary>
-</entry>
-<entry>
-<title>PIPEFAIL: How a missing shell option slowed Cloudflare down</title>
-<link>https://blog.cloudflare.com/pipefail-how-a-missing-shell-option-slowed-cloudflare-down/</link>
-<updated>2022-04-07T10:58:41Z</updated>
-<summary>https://blog.cloudflare.com/pipefail-how-a-missing-shell-option-slowed-cloudflare-down/</summary>
 </entry>
 </feed>
