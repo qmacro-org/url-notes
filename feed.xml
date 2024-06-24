@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-06-23T05:54:29Z</updated>
+<updated>2024-06-24T05:20:26Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>The Five Orders of Ignorance – Communications of the ACM</title>
+<link>https://cacm.acm.org/opinion/the-five-orders-of-ignorance/#body-3</link>
+<updated>2024-06-24T05:20:26Z</updated>
+<summary>https://cacm.acm.org/opinion/the-five-orders-of-ignorance/#body-3</summary>
+</entry>
 <entry>
 <title>@Westenberg | RSS: The forgotten protocol that still matters​​​​​​​​​​​​​​​​</title>
 <link>https://www.joanwestenberg.com/rss-the-forgotten-protocol-that-still-matters%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B</link>
@@ -1497,11 +1503,5 @@
 <link>https://www.docker.com/blog/announcing-docker-sbom-a-step-towards-more-visibility-into-docker-images/</link>
 <updated>2022-04-09T08:46:44Z</updated>
 <summary>https://www.docker.com/blog/announcing-docker-sbom-a-step-towards-more-visibility-into-docker-images/</summary>
-</entry>
-<entry>
-<title>termstandard/colors: Color standards for terminal emulators</title>
-<link>https://github.com/termstandard/colors</link>
-<updated>2022-04-09T08:21:49Z</updated>
-<summary>https://github.com/termstandard/colors</summary>
 </entry>
 </feed>
