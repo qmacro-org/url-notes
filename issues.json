@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://www.wired.com/story/dark-mode-chrome-android-ios-science/",
+    "title": "Dark mode isn't as good for your eyes as you believe | WIRED",
+    "updatedAt": "2024-07-08T13:11:09Z"
+  },
+  {
     "body": "https://cacm.acm.org/opinion/the-five-orders-of-ignorance/#body-3",
     "title": "The Five Orders of Ignorance – Communications of the ACM",
     "updatedAt": "2024-06-24T05:20:26Z"
@@ -1243,10 +1248,5 @@
     "body": "https://frontegg.com/blog/building-a-multi-tenant-enterprise-saas-application-on-aws",
     "title": "Building a Multi-tenant Enterprise SaaS Application on AWS | Frontegg",
     "updatedAt": "2022-04-22T04:09:50Z"
-  },
-  {
-    "body": "https://www.docker.com/blog/announcing-docker-sbom-a-step-towards-more-visibility-into-docker-images/",
-    "title": "Announcing Docker SBOM: A step towards more visibility into Docker images - Docker",
-    "updatedAt": "2022-04-09T08:46:44Z"
   }
 ]
