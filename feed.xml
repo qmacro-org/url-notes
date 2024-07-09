@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-07-08T13:11:09Z</updated>
+<updated>2024-07-09T12:21:09Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Entering text in the terminal is complicated</title>
+<link>https://jvns.ca/blog/2024/07/08/readline/</link>
+<updated>2024-07-09T12:21:09Z</updated>
+<summary>https://jvns.ca/blog/2024/07/08/readline/</summary>
+</entry>
 <entry>
 <title>Dark mode isn't as good for your eyes as you believe | WIRED</title>
 <link>https://www.wired.com/story/dark-mode-chrome-android-ios-science/</link>
@@ -1497,11 +1503,5 @@
 <link>https://www.brimdata.io/blog/introducing-zq/</link>
 <updated>2022-04-28T07:05:05Z</updated>
 <summary>https://www.brimdata.io/blog/introducing-zq/</summary>
-</entry>
-<entry>
-<title>Building a Multi-tenant Enterprise SaaS Application on AWS | Frontegg</title>
-<link>https://frontegg.com/blog/building-a-multi-tenant-enterprise-saas-application-on-aws</link>
-<updated>2022-04-22T04:09:50Z</updated>
-<summary>https://frontegg.com/blog/building-a-multi-tenant-enterprise-saas-application-on-aws</summary>
 </entry>
 </feed>
