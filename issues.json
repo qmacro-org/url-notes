@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://evanhahn.com/programming-beliefs-as-of-july-2024/",
+    "title": "My programming beliefs as of July 2024",
+    "updatedAt": "2024-07-13T13:27:40Z"
+  },
+  {
     "body": "https://jvns.ca/blog/2024/07/08/readline/",
     "title": "Entering text in the terminal is complicated",
     "updatedAt": "2024-07-09T12:21:09Z"
@@ -1243,10 +1248,5 @@
     "body": "https://www.infoworld.com/article/3658110/developer-experience-doesnt-have-to-stop-at-the-front-end.html via @monkchips\r\n",
     "title": "Developer experience doesn’t have to stop at the front end | InfoWorld",
     "updatedAt": "2022-05-02T12:02:51Z"
-  },
-  {
-    "body": "https://www.brimdata.io/blog/introducing-zq/",
-    "title": "Introducing zq: an Easier (and Faster) Alternative to jq | Brim Data",
-    "updatedAt": "2022-04-28T07:05:05Z"
   }
 ]

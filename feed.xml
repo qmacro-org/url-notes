@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-07-09T12:21:09Z</updated>
+<updated>2024-07-13T13:27:40Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>My programming beliefs as of July 2024</title>
+<link>https://evanhahn.com/programming-beliefs-as-of-july-2024/</link>
+<updated>2024-07-13T13:27:40Z</updated>
+<summary>https://evanhahn.com/programming-beliefs-as-of-july-2024/</summary>
+</entry>
 <entry>
 <title>Entering text in the terminal is complicated</title>
 <link>https://jvns.ca/blog/2024/07/08/readline/</link>
@@ -1497,11 +1503,5 @@
 <updated>2022-05-02T12:02:51Z</updated>
 <summary>https://www.infoworld.com/article/3658110/developer-experience-doesnt-have-to-stop-at-the-front-end.html via @monkchips
 </summary>
-</entry>
-<entry>
-<title>Introducing zq: an Easier (and Faster) Alternative to jq | Brim Data</title>
-<link>https://www.brimdata.io/blog/introducing-zq/</link>
-<updated>2022-04-28T07:05:05Z</updated>
-<summary>https://www.brimdata.io/blog/introducing-zq/</summary>
 </entry>
 </feed>
