@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://community.sap.com/t5/technology-blogs-by-sap/introducing-a-sap-cap-node-js-plugin-to-generate-semantic-mock-data-cap-js/ba-p/13756407",
+    "title": "Introducing a SAP CAP Node.js plugin to generate s... - SAP Community",
+    "updatedAt": "2024-07-17T13:45:30Z"
+  },
+  {
     "body": "https://evanhahn.com/programming-beliefs-as-of-july-2024/",
     "title": "My programming beliefs as of July 2024",
     "updatedAt": "2024-07-13T13:27:40Z"
@@ -1243,10 +1248,5 @@
     "body": "https://onceupon.github.io/Bash-Oneliner/ via Christian Drumm",
     "title": "Bash-Oneliner | A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.",
     "updatedAt": "2022-05-13T05:58:19Z"
-  },
-  {
-    "body": "https://www.infoworld.com/article/3658110/developer-experience-doesnt-have-to-stop-at-the-front-end.html via @monkchips\r\n",
-    "title": "Developer experience doesn’t have to stop at the front end | InfoWorld",
-    "updatedAt": "2022-05-02T12:02:51Z"
   }
 ]

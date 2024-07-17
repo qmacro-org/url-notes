@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-07-13T13:27:40Z</updated>
+<updated>2024-07-17T13:45:30Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Introducing a SAP CAP Node.js plugin to generate s... - SAP Community</title>
+<link>https://community.sap.com/t5/technology-blogs-by-sap/introducing-a-sap-cap-node-js-plugin-to-generate-semantic-mock-data-cap-js/ba-p/13756407</link>
+<updated>2024-07-17T13:45:30Z</updated>
+<summary>https://community.sap.com/t5/technology-blogs-by-sap/introducing-a-sap-cap-node-js-plugin-to-generate-semantic-mock-data-cap-js/ba-p/13756407</summary>
+</entry>
 <entry>
 <title>My programming beliefs as of July 2024</title>
 <link>https://evanhahn.com/programming-beliefs-as-of-july-2024/</link>
@@ -1495,13 +1501,5 @@
 <link>https://onceupon.github.io/Bash-Oneliner/ via Christian Drumm</link>
 <updated>2022-05-13T05:58:19Z</updated>
 <summary>https://onceupon.github.io/Bash-Oneliner/ via Christian Drumm</summary>
-</entry>
-<entry>
-<title>Developer experience doesn’t have to stop at the front end | InfoWorld</title>
-<link>https://www.infoworld.com/article/3658110/developer-experience-doesnt-have-to-stop-at-the-front-end.html via @monkchips
-</link>
-<updated>2022-05-02T12:02:51Z</updated>
-<summary>https://www.infoworld.com/article/3658110/developer-experience-doesnt-have-to-stop-at-the-front-end.html via @monkchips
-</summary>
 </entry>
 </feed>
