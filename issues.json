@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://tailscale.com/blog/new-internet",
+    "title": "The New Internet",
+    "updatedAt": "2024-07-27T06:09:40Z"
+  },
+  {
     "body": "https://community.sap.com/t5/technology-blogs-by-sap/introducing-a-sap-cap-node-js-plugin-to-generate-semantic-mock-data-cap-js/ba-p/13756407",
     "title": "Introducing a SAP CAP Node.js plugin to generate s... - SAP Community",
     "updatedAt": "2024-07-17T13:45:30Z"
@@ -1243,10 +1248,5 @@
     "body": "https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/",
     "title": "HTTP/3 From A To Z: Core Concepts — Smashing Magazine",
     "updatedAt": "2022-06-07T13:35:37Z"
-  },
-  {
-    "body": "https://onceupon.github.io/Bash-Oneliner/ via Christian Drumm",
-    "title": "Bash-Oneliner | A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.",
-    "updatedAt": "2022-05-13T05:58:19Z"
   }
 ]
