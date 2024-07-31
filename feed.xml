@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-07-27T06:09:40Z</updated>
+<updated>2024-07-31T10:08:38Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Calling ed(1) from less(1)</title>
+<link>http://blog.syncpup.com/posts/calling-ed-from-less.html</link>
+<updated>2024-07-31T10:08:38Z</updated>
+<summary>http://blog.syncpup.com/posts/calling-ed-from-less.html</summary>
+</entry>
 <entry>
 <title>The New Internet</title>
 <link>https://tailscale.com/blog/new-internet</link>
@@ -1495,11 +1501,5 @@
 <link>https://www.infoworld.com/article/3663031/tired-of-searching-slack-github-and-google-drive-separately-do-it-all-at-once-in-sql.html</link>
 <updated>2022-06-07T14:16:00Z</updated>
 <summary>https://www.infoworld.com/article/3663031/tired-of-searching-slack-github-and-google-drive-separately-do-it-all-at-once-in-sql.html</summary>
-</entry>
-<entry>
-<title>HTTP/3 From A To Z: Core Concepts — Smashing Magazine</title>
-<link>https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/</link>
-<updated>2022-06-07T13:35:37Z</updated>
-<summary>https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/</summary>
 </entry>
 </feed>
