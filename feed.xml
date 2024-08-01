@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-07-31T10:08:38Z</updated>
+<updated>2024-08-01T15:43:23Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Cruise guide to the Bridgewater Canal - Canal Boat</title>
+<link>https://www.canalboat.co.uk/canal-boat/cruise-guide-to-the-bridgewater-canal-6291582/</link>
+<updated>2024-08-01T15:43:23Z</updated>
+<summary>https://www.canalboat.co.uk/canal-boat/cruise-guide-to-the-bridgewater-canal-6291582/</summary>
+</entry>
 <entry>
 <title>Calling ed(1) from less(1)</title>
 <link>http://blog.syncpup.com/posts/calling-ed-from-less.html</link>
@@ -1495,11 +1501,5 @@
 <link>https://www.infoworld.com/article/3662752/cloud-complicates-everything-graphql-and-supergraphs-offer-hope.html</link>
 <updated>2022-06-07T15:36:55Z</updated>
 <summary>https://www.infoworld.com/article/3662752/cloud-complicates-everything-graphql-and-supergraphs-offer-hope.html</summary>
-</entry>
-<entry>
-<title>Tired of searching Slack, GitHub, and Google Drive separately? Do it all at once in SQL | InfoWorld</title>
-<link>https://www.infoworld.com/article/3663031/tired-of-searching-slack-github-and-google-drive-separately-do-it-all-at-once-in-sql.html</link>
-<updated>2022-06-07T14:16:00Z</updated>
-<summary>https://www.infoworld.com/article/3663031/tired-of-searching-slack-github-and-google-drive-separately-do-it-all-at-once-in-sql.html</summary>
 </entry>
 </feed>

@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://www.canalboat.co.uk/canal-boat/cruise-guide-to-the-bridgewater-canal-6291582/",
+    "title": "Cruise guide to the Bridgewater Canal - Canal Boat",
+    "updatedAt": "2024-08-01T15:43:23Z"
+  },
+  {
     "body": "http://blog.syncpup.com/posts/calling-ed-from-less.html",
     "title": "Calling ed(1) from less(1)",
     "updatedAt": "2024-07-31T10:08:38Z"
@@ -1243,10 +1248,5 @@
     "body": "https://www.infoworld.com/article/3662752/cloud-complicates-everything-graphql-and-supergraphs-offer-hope.html",
     "title": "Cloud complicates everything. GraphQL and supergraphs offer hope | InfoWorld",
     "updatedAt": "2022-06-07T15:36:55Z"
-  },
-  {
-    "body": "https://www.infoworld.com/article/3663031/tired-of-searching-slack-github-and-google-drive-separately-do-it-all-at-once-in-sql.html",
-    "title": "Tired of searching Slack, GitHub, and Google Drive separately? Do it all at once in SQL | InfoWorld",
-    "updatedAt": "2022-06-07T14:16:00Z"
   }
 ]
