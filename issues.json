@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://garrido.io/notes/archiving-and-syndicating-mastodon-posts/",
+    "title": "Archiving and syndicating Mastodon posts",
+    "updatedAt": "2024-08-04T06:48:25Z"
+  },
+  {
     "body": "https://www.canalboat.co.uk/canal-boat/cruise-guide-to-the-bridgewater-canal-6291582/",
     "title": "Cruise guide to the Bridgewater Canal - Canal Boat",
     "updatedAt": "2024-08-01T15:43:23Z"
@@ -1243,10 +1248,5 @@
     "body": "https://cacm.acm.org/magazines/2011/8/114933-the-robustness-principle-reconsidered/fulltext",
     "title": "The Robustness Principle Reconsidered | August 2011 | Communications of the ACM",
     "updatedAt": "2022-06-13T05:49:57Z"
-  },
-  {
-    "body": "https://www.infoworld.com/article/3662752/cloud-complicates-everything-graphql-and-supergraphs-offer-hope.html",
-    "title": "Cloud complicates everything. GraphQL and supergraphs offer hope | InfoWorld",
-    "updatedAt": "2022-06-07T15:36:55Z"
   }
 ]

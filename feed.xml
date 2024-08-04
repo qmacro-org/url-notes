@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-08-01T15:43:23Z</updated>
+<updated>2024-08-04T06:48:25Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Archiving and syndicating Mastodon posts</title>
+<link>https://garrido.io/notes/archiving-and-syndicating-mastodon-posts/</link>
+<updated>2024-08-04T06:48:25Z</updated>
+<summary>https://garrido.io/notes/archiving-and-syndicating-mastodon-posts/</summary>
+</entry>
 <entry>
 <title>Cruise guide to the Bridgewater Canal - Canal Boat</title>
 <link>https://www.canalboat.co.uk/canal-boat/cruise-guide-to-the-bridgewater-canal-6291582/</link>
@@ -1495,11 +1501,5 @@
 <link>https://cacm.acm.org/magazines/2011/8/114933-the-robustness-principle-reconsidered/fulltext</link>
 <updated>2022-06-13T05:49:57Z</updated>
 <summary>https://cacm.acm.org/magazines/2011/8/114933-the-robustness-principle-reconsidered/fulltext</summary>
-</entry>
-<entry>
-<title>Cloud complicates everything. GraphQL and supergraphs offer hope | InfoWorld</title>
-<link>https://www.infoworld.com/article/3662752/cloud-complicates-everything-graphql-and-supergraphs-offer-hope.html</link>
-<updated>2022-06-07T15:36:55Z</updated>
-<summary>https://www.infoworld.com/article/3662752/cloud-complicates-everything-graphql-and-supergraphs-offer-hope.html</summary>
 </entry>
 </feed>
