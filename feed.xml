@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-08-04T06:48:25Z</updated>
+<updated>2024-08-06T12:47:59Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Container networking - Ales Brelih</title>
+<link>https://alesbrelih.dev/posts/2024-07-31-containers-and-network-namespaces/</link>
+<updated>2024-08-06T12:47:59Z</updated>
+<summary>https://alesbrelih.dev/posts/2024-07-31-containers-and-network-namespaces/</summary>
+</entry>
 <entry>
 <title>Archiving and syndicating Mastodon posts</title>
 <link>https://garrido.io/notes/archiving-and-syndicating-mastodon-posts/</link>
@@ -1495,11 +1501,5 @@
 <link>https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/extracting-sap-data-using-odata-part-1-the-first-extraction/ba-p/2841635</link>
 <updated>2022-06-15T19:57:36Z</updated>
 <summary>https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/extracting-sap-data-using-odata-part-1-the-first-extraction/ba-p/2841635</summary>
-</entry>
-<entry>
-<title>The Robustness Principle Reconsidered | August 2011 | Communications of the ACM</title>
-<link>https://cacm.acm.org/magazines/2011/8/114933-the-robustness-principle-reconsidered/fulltext</link>
-<updated>2022-06-13T05:49:57Z</updated>
-<summary>https://cacm.acm.org/magazines/2011/8/114933-the-robustness-principle-reconsidered/fulltext</summary>
 </entry>
 </feed>

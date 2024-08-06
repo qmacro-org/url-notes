@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://alesbrelih.dev/posts/2024-07-31-containers-and-network-namespaces/",
+    "title": "Container networking - Ales Brelih",
+    "updatedAt": "2024-08-06T12:47:59Z"
+  },
+  {
     "body": "https://garrido.io/notes/archiving-and-syndicating-mastodon-posts/",
     "title": "Archiving and syndicating Mastodon posts",
     "updatedAt": "2024-08-04T06:48:25Z"
@@ -1243,10 +1248,5 @@
     "body": "https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/extracting-sap-data-using-odata-part-1-the-first-extraction/ba-p/2841635",
     "title": "Extracting SAP data using OData - Part 1 - The First Extraction - Microsoft Tech Community",
     "updatedAt": "2022-06-15T19:57:36Z"
-  },
-  {
-    "body": "https://cacm.acm.org/magazines/2011/8/114933-the-robustness-principle-reconsidered/fulltext",
-    "title": "The Robustness Principle Reconsidered | August 2011 | Communications of the ACM",
-    "updatedAt": "2022-06-13T05:49:57Z"
   }
 ]
