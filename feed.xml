@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-08-06T12:47:59Z</updated>
+<updated>2024-08-07T15:13:37Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Package Repositories - Proxmox VE</title>
+<link>https://pve.proxmox.com/wiki/Package_Repositories</link>
+<updated>2024-08-07T15:13:37Z</updated>
+<summary>https://pve.proxmox.com/wiki/Package_Repositories</summary>
+</entry>
 <entry>
 <title>Container networking - Ales Brelih</title>
 <link>https://alesbrelih.dev/posts/2024-07-31-containers-and-network-namespaces/</link>
@@ -1495,11 +1501,5 @@
 <link>https://www.arthurwu.com/posts/next-era-of-no-code</link>
 <updated>2022-07-25T16:30:22Z</updated>
 <summary>https://www.arthurwu.com/posts/next-era-of-no-code</summary>
-</entry>
-<entry>
-<title>Extracting SAP data using OData - Part 1 - The First Extraction - Microsoft Tech Community</title>
-<link>https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/extracting-sap-data-using-odata-part-1-the-first-extraction/ba-p/2841635</link>
-<updated>2022-06-15T19:57:36Z</updated>
-<summary>https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/extracting-sap-data-using-odata-part-1-the-first-extraction/ba-p/2841635</summary>
 </entry>
 </feed>
