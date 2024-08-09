@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-08-07T15:34:07Z</updated>
+<updated>2024-08-09T14:33:51Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>A Look at Lazydocker, a Cursor-Based Docker Management Tool - The New Stack</title>
+<link>https://thenewstack.io/a-look-at-lazydocker-a-cursor-based-docker-management-tool/</link>
+<updated>2024-08-09T14:33:51Z</updated>
+<summary>https://thenewstack.io/a-look-at-lazydocker-a-cursor-based-docker-management-tool/</summary>
+</entry>
 <entry>
 <title>LXC vs Docker: Which Container Platform Is Right for You? - Earthly Blog</title>
 <link>https://earthly.dev/blog/lxc-vs-docker/</link>
@@ -1495,11 +1501,5 @@
 <link>https://pages.github.tools.sap/atom-cfs/atom-docs/docs/atom-tools/atomctl/</link>
 <updated>2022-07-26T15:25:21Z</updated>
 <summary>https://pages.github.tools.sap/atom-cfs/atom-docs/docs/atom-tools/atomctl/</summary>
-</entry>
-<entry>
-<title>Pluralistic: 25 Jul 2022 – Pluralistic: Daily links from Cory Doctorow</title>
-<link>https://pluralistic.net/2022/07/25/can-you-hear-me-now/#acx-ripoff</link>
-<updated>2022-07-26T11:22:16Z</updated>
-<summary>https://pluralistic.net/2022/07/25/can-you-hear-me-now/#acx-ripoff</summary>
 </entry>
 </feed>
