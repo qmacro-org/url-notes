@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-08-09T14:33:51Z</updated>
+<updated>2024-08-11T20:08:13Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Distrobox</title>
+<link>https://distrobox.it/</link>
+<updated>2024-08-11T20:08:13Z</updated>
+<summary>https://distrobox.it/</summary>
+</entry>
 <entry>
 <title>A Look at Lazydocker, a Cursor-Based Docker Management Tool - The New Stack</title>
 <link>https://thenewstack.io/a-look-at-lazydocker-a-cursor-based-docker-management-tool/</link>
@@ -1495,11 +1501,5 @@
 <link>https://www.infoworld.com/article/3668032/visualizing-the-hacker-news-api-with-hcl-and-sql.html</link>
 <updated>2022-07-27T15:46:20Z</updated>
 <summary>https://www.infoworld.com/article/3668032/visualizing-the-hacker-news-api-with-hcl-and-sql.html</summary>
-</entry>
-<entry>
-<title>Using Atomctl | UNIFIED SERVICES DOCUMENTATION</title>
-<link>https://pages.github.tools.sap/atom-cfs/atom-docs/docs/atom-tools/atomctl/</link>
-<updated>2022-07-26T15:25:21Z</updated>
-<summary>https://pages.github.tools.sap/atom-cfs/atom-docs/docs/atom-tools/atomctl/</summary>
 </entry>
 </feed>
