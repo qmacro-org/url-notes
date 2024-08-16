@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-08-16T07:13:27Z</updated>
+<updated>2024-08-16T07:13:40Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>neovim/BUILD.md at master · neovim/neovim</title>
+<link>https://github.com/neovim/neovim/blob/master/BUILD.md</link>
+<updated>2024-08-16T07:13:40Z</updated>
+<summary>https://github.com/neovim/neovim/blob/master/BUILD.md</summary>
+</entry>
 <entry>
 <title>Export binaries | Docker Docs</title>
 <link>https://docs.docker.com/build/guide/export/</link>
@@ -1495,11 +1501,5 @@
 <link>https://github.com/charmbracelet/gum</link>
 <updated>2022-07-29T20:09:32Z</updated>
 <summary>https://github.com/charmbracelet/gum</summary>
-</entry>
-<entry>
-<title>You Don’t Need Microservices. Microservices are very much in vogue… | by Matthew Spence | Jul, 2022 | ITNEXT</title>
-<link>https://itnext.io/you-dont-need-microservices-2ad8508b9e27</link>
-<updated>2022-07-29T20:08:33Z</updated>
-<summary>https://itnext.io/you-dont-need-microservices-2ad8508b9e27</summary>
 </entry>
 </feed>

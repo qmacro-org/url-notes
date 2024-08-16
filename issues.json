@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://github.com/neovim/neovim/blob/master/BUILD.md",
+    "title": "neovim/BUILD.md at master · neovim/neovim",
+    "updatedAt": "2024-08-16T07:13:40Z"
+  },
+  {
     "body": "https://docs.docker.com/build/guide/export/",
     "title": "Export binaries | Docker Docs",
     "updatedAt": "2024-08-16T07:13:27Z"
@@ -1243,10 +1248,5 @@
     "body": "https://github.com/charmbracelet/gum",
     "title": "charmbracelet/gum: A tool for glamorous shell scripts 🎀",
     "updatedAt": "2022-07-29T20:09:32Z"
-  },
-  {
-    "body": "https://itnext.io/you-dont-need-microservices-2ad8508b9e27",
-    "title": "You Don’t Need Microservices. Microservices are very much in vogue… | by Matthew Spence | Jul, 2022 | ITNEXT",
-    "updatedAt": "2022-07-29T20:08:33Z"
   }
 ]
