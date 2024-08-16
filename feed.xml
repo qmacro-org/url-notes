@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-08-16T07:13:40Z</updated>
+<updated>2024-08-16T08:30:23Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Chrome OS: Nerd Fonts for the terminal</title>
+<link>https://ricma.co/posts/tech/tutorials/chrome-os-nerd-fonts/</link>
+<updated>2024-08-16T08:30:23Z</updated>
+<summary>https://ricma.co/posts/tech/tutorials/chrome-os-nerd-fonts/</summary>
+</entry>
 <entry>
 <title>neovim/BUILD.md at master · neovim/neovim</title>
 <link>https://github.com/neovim/neovim/blob/master/BUILD.md</link>
@@ -1495,11 +1501,5 @@
 <link>https://suraj.dev/blog/my-4g-setup-for-working-remotely-from-anywhere</link>
 <updated>2022-07-29T20:10:05Z</updated>
 <summary>https://suraj.dev/blog/my-4g-setup-for-working-remotely-from-anywhere</summary>
-</entry>
-<entry>
-<title>charmbracelet/gum: A tool for glamorous shell scripts 🎀</title>
-<link>https://github.com/charmbracelet/gum</link>
-<updated>2022-07-29T20:09:32Z</updated>
-<summary>https://github.com/charmbracelet/gum</summary>
 </entry>
 </feed>

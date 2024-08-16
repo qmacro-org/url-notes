@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://ricma.co/posts/tech/tutorials/chrome-os-nerd-fonts/",
+    "title": "Chrome OS: Nerd Fonts for the terminal",
+    "updatedAt": "2024-08-16T08:30:23Z"
+  },
+  {
     "body": "https://github.com/neovim/neovim/blob/master/BUILD.md",
     "title": "neovim/BUILD.md at master · neovim/neovim",
     "updatedAt": "2024-08-16T07:13:40Z"
@@ -1243,10 +1248,5 @@
     "body": "https://suraj.dev/blog/my-4g-setup-for-working-remotely-from-anywhere",
     "title": "My 4G setup for working remotely from anywhere",
     "updatedAt": "2022-07-29T20:10:05Z"
-  },
-  {
-    "body": "https://github.com/charmbracelet/gum",
-    "title": "charmbracelet/gum: A tool for glamorous shell scripts 🎀",
-    "updatedAt": "2022-07-29T20:09:32Z"
   }
 ]
