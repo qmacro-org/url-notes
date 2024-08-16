@@ -1,5 +1,15 @@
 [
   {
+    "body": "https://docs.docker.com/build/guide/export/",
+    "title": "Export binaries | Docker Docs",
+    "updatedAt": "2024-08-16T07:13:27Z"
+  },
+  {
+    "body": "https://dev.to/izackv/running-a-docker-container-with-a-custom-non-root-user-syncing-host-and-container-permissions-26mb",
+    "title": "Running a Docker Container with a Custom Non-Root User: Syncing Host and Container Permissions - DEV Community",
+    "updatedAt": "2024-08-16T07:13:13Z"
+  },
+  {
     "body": "https://distrobox.it/",
     "title": "Distrobox",
     "updatedAt": "2024-08-11T20:08:13Z"
@@ -1238,15 +1248,5 @@
     "body": "https://itnext.io/you-dont-need-microservices-2ad8508b9e27",
     "title": "You Don’t Need Microservices. Microservices are very much in vogue… | by Matthew Spence | Jul, 2022 | ITNEXT",
     "updatedAt": "2022-07-29T20:08:33Z"
-  },
-  {
-    "body": "https://webdevelopmenthistory.com/1993-cgi-scripts-and-early-server-side-web-programming/",
-    "title": "1993: CGI Scripts and Early Server-Side Web Programming – Web Development History",
-    "updatedAt": "2022-07-27T20:01:03Z"
-  },
-  {
-    "body": "https://www.infoworld.com/article/3668032/visualizing-the-hacker-news-api-with-hcl-and-sql.html",
-    "title": "Visualizing the Hacker News API with HCL and SQL | InfoWorld",
-    "updatedAt": "2022-07-27T15:46:20Z"
   }
 ]

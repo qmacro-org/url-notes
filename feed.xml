@@ -1,7 +1,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-08-11T20:08:13Z</updated>
+<updated>2024-08-16T07:13:27Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Export binaries | Docker Docs</title>
+<link>https://docs.docker.com/build/guide/export/</link>
+<updated>2024-08-16T07:13:27Z</updated>
+<summary>https://docs.docker.com/build/guide/export/</summary>
+</entry>
+<entry>
+<title>Running a Docker Container with a Custom Non-Root User: Syncing Host and Container Permissions - DEV Community</title>
+<link>https://dev.to/izackv/running-a-docker-container-with-a-custom-non-root-user-syncing-host-and-container-permissions-26mb</link>
+<updated>2024-08-16T07:13:13Z</updated>
+<summary>https://dev.to/izackv/running-a-docker-container-with-a-custom-non-root-user-syncing-host-and-container-permissions-26mb</summary>
+</entry>
 <entry>
 <title>Distrobox</title>
 <link>https://distrobox.it/</link>
@@ -1489,17 +1501,5 @@
 <link>https://itnext.io/you-dont-need-microservices-2ad8508b9e27</link>
 <updated>2022-07-29T20:08:33Z</updated>
 <summary>https://itnext.io/you-dont-need-microservices-2ad8508b9e27</summary>
-</entry>
-<entry>
-<title>1993: CGI Scripts and Early Server-Side Web Programming – Web Development History</title>
-<link>https://webdevelopmenthistory.com/1993-cgi-scripts-and-early-server-side-web-programming/</link>
-<updated>2022-07-27T20:01:03Z</updated>
-<summary>https://webdevelopmenthistory.com/1993-cgi-scripts-and-early-server-side-web-programming/</summary>
-</entry>
-<entry>
-<title>Visualizing the Hacker News API with HCL and SQL | InfoWorld</title>
-<link>https://www.infoworld.com/article/3668032/visualizing-the-hacker-news-api-with-hcl-and-sql.html</link>
-<updated>2022-07-27T15:46:20Z</updated>
-<summary>https://www.infoworld.com/article/3668032/visualizing-the-hacker-news-api-with-hcl-and-sql.html</summary>
 </entry>
 </feed>
