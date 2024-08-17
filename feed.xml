@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-08-16T08:30:23Z</updated>
+<updated>2024-08-17T07:53:59Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Automating my /now page | Akash Goswami</title>
+<link>https://akashgoswami.dev/posts/automating-my-now-page/</link>
+<updated>2024-08-17T07:53:59Z</updated>
+<summary>https://akashgoswami.dev/posts/automating-my-now-page/</summary>
+</entry>
 <entry>
 <title>Chrome OS: Nerd Fonts for the terminal</title>
 <link>https://ricma.co/posts/tech/tutorials/chrome-os-nerd-fonts/</link>
@@ -1495,11 +1501,5 @@
 <link>https://leebriggs.co.uk/blog/2022/07/20/nobody-knows-what-declarative-is</link>
 <updated>2022-07-30T16:00:38Z</updated>
 <summary>https://leebriggs.co.uk/blog/2022/07/20/nobody-knows-what-declarative-is</summary>
-</entry>
-<entry>
-<title>My 4G setup for working remotely from anywhere</title>
-<link>https://suraj.dev/blog/my-4g-setup-for-working-remotely-from-anywhere</link>
-<updated>2022-07-29T20:10:05Z</updated>
-<summary>https://suraj.dev/blog/my-4g-setup-for-working-remotely-from-anywhere</summary>
 </entry>
 </feed>
