@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://hamel.dev/blog/posts/dokku/",
+    "title": "Dokku: my favorite personal serverless platform – Hamel’s Blog",
+    "updatedAt": "2024-08-28T12:32:13Z"
+  },
+  {
     "body": "https://akashgoswami.dev/posts/automating-my-now-page/",
     "title": "Automating my /now page | Akash Goswami",
     "updatedAt": "2024-08-17T07:53:59Z"
@@ -1243,10 +1248,5 @@
     "body": "https://aparker.io/posts/the-death-of-virtual-events/",
     "title": "Virtual Events Are Dead, Long Live Virtual Events · austin",
     "updatedAt": "2022-08-02T11:22:17Z"
-  },
-  {
-    "body": "https://leebriggs.co.uk/blog/2022/07/20/nobody-knows-what-declarative-is",
-    "title": "Why does nobody seem to know what imperative and declarative actually mean? | lbr.",
-    "updatedAt": "2022-07-30T16:00:38Z"
   }
 ]

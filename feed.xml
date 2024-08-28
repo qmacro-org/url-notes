@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-08-17T07:53:59Z</updated>
+<updated>2024-08-28T12:32:13Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Dokku: my favorite personal serverless platform – Hamel’s Blog</title>
+<link>https://hamel.dev/blog/posts/dokku/</link>
+<updated>2024-08-28T12:32:13Z</updated>
+<summary>https://hamel.dev/blog/posts/dokku/</summary>
+</entry>
 <entry>
 <title>Automating my /now page | Akash Goswami</title>
 <link>https://akashgoswami.dev/posts/automating-my-now-page/</link>
@@ -1495,11 +1501,5 @@
 <link>https://aparker.io/posts/the-death-of-virtual-events/</link>
 <updated>2022-08-02T11:22:17Z</updated>
 <summary>https://aparker.io/posts/the-death-of-virtual-events/</summary>
-</entry>
-<entry>
-<title>Why does nobody seem to know what imperative and declarative actually mean? | lbr.</title>
-<link>https://leebriggs.co.uk/blog/2022/07/20/nobody-knows-what-declarative-is</link>
-<updated>2022-07-30T16:00:38Z</updated>
-<summary>https://leebriggs.co.uk/blog/2022/07/20/nobody-knows-what-declarative-is</summary>
 </entry>
 </feed>
