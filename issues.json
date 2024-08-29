@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://help.ubuntu.com/community/Apt-Cacher%20NG",
+    "title": "Apt-Cacher NG - Community Help Wiki",
+    "updatedAt": "2024-08-29T18:54:53Z"
+  },
+  {
     "body": "https://www.reddit.com/r/homelab/comments/5xvfbf/how_to_proxmox_modify_a_ct_container_template/",
     "title": "[How To] Proxmox - Modify a CT (container) template : r/homelab",
     "updatedAt": "2024-08-29T17:00:00Z"
@@ -1243,10 +1248,5 @@
     "body": "https://github.com/customer-stories/sap",
     "title": "SAP",
     "updatedAt": "2022-08-11T06:10:04Z"
-  },
-  {
-    "body": "https://carlosbecker.com/posts/ssh-tips-and-tricks/",
-    "title": "SSH tips and tricks | Carlos Becker",
-    "updatedAt": "2022-08-10T06:46:52Z"
   }
 ]
