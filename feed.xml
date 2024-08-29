@@ -1,12 +1,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-08-29T10:27:53Z</updated>
+<updated>2024-08-29T10:28:41Z</updated>
 <author><name>DJ Adams</name></author>
 <entry>
-<title>Running Custom Containers Under Chrome OS</title>
-<link>https://chromium.googlesource.com/chromiumos/docs/+/8c8ac04aed5d45bb6a14605c422dbbd01eeadf15/containers_and_vms.md</link>
-<updated>2024-08-29T10:27:53Z</updated>
-<summary>https://chromium.googlesource.com/chromiumos/docs/+/8c8ac04aed5d45bb6a14605c422dbbd01eeadf15/containers_and_vms.md</summary>
+<title>Using LXD on your Chromebook - LXD - Linux Containers Forum</title>
+<link>https://discuss.linuxcontainers.org/t/using-lxd-on-your-chromebook/3823/1</link>
+<updated>2024-08-29T10:28:41Z</updated>
+<summary>https://discuss.linuxcontainers.org/t/using-lxd-on-your-chromebook/3823/1</summary>
 </entry>
 <entry>
 <title>New LXD image server available (images.lxd.canonical.com) - LXD / News - Ubuntu Community Hub</title>
