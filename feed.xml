@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-08-29T10:28:41Z</updated>
+<updated>2024-08-29T13:23:01Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>A closer look at Chrome OS using LXD to run Linux GUI apps (Project Crostini) – Mi blog lah!</title>
+<link>https://blog.simos.info/a-closer-look-at-chrome-os-using-lxd-to-run-linux-gui-apps-project-crostini/</link>
+<updated>2024-08-29T13:23:01Z</updated>
+<summary>https://blog.simos.info/a-closer-look-at-chrome-os-using-lxd-to-run-linux-gui-apps-project-crostini/</summary>
+</entry>
 <entry>
 <title>Using LXD on your Chromebook - LXD - Linux Containers Forum</title>
 <link>https://discuss.linuxcontainers.org/t/using-lxd-on-your-chromebook/3823/1</link>
@@ -1495,11 +1501,5 @@
 <link>https://evrone.com/douglas-crockford-interview</link>
 <updated>2022-08-10T06:08:24Z</updated>
 <summary>https://evrone.com/douglas-crockford-interview</summary>
-</entry>
-<entry>
-<title>Monitor your solar PV system in Home Assistant( Energy Dashboard VS Energy Management) - Share your Projects! - Home Assistant Community</title>
-<link>https://community.home-assistant.io/t/monitor-your-solar-pv-system-in-home-assistant-energy-dashboard-vs-energy-management/342710</link>
-<updated>2022-08-07T08:16:42Z</updated>
-<summary>https://community.home-assistant.io/t/monitor-your-solar-pv-system-in-home-assistant-energy-dashboard-vs-energy-management/342710</summary>
 </entry>
 </feed>

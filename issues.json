@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://blog.simos.info/a-closer-look-at-chrome-os-using-lxd-to-run-linux-gui-apps-project-crostini/",
+    "title": "A closer look at Chrome OS using LXD to run Linux GUI apps (Project Crostini) – Mi blog lah!",
+    "updatedAt": "2024-08-29T13:23:01Z"
+  },
+  {
     "body": "https://discuss.linuxcontainers.org/t/using-lxd-on-your-chromebook/3823/1",
     "title": "Using LXD on your Chromebook - LXD - Linux Containers Forum",
     "updatedAt": "2024-08-29T10:28:41Z"
@@ -1243,10 +1248,5 @@
     "body": "https://evrone.com/douglas-crockford-interview",
     "title": "JSON Creator Douglas Crockford Interview by Evrone",
     "updatedAt": "2022-08-10T06:08:24Z"
-  },
-  {
-    "body": "https://community.home-assistant.io/t/monitor-your-solar-pv-system-in-home-assistant-energy-dashboard-vs-energy-management/342710",
-    "title": "Monitor your solar PV system in Home Assistant( Energy Dashboard VS Energy Management) - Share your Projects! - Home Assistant Community",
-    "updatedAt": "2022-08-07T08:16:42Z"
   }
 ]
