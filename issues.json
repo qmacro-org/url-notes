@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://chromium.googlesource.com/chromiumos/docs/+/8c8ac04aed5d45bb6a14605c422dbbd01eeadf15/containers_and_vms.md",
+    "title": "Running Custom Containers Under Chrome OS",
+    "updatedAt": "2024-08-29T09:22:27Z"
+  },
+  {
     "body": "https://hamel.dev/blog/posts/dokku/",
     "title": "Dokku: my favorite personal serverless platform – Hamel’s Blog",
     "updatedAt": "2024-08-28T12:32:13Z"
@@ -1243,10 +1248,5 @@
     "body": "https://specbranch.com/posts/one-big-server/",
     "title": "Use One Big Server - Speculative Branches",
     "updatedAt": "2022-08-03T04:25:14Z"
-  },
-  {
-    "body": "https://aparker.io/posts/the-death-of-virtual-events/",
-    "title": "Virtual Events Are Dead, Long Live Virtual Events · austin",
-    "updatedAt": "2022-08-02T11:22:17Z"
   }
 ]

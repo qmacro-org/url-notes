@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-08-28T12:32:13Z</updated>
+<updated>2024-08-29T09:22:27Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Running Custom Containers Under Chrome OS</title>
+<link>https://chromium.googlesource.com/chromiumos/docs/+/8c8ac04aed5d45bb6a14605c422dbbd01eeadf15/containers_and_vms.md</link>
+<updated>2024-08-29T09:22:27Z</updated>
+<summary>https://chromium.googlesource.com/chromiumos/docs/+/8c8ac04aed5d45bb6a14605c422dbbd01eeadf15/containers_and_vms.md</summary>
+</entry>
 <entry>
 <title>Dokku: my favorite personal serverless platform – Hamel’s Blog</title>
 <link>https://hamel.dev/blog/posts/dokku/</link>
@@ -1495,11 +1501,5 @@
 <link>https://specbranch.com/posts/one-big-server/</link>
 <updated>2022-08-03T04:25:14Z</updated>
 <summary>https://specbranch.com/posts/one-big-server/</summary>
-</entry>
-<entry>
-<title>Virtual Events Are Dead, Long Live Virtual Events · austin</title>
-<link>https://aparker.io/posts/the-death-of-virtual-events/</link>
-<updated>2022-08-02T11:22:17Z</updated>
-<summary>https://aparker.io/posts/the-death-of-virtual-events/</summary>
 </entry>
 </feed>
