@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-08-31T09:43:34Z</updated>
+<updated>2024-08-31T10:35:50Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Building the Micro Mirror Free Software CDN</title>
+<link>https://blog.thelifeofkenneth.com/2023/05/building-micro-mirror-free-software-cdn.html</link>
+<updated>2024-08-31T10:35:50Z</updated>
+<summary>https://blog.thelifeofkenneth.com/2023/05/building-micro-mirror-free-software-cdn.html</summary>
+</entry>
 <entry>
 <title>Ubuntu Server | Michael Lane's Technology Blog | Page 3</title>
 <link>https://pricklytech.wordpress.com/category/linux/ubuntu-server/page/3/</link>
@@ -1495,11 +1501,5 @@
 <link>https://matt-rickard.com/the-unreasonable-effectiveness-of-makefiles</link>
 <updated>2022-08-13T05:50:43Z</updated>
 <summary>https://matt-rickard.com/the-unreasonable-effectiveness-of-makefiles</summary>
-</entry>
-<entry>
-<title>Messaging System for Transferring Error, Warning, and Information Messages from OData V4 Services to HTTP Client Applications | SAP Blogs</title>
-<link>https://blogs.sap.com/2022/08/11/messaging-system-for-transferring-error-warning-and-information-messages-from-odata-v4-services-to-http-client-applications/</link>
-<updated>2022-08-11T14:51:28Z</updated>
-<summary>https://blogs.sap.com/2022/08/11/messaging-system-for-transferring-error-warning-and-information-messages-from-odata-v4-services-to-http-client-applications/</summary>
 </entry>
 </feed>
