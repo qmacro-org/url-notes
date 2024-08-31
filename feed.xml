@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-08-29T18:54:53Z</updated>
+<updated>2024-08-31T09:43:34Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Ubuntu Server | Michael Lane's Technology Blog | Page 3</title>
+<link>https://pricklytech.wordpress.com/category/linux/ubuntu-server/page/3/</link>
+<updated>2024-08-31T09:43:34Z</updated>
+<summary>https://pricklytech.wordpress.com/category/linux/ubuntu-server/page/3/</summary>
+</entry>
 <entry>
 <title>Apt-Cacher NG - Community Help Wiki</title>
 <link>https://help.ubuntu.com/community/Apt-Cacher%20NG</link>
@@ -1495,11 +1501,5 @@
 <link>https://blogs.sap.com/2022/08/11/messaging-system-for-transferring-error-warning-and-information-messages-from-odata-v4-services-to-http-client-applications/</link>
 <updated>2022-08-11T14:51:28Z</updated>
 <summary>https://blogs.sap.com/2022/08/11/messaging-system-for-transferring-error-warning-and-information-messages-from-odata-v4-services-to-http-client-applications/</summary>
-</entry>
-<entry>
-<title>SAP</title>
-<link>https://github.com/customer-stories/sap</link>
-<updated>2022-08-11T06:10:04Z</updated>
-<summary>https://github.com/customer-stories/sap</summary>
 </entry>
 </feed>
