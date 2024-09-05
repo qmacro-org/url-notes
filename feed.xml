@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-08-31T10:35:50Z</updated>
+<updated>2024-09-05T06:37:57Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Why A.I. Isn’t Going to Make Art | The New Yorker</title>
+<link>https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art</link>
+<updated>2024-09-05T06:37:57Z</updated>
+<summary>https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art</summary>
+</entry>
 <entry>
 <title>Building the Micro Mirror Free Software CDN</title>
 <link>https://blog.thelifeofkenneth.com/2023/05/building-micro-mirror-free-software-cdn.html</link>
@@ -1495,11 +1501,5 @@
 <link>https://www.nabucasa.com/config/webhooks/</link>
 <updated>2022-08-15T12:40:43Z</updated>
 <summary>https://www.nabucasa.com/config/webhooks/</summary>
-</entry>
-<entry>
-<title>The Unreasonable Effectiveness of Makefiles</title>
-<link>https://matt-rickard.com/the-unreasonable-effectiveness-of-makefiles</link>
-<updated>2022-08-13T05:50:43Z</updated>
-<summary>https://matt-rickard.com/the-unreasonable-effectiveness-of-makefiles</summary>
 </entry>
 </feed>

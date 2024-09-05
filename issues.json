@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art",
+    "title": "Why A.I. Isn’t Going to Make Art | The New Yorker",
+    "updatedAt": "2024-09-05T06:37:57Z"
+  },
+  {
     "body": "https://blog.thelifeofkenneth.com/2023/05/building-micro-mirror-free-software-cdn.html",
     "title": "Building the Micro Mirror Free Software CDN",
     "updatedAt": "2024-08-31T10:35:50Z"
@@ -1243,10 +1248,5 @@
     "body": "https://www.nabucasa.com/config/webhooks/",
     "title": "Webhooks configuration",
     "updatedAt": "2022-08-15T12:40:43Z"
-  },
-  {
-    "body": "https://matt-rickard.com/the-unreasonable-effectiveness-of-makefiles",
-    "title": "The Unreasonable Effectiveness of Makefiles",
-    "updatedAt": "2022-08-13T05:50:43Z"
   }
 ]
