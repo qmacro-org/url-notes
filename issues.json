@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://climate.benjames.io/batteries/",
+    "title": "The Big Guide to Batteries",
+    "updatedAt": "2024-09-06T07:30:40Z"
+  },
+  {
     "body": "https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art",
     "title": "Why A.I. Isn’t Going to Make Art | The New Yorker",
     "updatedAt": "2024-09-05T06:37:57Z"
@@ -1243,10 +1248,5 @@
     "body": "https://mikelevins.github.io/posts/2020-12-18-repl-driven/",
     "title": "On repl-driven programming - by mikel evins",
     "updatedAt": "2022-08-18T15:55:53Z"
-  },
-  {
-    "body": "https://www.nabucasa.com/config/webhooks/",
-    "title": "Webhooks configuration",
-    "updatedAt": "2022-08-15T12:40:43Z"
   }
 ]
