@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-09-06T07:30:40Z</updated>
+<updated>2024-09-06T08:21:30Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Poking holes in reality with prototypes – PlanB</title>
+<link>https://planb.nicecupoftea.org/2024/08/26/poking-holes-in-reality-with-prototypes/</link>
+<updated>2024-09-06T08:21:30Z</updated>
+<summary>https://planb.nicecupoftea.org/2024/08/26/poking-holes-in-reality-with-prototypes/</summary>
+</entry>
 <entry>
 <title>The Big Guide to Batteries</title>
 <link>https://climate.benjames.io/batteries/</link>
@@ -1495,11 +1501,5 @@
 <link>https://github.com/music-assistant/hass-music-assistant</link>
 <updated>2022-08-19T08:54:58Z</updated>
 <summary>https://github.com/music-assistant/hass-music-assistant</summary>
-</entry>
-<entry>
-<title>On repl-driven programming - by mikel evins</title>
-<link>https://mikelevins.github.io/posts/2020-12-18-repl-driven/</link>
-<updated>2022-08-18T15:55:53Z</updated>
-<summary>https://mikelevins.github.io/posts/2020-12-18-repl-driven/</summary>
 </entry>
 </feed>

@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://planb.nicecupoftea.org/2024/08/26/poking-holes-in-reality-with-prototypes/",
+    "title": "Poking holes in reality with prototypes – PlanB",
+    "updatedAt": "2024-09-06T08:21:30Z"
+  },
+  {
     "body": "https://climate.benjames.io/batteries/",
     "title": "The Big Guide to Batteries",
     "updatedAt": "2024-09-06T07:30:40Z"
@@ -1243,10 +1248,5 @@
     "body": "https://github.com/music-assistant/hass-music-assistant",
     "title": "music-assistant/hass-music-assistant: Turn your Home Assistant instance into a jukebox, hassle free streaming of your favorite media to Home Assistant media players.",
     "updatedAt": "2022-08-19T08:54:58Z"
-  },
-  {
-    "body": "https://mikelevins.github.io/posts/2020-12-18-repl-driven/",
-    "title": "On repl-driven programming - by mikel evins",
-    "updatedAt": "2022-08-18T15:55:53Z"
   }
 ]
