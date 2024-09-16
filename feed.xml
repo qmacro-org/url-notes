@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-09-06T19:04:57Z</updated>
+<updated>2024-09-16T14:47:12Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>How-To-Succeed-At-MrBeast-Production.pdf - Google Drive</title>
+<link>https://drive.google.com/file/d/1YaG9xpu-WQKBPUi8yQ4HaDYQLUSa7Y3J/view</link>
+<updated>2024-09-16T14:47:12Z</updated>
+<summary>https://drive.google.com/file/d/1YaG9xpu-WQKBPUi8yQ4HaDYQLUSa7Y3J/view</summary>
+</entry>
 <entry>
 <title>On Full Archive RSS and ATOM Feeds · The New Leaf Journal</title>
 <link>https://thenewleafjournal.com/on-full-archive-rss-and-atom-feeds/</link>
@@ -1495,11 +1501,5 @@
 <link>https://lwn.net/SubscriberLink/905164/8c13fabaff641359/</link>
 <updated>2022-08-25T15:00:03Z</updated>
 <summary>https://lwn.net/SubscriberLink/905164/8c13fabaff641359/</summary>
-</entry>
-<entry>
-<title>Productivity 2022 - time to weigh in on the asynchronous work debate. Is Slack asychronous?</title>
-<link>https://diginomica.com/productivity-2022-time-weigh-asynchronous-work-debate-slack-asychronous</link>
-<updated>2022-08-19T18:41:19Z</updated>
-<summary>https://diginomica.com/productivity-2022-time-weigh-asynchronous-work-debate-slack-asychronous</summary>
 </entry>
 </feed>
