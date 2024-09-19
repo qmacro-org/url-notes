@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-09-16T14:47:12Z</updated>
+<updated>2024-09-19T06:28:57Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Restish</title>
+<link>https://rest.sh/</link>
+<updated>2024-09-19T06:28:57Z</updated>
+<summary>https://rest.sh/</summary>
+</entry>
 <entry>
 <title>How-To-Succeed-At-MrBeast-Production.pdf - Google Drive</title>
 <link>https://drive.google.com/file/d/1YaG9xpu-WQKBPUi8yQ4HaDYQLUSa7Y3J/view</link>
@@ -1495,11 +1501,5 @@
 <link>https://staceyoniot.com/what-we-can-learn-about-buttons-from-the-hue-tap-dial-switch/</link>
 <updated>2022-09-12T13:33:39Z</updated>
 <summary>https://staceyoniot.com/what-we-can-learn-about-buttons-from-the-hue-tap-dial-switch/</summary>
-</entry>
-<entry>
-<title>The container orchestrator landscape [LWN.net]</title>
-<link>https://lwn.net/SubscriberLink/905164/8c13fabaff641359/</link>
-<updated>2022-08-25T15:00:03Z</updated>
-<summary>https://lwn.net/SubscriberLink/905164/8c13fabaff641359/</summary>
 </entry>
 </feed>
