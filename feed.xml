@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-09-19T06:28:57Z</updated>
+<updated>2024-09-21T15:19:18Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Introducing the Tailscale Universal Docker Mod</title>
+<link>https://tailscale.dev/blog/docker-mod-tailscale</link>
+<updated>2024-09-21T15:19:18Z</updated>
+<summary>https://tailscale.dev/blog/docker-mod-tailscale</summary>
+</entry>
 <entry>
 <title>Restish</title>
 <link>https://rest.sh/</link>
@@ -1495,11 +1501,5 @@
 <link>https://emersion.fr/blog/2022/irc-and-oauth2/</link>
 <updated>2022-09-14T10:54:51Z</updated>
 <summary>https://emersion.fr/blog/2022/irc-and-oauth2/</summary>
-</entry>
-<entry>
-<title>What we can learn about buttons from the Hue Tap Dial switch - Stacey on IoT | Internet of Things news and analysis</title>
-<link>https://staceyoniot.com/what-we-can-learn-about-buttons-from-the-hue-tap-dial-switch/</link>
-<updated>2022-09-12T13:33:39Z</updated>
-<summary>https://staceyoniot.com/what-we-can-learn-about-buttons-from-the-hue-tap-dial-switch/</summary>
 </entry>
 </feed>
