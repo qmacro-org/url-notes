@@ -1,7 +1,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-09-21T15:21:00Z</updated>
+<updated>2024-09-21T15:24:19Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Add a Docker container · Tailscale Docs</title>
+<link>https://tailscale.com/kb/1453/quick-guide-docker</link>
+<updated>2024-09-21T15:24:19Z</updated>
+<summary>https://tailscale.com/kb/1453/quick-guide-docker</summary>
+</entry>
+<entry>
+<title>The Tailscale Universal Docker Mod | Hacker News</title>
+<link>https://news.ycombinator.com/item?id=37812142</link>
+<updated>2024-09-21T15:24:08Z</updated>
+<summary>https://news.ycombinator.com/item?id=37812142</summary>
+</entry>
 <entry>
 <title>How to Set Up Tailscale on Docker in 2024 - WunderTech</title>
 <link>https://www.wundertech.net/how-to-set-up-tailscale-on-docker/</link>
@@ -1489,17 +1501,5 @@
 <link>https://bsago.me/posts/that-annoying-shade-of-blue</link>
 <updated>2022-09-15T14:23:32Z</updated>
 <summary>https://bsago.me/posts/that-annoying-shade-of-blue</summary>
-</entry>
-<entry>
-<title>Solwise - Introduction to 3G Networking / Mobile Broadband | Solwise Ltd</title>
-<link>https://www.solwise.co.uk/3g-intro.htm</link>
-<updated>2022-09-15T08:15:08Z</updated>
-<summary>https://www.solwise.co.uk/3g-intro.htm</summary>
-</entry>
-<entry>
-<title>Signing Git Commits with Your SSH Key</title>
-<link>https://calebhearth.com/sign-git-with-ssh</link>
-<updated>2022-09-14T13:50:41Z</updated>
-<summary>https://calebhearth.com/sign-git-with-ssh</summary>
 </entry>
 </feed>
