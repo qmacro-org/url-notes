@@ -1,7 +1,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-09-21T15:24:19Z</updated>
+<updated>2024-09-22T07:29:13Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Userspace networking mode (for containers) · Tailscale Docs</title>
+<link>https://tailscale.com/kb/1112/userspace-networking</link>
+<updated>2024-09-22T07:29:13Z</updated>
+<summary>https://tailscale.com/kb/1112/userspace-networking</summary>
+</entry>
+<entry>
+<title>tailscale/tailscale - Docker Image | Docker Hub</title>
+<link>https://hub.docker.com/r/tailscale/tailscale</link>
+<updated>2024-09-22T07:29:04Z</updated>
+<summary>https://hub.docker.com/r/tailscale/tailscale</summary>
+</entry>
 <entry>
 <title>Add a Docker container · Tailscale Docs</title>
 <link>https://tailscale.com/kb/1453/quick-guide-docker</link>
@@ -1489,17 +1501,5 @@
 <link>https://code.visualstudio.com/docs/remote/vscode-server</link>
 <updated>2022-09-20T16:00:25Z</updated>
 <summary>https://code.visualstudio.com/docs/remote/vscode-server</summary>
-</entry>
-<entry>
-<title>How I manage my passwords</title>
-<link>https://bitspook.in/blog/how-i-manage-my-passwords/</link>
-<updated>2022-09-20T12:52:52Z</updated>
-<summary>https://bitspook.in/blog/how-i-manage-my-passwords/</summary>
-</entry>
-<entry>
-<title>That Annoying Shade of Blue • bsago.me</title>
-<link>https://bsago.me/posts/that-annoying-shade-of-blue</link>
-<updated>2022-09-15T14:23:32Z</updated>
-<summary>https://bsago.me/posts/that-annoying-shade-of-blue</summary>
 </entry>
 </feed>
