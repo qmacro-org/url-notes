@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-10-04T06:39:20Z</updated>
+<updated>2024-10-04T07:28:05Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Identity and Access Management with Microsoft Entr... - SAP Community</title>
+<link>https://community.sap.com/t5/technology-blogs-by-members/identity-and-access-management-with-microsoft-entra-part-i-managing-access/ba-p/13873276</link>
+<updated>2024-10-04T07:28:05Z</updated>
+<summary>https://community.sap.com/t5/technology-blogs-by-members/identity-and-access-management-with-microsoft-entra-part-i-managing-access/ba-p/13873276</summary>
+</entry>
 <entry>
 <title>Mastering the Terraform Provider for SAP BTP: FAQ ... - SAP Community</title>
 <link>https://community.sap.com/t5/technology-blogs-by-sap/mastering-the-terraform-provider-for-sap-btp-faq-style/ba-p/13885749</link>
@@ -1495,11 +1501,5 @@
 <link>https://www.infoworld.com/article/3674309/github-for-english-teachers.html</link>
 <updated>2022-09-28T14:58:57Z</updated>
 <summary>https://www.infoworld.com/article/3674309/github-for-english-teachers.html</summary>
-</entry>
-<entry>
-<title>Bash 5.2 released [LWN.net]</title>
-<link>https://lwn.net/Articles/909596/</link>
-<updated>2022-09-28T07:49:26Z</updated>
-<summary>https://lwn.net/Articles/909596/</summary>
 </entry>
 </feed>
