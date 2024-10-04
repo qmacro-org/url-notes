@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://community.sap.com/t5/technology-blogs-by-sap/mastering-the-terraform-provider-for-sap-btp-faq-style/ba-p/13885749",
+    "title": "Mastering the Terraform Provider for SAP BTP: FAQ ... - SAP Community",
+    "updatedAt": "2024-10-04T06:39:20Z"
+  },
+  {
     "body": "https://tailscale.com/kb/1112/userspace-networking",
     "title": "Userspace networking mode (for containers) · Tailscale Docs",
     "updatedAt": "2024-09-22T07:29:13Z"
@@ -1243,10 +1248,5 @@
     "body": "https://lwn.net/Articles/909596/",
     "title": "Bash 5.2 released [LWN.net]",
     "updatedAt": "2022-09-28T07:49:26Z"
-  },
-  {
-    "body": "https://code.visualstudio.com/docs/remote/vscode-server",
-    "title": "Visual Studio Code Server",
-    "updatedAt": "2022-09-20T16:00:25Z"
   }
 ]

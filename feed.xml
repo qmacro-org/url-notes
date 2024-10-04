@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-09-22T07:29:13Z</updated>
+<updated>2024-10-04T06:39:20Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Mastering the Terraform Provider for SAP BTP: FAQ ... - SAP Community</title>
+<link>https://community.sap.com/t5/technology-blogs-by-sap/mastering-the-terraform-provider-for-sap-btp-faq-style/ba-p/13885749</link>
+<updated>2024-10-04T06:39:20Z</updated>
+<summary>https://community.sap.com/t5/technology-blogs-by-sap/mastering-the-terraform-provider-for-sap-btp-faq-style/ba-p/13885749</summary>
+</entry>
 <entry>
 <title>Userspace networking mode (for containers) · Tailscale Docs</title>
 <link>https://tailscale.com/kb/1112/userspace-networking</link>
@@ -1495,11 +1501,5 @@
 <link>https://lwn.net/Articles/909596/</link>
 <updated>2022-09-28T07:49:26Z</updated>
 <summary>https://lwn.net/Articles/909596/</summary>
-</entry>
-<entry>
-<title>Visual Studio Code Server</title>
-<link>https://code.visualstudio.com/docs/remote/vscode-server</link>
-<updated>2022-09-20T16:00:25Z</updated>
-<summary>https://code.visualstudio.com/docs/remote/vscode-server</summary>
 </entry>
 </feed>
