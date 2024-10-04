@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/",
+    "title": "</> htmx ~ How Did REST Come To Mean The Opposite of REST?",
+    "updatedAt": "2024-10-04T18:41:20Z"
+  },
+  {
     "body": "https://community.sap.com/t5/technology-blogs-by-members/identity-and-access-management-with-microsoft-entra-part-i-managing-access/ba-p/13873276",
     "title": "Identity and Access Management with Microsoft Entr... - SAP Community",
     "updatedAt": "2024-10-04T07:28:05Z"
@@ -1243,10 +1248,5 @@
     "body": "https://redmonk.com/kholterhoff/2022/09/27/how-to-reach-software-engineers-through-social-media/",
     "title": "How to Reach Software Engineers through Social Media – console.log()",
     "updatedAt": "2022-09-28T16:27:13Z"
-  },
-  {
-    "body": "https://www.infoworld.com/article/3674309/github-for-english-teachers.html",
-    "title": "GitHub for English teachers | InfoWorld",
-    "updatedAt": "2022-09-28T14:58:57Z"
   }
 ]

@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-10-04T07:28:05Z</updated>
+<updated>2024-10-04T18:41:20Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>&lt;/> htmx ~ How Did REST Come To Mean The Opposite of REST?</title>
+<link>https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/</link>
+<updated>2024-10-04T18:41:20Z</updated>
+<summary>https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/</summary>
+</entry>
 <entry>
 <title>Identity and Access Management with Microsoft Entr... - SAP Community</title>
 <link>https://community.sap.com/t5/technology-blogs-by-members/identity-and-access-management-with-microsoft-entra-part-i-managing-access/ba-p/13873276</link>
@@ -1495,11 +1501,5 @@
 <link>https://redmonk.com/kholterhoff/2022/09/27/how-to-reach-software-engineers-through-social-media/</link>
 <updated>2022-09-28T16:27:13Z</updated>
 <summary>https://redmonk.com/kholterhoff/2022/09/27/how-to-reach-software-engineers-through-social-media/</summary>
-</entry>
-<entry>
-<title>GitHub for English teachers | InfoWorld</title>
-<link>https://www.infoworld.com/article/3674309/github-for-english-teachers.html</link>
-<updated>2022-09-28T14:58:57Z</updated>
-<summary>https://www.infoworld.com/article/3674309/github-for-english-teachers.html</summary>
 </entry>
 </feed>
