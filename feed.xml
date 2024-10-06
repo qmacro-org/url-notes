@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-10-04T18:41:20Z</updated>
+<updated>2024-10-06T05:47:46Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Kernighan's lever</title>
+<link>https://www.linusakesson.net/programming/kernighans-lever/index.php</link>
+<updated>2024-10-06T05:47:46Z</updated>
+<summary>https://www.linusakesson.net/programming/kernighans-lever/index.php</summary>
+</entry>
 <entry>
 <title>&lt;/> htmx ~ How Did REST Come To Mean The Opposite of REST?</title>
 <link>https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/</link>
@@ -1495,11 +1501,5 @@
 <link>https://dlvhdr.me/posts/the-renaissance-of-the-command-line</link>
 <updated>2022-09-28T18:17:30Z</updated>
 <summary>https://dlvhdr.me/posts/the-renaissance-of-the-command-line</summary>
-</entry>
-<entry>
-<title>How to Reach Software Engineers through Social Media – console.log()</title>
-<link>https://redmonk.com/kholterhoff/2022/09/27/how-to-reach-software-engineers-through-social-media/</link>
-<updated>2022-09-28T16:27:13Z</updated>
-<summary>https://redmonk.com/kholterhoff/2022/09/27/how-to-reach-software-engineers-through-social-media/</summary>
 </entry>
 </feed>
