@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-10-06T05:47:46Z</updated>
+<updated>2024-10-14T07:20:04Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Fossil: CRLF Is Obsolete And Should Be Abolished</title>
+<link>https://fossil-scm.org/home/ext/crlf-harmful.md</link>
+<updated>2024-10-14T07:20:04Z</updated>
+<summary>https://fossil-scm.org/home/ext/crlf-harmful.md</summary>
+</entry>
 <entry>
 <title>Kernighan's lever</title>
 <link>https://www.linusakesson.net/programming/kernighans-lever/index.php</link>
@@ -1495,11 +1501,5 @@
 <link>https://www.inkandswitch.com/end-user-programming/</link>
 <updated>2022-09-29T07:41:56Z</updated>
 <summary>https://www.inkandswitch.com/end-user-programming/</summary>
-</entry>
-<entry>
-<title>The Renaissance of the Command Line | Dolev Hadar</title>
-<link>https://dlvhdr.me/posts/the-renaissance-of-the-command-line</link>
-<updated>2022-09-28T18:17:30Z</updated>
-<summary>https://dlvhdr.me/posts/the-renaissance-of-the-command-line</summary>
 </entry>
 </feed>

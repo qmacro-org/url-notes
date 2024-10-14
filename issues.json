@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://fossil-scm.org/home/ext/crlf-harmful.md",
+    "title": "Fossil: CRLF Is Obsolete And Should Be Abolished",
+    "updatedAt": "2024-10-14T07:20:04Z"
+  },
+  {
     "body": "https://www.linusakesson.net/programming/kernighans-lever/index.php",
     "title": "Kernighan's lever",
     "updatedAt": "2024-10-06T05:47:46Z"
@@ -1243,10 +1248,5 @@
     "body": "https://www.inkandswitch.com/end-user-programming/",
     "title": "End-user Programming",
     "updatedAt": "2022-09-29T07:41:56Z"
-  },
-  {
-    "body": "https://dlvhdr.me/posts/the-renaissance-of-the-command-line",
-    "title": "The Renaissance of the Command Line | Dolev Hadar",
-    "updatedAt": "2022-09-28T18:17:30Z"
   }
 ]
