@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-10-14T07:20:04Z</updated>
+<updated>2024-10-15T07:48:45Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Why make software? | Sean Voisen</title>
+<link>https://sean.voisen.org/blog/why-make-software</link>
+<updated>2024-10-15T07:48:45Z</updated>
+<summary>https://sean.voisen.org/blog/why-make-software</summary>
+</entry>
 <entry>
 <title>Fossil: CRLF Is Obsolete And Should Be Abolished</title>
 <link>https://fossil-scm.org/home/ext/crlf-harmful.md</link>
@@ -1495,11 +1501,5 @@
 <link>https://www.newyorker.com/tech/annals-of-technology/the-thorny-problem-of-keeping-the-internets-time</link>
 <updated>2022-10-01T09:54:22Z</updated>
 <summary>https://www.newyorker.com/tech/annals-of-technology/the-thorny-problem-of-keeping-the-internets-time</summary>
-</entry>
-<entry>
-<title>End-user Programming</title>
-<link>https://www.inkandswitch.com/end-user-programming/</link>
-<updated>2022-09-29T07:41:56Z</updated>
-<summary>https://www.inkandswitch.com/end-user-programming/</summary>
 </entry>
 </feed>

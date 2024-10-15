@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://sean.voisen.org/blog/why-make-software",
+    "title": "Why make software? | Sean Voisen",
+    "updatedAt": "2024-10-15T07:48:45Z"
+  },
+  {
     "body": "https://fossil-scm.org/home/ext/crlf-harmful.md",
     "title": "Fossil: CRLF Is Obsolete And Should Be Abolished",
     "updatedAt": "2024-10-14T07:20:04Z"
@@ -1243,10 +1248,5 @@
     "body": "https://www.newyorker.com/tech/annals-of-technology/the-thorny-problem-of-keeping-the-internets-time",
     "title": "The Thorny Problem of Keeping the Internet’s Time | The New Yorker",
     "updatedAt": "2022-10-01T09:54:22Z"
-  },
-  {
-    "body": "https://www.inkandswitch.com/end-user-programming/",
-    "title": "End-user Programming",
-    "updatedAt": "2022-09-29T07:41:56Z"
   }
 ]
