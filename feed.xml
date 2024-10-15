@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-10-15T07:48:45Z</updated>
+<updated>2024-10-15T10:56:20Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Ward Christensen, BBS inventor and architect of our online age, dies at age 78</title>
+<link>https://arstechnica.com/gadgets/2024/10/ward-christensen-bbs-inventor-and-architect-of-our-online-age-dies-at-age-78/</link>
+<updated>2024-10-15T10:56:20Z</updated>
+<summary>https://arstechnica.com/gadgets/2024/10/ward-christensen-bbs-inventor-and-architect-of-our-online-age-dies-at-age-78/</summary>
+</entry>
 <entry>
 <title>Why make software? | Sean Voisen</title>
 <link>https://sean.voisen.org/blog/why-make-software</link>
@@ -1495,11 +1501,5 @@
 <link>https://liam-on-linux.dreamwidth.org/87578.html</link>
 <updated>2022-10-07T10:51:20Z</updated>
 <summary>https://liam-on-linux.dreamwidth.org/87578.html</summary>
-</entry>
-<entry>
-<title>The Thorny Problem of Keeping the Internet’s Time | The New Yorker</title>
-<link>https://www.newyorker.com/tech/annals-of-technology/the-thorny-problem-of-keeping-the-internets-time</link>
-<updated>2022-10-01T09:54:22Z</updated>
-<summary>https://www.newyorker.com/tech/annals-of-technology/the-thorny-problem-of-keeping-the-internets-time</summary>
 </entry>
 </feed>
