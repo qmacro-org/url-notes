@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-10-15T10:56:20Z</updated>
+<updated>2024-10-17T05:27:34Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>My solar-powered and self-hosted website | Dries Buytaert</title>
+<link>https://dri.es/my-solar-powered-and-self-hosted-website</link>
+<updated>2024-10-17T05:27:34Z</updated>
+<summary>https://dri.es/my-solar-powered-and-self-hosted-website</summary>
+</entry>
 <entry>
 <title>Ward Christensen, BBS inventor and architect of our online age, dies at age 78</title>
 <link>https://arstechnica.com/gadgets/2024/10/ward-christensen-bbs-inventor-and-architect-of-our-online-age-dies-at-age-78/</link>
@@ -1495,11 +1501,5 @@
 <link>https://architecturenotes.co/12-factor-app-revisited/</link>
 <updated>2022-10-12T05:53:12Z</updated>
 <summary>https://architecturenotes.co/12-factor-app-revisited/</summary>
-</entry>
-<entry>
-<title>liam_on_linux | How to tell a mainframe from a minicomputer from a micro</title>
-<link>https://liam-on-linux.dreamwidth.org/87578.html</link>
-<updated>2022-10-07T10:51:20Z</updated>
-<summary>https://liam-on-linux.dreamwidth.org/87578.html</summary>
 </entry>
 </feed>
