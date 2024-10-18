@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://alexwlchan.net/2024/static-websites/",
+    "title": "Using static websites for tiny archives – alexwlchan",
+    "updatedAt": "2024-10-18T13:43:49Z"
+  },
+  {
     "body": "https://dev.to/lechnerc77/-mind-the-terraform-modules-3p11",
     "title": "Mind the Terraform Modules - DEV Community",
     "updatedAt": "2024-10-17T09:04:52Z"
@@ -1243,10 +1248,5 @@
     "body": "https://www.offbeatbits.com/self-hosting-mastodon-for-the-adventurous/",
     "title": "Self-hosting Mastodon for the adventurous",
     "updatedAt": "2022-11-09T15:43:23Z"
-  },
-  {
-    "body": "https://earthly.dev/blog/chroot/",
-    "title": "Containers are chroot with a Marketing Budget - Earthly Blog",
-    "updatedAt": "2022-11-09T09:36:16Z"
   }
 ]

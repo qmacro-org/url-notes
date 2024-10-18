@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-10-17T09:04:52Z</updated>
+<updated>2024-10-18T13:43:49Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Using static websites for tiny archives – alexwlchan</title>
+<link>https://alexwlchan.net/2024/static-websites/</link>
+<updated>2024-10-18T13:43:49Z</updated>
+<summary>https://alexwlchan.net/2024/static-websites/</summary>
+</entry>
 <entry>
 <title>Mind the Terraform Modules - DEV Community</title>
 <link>https://dev.to/lechnerc77/-mind-the-terraform-modules-3p11</link>
@@ -1495,11 +1501,5 @@
 <link>https://www.offbeatbits.com/self-hosting-mastodon-for-the-adventurous/</link>
 <updated>2022-11-09T15:43:23Z</updated>
 <summary>https://www.offbeatbits.com/self-hosting-mastodon-for-the-adventurous/</summary>
-</entry>
-<entry>
-<title>Containers are chroot with a Marketing Budget - Earthly Blog</title>
-<link>https://earthly.dev/blog/chroot/</link>
-<updated>2022-11-09T09:36:16Z</updated>
-<summary>https://earthly.dev/blog/chroot/</summary>
 </entry>
 </feed>
