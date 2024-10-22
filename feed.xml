@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-10-22T11:52:41Z</updated>
+<updated>2024-10-22T13:51:35Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>against /tmp – Tony Finch</title>
+<link>https://dotat.at/@/2024-10-22-tmp.html</link>
+<updated>2024-10-22T13:51:35Z</updated>
+<summary>https://dotat.at/@/2024-10-22-tmp.html</summary>
+</entry>
 <entry>
 <title>MQTT turns 25 – here’s how it has endured – The lost outpost</title>
 <link>https://andypiper.co.uk/2024/10/22/mqtt-turns-25-heres-how-it-has-endured/</link>
@@ -1495,11 +1501,5 @@
 <link>https://minkiver.se/~/WebminkInDraft/Fediverse</link>
 <updated>2022-11-23T11:17:55Z</updated>
 <summary>https://minkiver.se/~/WebminkInDraft/Fediverse</summary>
-</entry>
-<entry>
-<title>The Perks of a High-Documentation, Low-Meeting Work Culture</title>
-<link>https://www.tremendous.com/blog/the-perks-of-a-high-documentation-low-meeting-work-culture</link>
-<updated>2022-11-22T20:33:05Z</updated>
-<summary>https://www.tremendous.com/blog/the-perks-of-a-high-documentation-low-meeting-work-culture</summary>
 </entry>
 </feed>

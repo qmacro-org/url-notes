@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://dotat.at/@/2024-10-22-tmp.html",
+    "title": "against /tmp – Tony Finch",
+    "updatedAt": "2024-10-22T13:51:35Z"
+  },
+  {
     "body": "https://andypiper.co.uk/2024/10/22/mqtt-turns-25-heres-how-it-has-endured/",
     "title": "MQTT turns 25 – here’s how it has endured – The lost outpost",
     "updatedAt": "2024-10-22T11:52:41Z"
@@ -1243,10 +1248,5 @@
     "body": "https://minkiver.se/~/WebminkInDraft/Fediverse",
     "title": "The Fediverse As Composable Distributed Applications ⋅ Plume",
     "updatedAt": "2022-11-23T11:17:55Z"
-  },
-  {
-    "body": "https://www.tremendous.com/blog/the-perks-of-a-high-documentation-low-meeting-work-culture",
-    "title": "The Perks of a High-Documentation, Low-Meeting Work Culture",
-    "updatedAt": "2022-11-22T20:33:05Z"
   }
 ]
