@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-10-22T13:51:35Z</updated>
+<updated>2024-10-30T16:06:22Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Cheap Solar Panels Are Changing the World - The Atlantic</title>
+<link>https://www.theatlantic.com/science/archive/2024/10/solar-power-energy-revolution-global-south/680351/</link>
+<updated>2024-10-30T16:06:22Z</updated>
+<summary>https://www.theatlantic.com/science/archive/2024/10/solar-power-energy-revolution-global-south/680351/</summary>
+</entry>
 <entry>
 <title>against /tmp – Tony Finch</title>
 <link>https://dotat.at/@/2024-10-22-tmp.html</link>
@@ -1495,11 +1501,5 @@
 <link>https://redmonk.com/rstephens/2022/11/22/maybe-the-real-tech-debt-was-the-friends-we-made-along-the-way/</link>
 <updated>2022-11-23T13:17:47Z</updated>
 <summary>https://redmonk.com/rstephens/2022/11/22/maybe-the-real-tech-debt-was-the-friends-we-made-along-the-way/</summary>
-</entry>
-<entry>
-<title>The Fediverse As Composable Distributed Applications ⋅ Plume</title>
-<link>https://minkiver.se/~/WebminkInDraft/Fediverse</link>
-<updated>2022-11-23T11:17:55Z</updated>
-<summary>https://minkiver.se/~/WebminkInDraft/Fediverse</summary>
 </entry>
 </feed>
