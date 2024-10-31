@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-10-30T16:06:22Z</updated>
+<updated>2024-10-31T08:37:10Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Smarter than 'Ctrl+F': Linking Directly to Web Page Content</title>
+<link>https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html</link>
+<updated>2024-10-31T08:37:10Z</updated>
+<summary>https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html</summary>
+</entry>
 <entry>
 <title>Cheap Solar Panels Are Changing the World - The Atlantic</title>
 <link>https://www.theatlantic.com/science/archive/2024/10/solar-power-energy-revolution-global-south/680351/</link>
@@ -1495,11 +1501,5 @@
 <link>https://thehistoryoftheweb.com/ajax-without-the-x-the-history-of-json/</link>
 <updated>2022-12-13T18:51:34Z</updated>
 <summary>https://thehistoryoftheweb.com/ajax-without-the-x-the-history-of-json/</summary>
-</entry>
-<entry>
-<title>Maybe the Real Tech Debt was the Friends we Made Along the Way – Alt + E S V</title>
-<link>https://redmonk.com/rstephens/2022/11/22/maybe-the-real-tech-debt-was-the-friends-we-made-along-the-way/</link>
-<updated>2022-11-23T13:17:47Z</updated>
-<summary>https://redmonk.com/rstephens/2022/11/22/maybe-the-real-tech-debt-was-the-friends-we-made-along-the-way/</summary>
 </entry>
 </feed>

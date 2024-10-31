@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html",
+    "title": "Smarter than 'Ctrl+F': Linking Directly to Web Page Content",
+    "updatedAt": "2024-10-31T08:37:10Z"
+  },
+  {
     "body": "https://www.theatlantic.com/science/archive/2024/10/solar-power-energy-revolution-global-south/680351/",
     "title": "Cheap Solar Panels Are Changing the World - The Atlantic",
     "updatedAt": "2024-10-30T16:06:22Z"
@@ -1243,10 +1248,5 @@
     "body": "https://thehistoryoftheweb.com/ajax-without-the-x-the-history-of-json/",
     "title": "AJAX without the X: The History of JSON - The History of the Web",
     "updatedAt": "2022-12-13T18:51:34Z"
-  },
-  {
-    "body": "https://redmonk.com/rstephens/2022/11/22/maybe-the-real-tech-debt-was-the-friends-we-made-along-the-way/",
-    "title": "Maybe the Real Tech Debt was the Friends we Made Along the Way – Alt + E S V",
-    "updatedAt": "2022-11-23T13:17:47Z"
   }
 ]
