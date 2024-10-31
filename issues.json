@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://jvns.ca/blog/2024/10/31/ascii-control-characters/",
+    "title": "ASCII control characters in my terminal",
+    "updatedAt": "2024-10-31T14:45:00Z"
+  },
+  {
     "body": "https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html",
     "title": "Smarter than 'Ctrl+F': Linking Directly to Web Page Content",
     "updatedAt": "2024-10-31T08:37:10Z"
@@ -1243,10 +1248,5 @@
     "body": "https://sliceofexperiments.substack.com/p/one-dockerfile-is-all-it-takes-falling",
     "title": "One Dockerfile is all it takes, falling in love with bake",
     "updatedAt": "2022-12-13T18:51:43Z"
-  },
-  {
-    "body": "https://thehistoryoftheweb.com/ajax-without-the-x-the-history-of-json/",
-    "title": "AJAX without the X: The History of JSON - The History of the Web",
-    "updatedAt": "2022-12-13T18:51:34Z"
   }
 ]

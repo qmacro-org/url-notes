@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-10-31T08:37:10Z</updated>
+<updated>2024-10-31T14:45:00Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>ASCII control characters in my terminal</title>
+<link>https://jvns.ca/blog/2024/10/31/ascii-control-characters/</link>
+<updated>2024-10-31T14:45:00Z</updated>
+<summary>https://jvns.ca/blog/2024/10/31/ascii-control-characters/</summary>
+</entry>
 <entry>
 <title>Smarter than 'Ctrl+F': Linking Directly to Web Page Content</title>
 <link>https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html</link>
@@ -1495,11 +1501,5 @@
 <link>https://sliceofexperiments.substack.com/p/one-dockerfile-is-all-it-takes-falling</link>
 <updated>2022-12-13T18:51:43Z</updated>
 <summary>https://sliceofexperiments.substack.com/p/one-dockerfile-is-all-it-takes-falling</summary>
-</entry>
-<entry>
-<title>AJAX without the X: The History of JSON - The History of the Web</title>
-<link>https://thehistoryoftheweb.com/ajax-without-the-x-the-history-of-json/</link>
-<updated>2022-12-13T18:51:34Z</updated>
-<summary>https://thehistoryoftheweb.com/ajax-without-the-x-the-history-of-json/</summary>
 </entry>
 </feed>
