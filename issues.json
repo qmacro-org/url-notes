@@ -1,23 +1,18 @@
 [
   {
+    "body": "https://lobste.rs/s/u3t4sg/xmpp_forgotten_gem_instant_messaging#c_9ywqgd",
+    "title": "XMPP: The Forgotten Gem of Instant Messaging | Lobsters",
+    "updatedAt": "2024-11-08T09:29:20Z"
+  },
+  {
     "body": "https://pragprog.com/titles/dzseven/seven-obscure-languages-in-seven-weeks/",
     "title": "Seven Obscure Languages in Seven Weeks: Rediscovering the Tools That Built the Future by Dmitry Zinoviev",
     "updatedAt": "2024-11-01T12:44:29Z"
   },
   {
-    "body": "https://jvns.ca/blog/2024/10/31/ascii-control-characters/",
-    "title": "ASCII control characters in my terminal",
-    "updatedAt": "2024-10-31T14:45:00Z"
-  },
-  {
     "body": "https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html",
     "title": "Smarter than 'Ctrl+F': Linking Directly to Web Page Content",
     "updatedAt": "2024-10-31T08:37:10Z"
-  },
-  {
-    "body": "https://www.theatlantic.com/science/archive/2024/10/solar-power-energy-revolution-global-south/680351/",
-    "title": "Cheap Solar Panels Are Changing the World - The Atlantic",
-    "updatedAt": "2024-10-30T16:06:22Z"
   },
   {
     "body": "https://dotat.at/@/2024-10-22-tmp.html",
@@ -1248,5 +1243,10 @@
     "body": "https://takes.jamesomalley.co.uk/p/woke-is-a-new-ideology-and-its-proponents",
     "title": "\"Woke\" is a new ideology and its proponents should admit it",
     "updatedAt": "2022-12-14T10:18:05Z"
+  },
+  {
+    "body": "https://sliceofexperiments.substack.com/p/one-dockerfile-is-all-it-takes-falling",
+    "title": "One Dockerfile is all it takes, falling in love with bake",
+    "updatedAt": "2022-12-13T18:51:43Z"
   }
 ]

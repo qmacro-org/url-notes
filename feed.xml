@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-11-01T12:44:29Z</updated>
+<updated>2024-11-08T09:29:20Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>XMPP: The Forgotten Gem of Instant Messaging | Lobsters</title>
+<link>https://lobste.rs/s/u3t4sg/xmpp_forgotten_gem_instant_messaging#c_9ywqgd</link>
+<updated>2024-11-08T09:29:20Z</updated>
+<summary>https://lobste.rs/s/u3t4sg/xmpp_forgotten_gem_instant_messaging#c_9ywqgd</summary>
+</entry>
 <entry>
 <title>Seven Obscure Languages in Seven Weeks: Rediscovering the Tools That Built the Future by Dmitry Zinoviev</title>
 <link>https://pragprog.com/titles/dzseven/seven-obscure-languages-in-seven-weeks/</link>
@@ -9,22 +15,10 @@
 <summary>https://pragprog.com/titles/dzseven/seven-obscure-languages-in-seven-weeks/</summary>
 </entry>
 <entry>
-<title>ASCII control characters in my terminal</title>
-<link>https://jvns.ca/blog/2024/10/31/ascii-control-characters/</link>
-<updated>2024-10-31T14:45:00Z</updated>
-<summary>https://jvns.ca/blog/2024/10/31/ascii-control-characters/</summary>
-</entry>
-<entry>
 <title>Smarter than 'Ctrl+F': Linking Directly to Web Page Content</title>
 <link>https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html</link>
 <updated>2024-10-31T08:37:10Z</updated>
 <summary>https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html</summary>
-</entry>
-<entry>
-<title>Cheap Solar Panels Are Changing the World - The Atlantic</title>
-<link>https://www.theatlantic.com/science/archive/2024/10/solar-power-energy-revolution-global-south/680351/</link>
-<updated>2024-10-30T16:06:22Z</updated>
-<summary>https://www.theatlantic.com/science/archive/2024/10/solar-power-energy-revolution-global-south/680351/</summary>
 </entry>
 <entry>
 <title>against /tmp – Tony Finch</title>
@@ -1501,5 +1495,11 @@
 <link>https://takes.jamesomalley.co.uk/p/woke-is-a-new-ideology-and-its-proponents</link>
 <updated>2022-12-14T10:18:05Z</updated>
 <summary>https://takes.jamesomalley.co.uk/p/woke-is-a-new-ideology-and-its-proponents</summary>
+</entry>
+<entry>
+<title>One Dockerfile is all it takes, falling in love with bake</title>
+<link>https://sliceofexperiments.substack.com/p/one-dockerfile-is-all-it-takes-falling</link>
+<updated>2022-12-13T18:51:43Z</updated>
+<summary>https://sliceofexperiments.substack.com/p/one-dockerfile-is-all-it-takes-falling</summary>
 </entry>
 </feed>
