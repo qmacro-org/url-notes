@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-11-08T09:29:20Z</updated>
+<updated>2024-11-11T08:41:17Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Setting up a Local DNS Server with dnsmasq, Caddy, and Docker Compose</title>
+<link>https://k33g.hashnode.dev/setting-up-a-local-dns-server-with-dnsmasq-caddy-and-docker-compose-on-raspberry-pi-for-development</link>
+<updated>2024-11-11T08:41:17Z</updated>
+<summary>https://k33g.hashnode.dev/setting-up-a-local-dns-server-with-dnsmasq-caddy-and-docker-compose-on-raspberry-pi-for-development</summary>
+</entry>
 <entry>
 <title>XMPP: The Forgotten Gem of Instant Messaging | Lobsters</title>
 <link>https://lobste.rs/s/u3t4sg/xmpp_forgotten_gem_instant_messaging#c_9ywqgd</link>
@@ -1495,11 +1501,5 @@
 <link>https://takes.jamesomalley.co.uk/p/woke-is-a-new-ideology-and-its-proponents</link>
 <updated>2022-12-14T10:18:05Z</updated>
 <summary>https://takes.jamesomalley.co.uk/p/woke-is-a-new-ideology-and-its-proponents</summary>
-</entry>
-<entry>
-<title>One Dockerfile is all it takes, falling in love with bake</title>
-<link>https://sliceofexperiments.substack.com/p/one-dockerfile-is-all-it-takes-falling</link>
-<updated>2022-12-13T18:51:43Z</updated>
-<summary>https://sliceofexperiments.substack.com/p/one-dockerfile-is-all-it-takes-falling</summary>
 </entry>
 </feed>
