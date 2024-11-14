@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://calebhearth.com/search-sync-shell-atuin",
+    "title": "Search and Sync Your Shell History With Atuin",
+    "updatedAt": "2024-11-14T19:34:38Z"
+  },
+  {
     "body": "https://k33g.hashnode.dev/setting-up-a-local-dns-server-with-dnsmasq-caddy-and-docker-compose-on-raspberry-pi-for-development",
     "title": "Setting up a Local DNS Server with dnsmasq, Caddy, and Docker Compose",
     "updatedAt": "2024-11-11T08:41:17Z"
@@ -1243,10 +1248,5 @@
     "body": "https://tfos.co/p/rebuild-social-media/",
     "title": "How to rebuild social media on top of RSS",
     "updatedAt": "2022-12-14T16:33:29Z"
-  },
-  {
-    "body": "https://takes.jamesomalley.co.uk/p/woke-is-a-new-ideology-and-its-proponents",
-    "title": "\"Woke\" is a new ideology and its proponents should admit it",
-    "updatedAt": "2022-12-14T10:18:05Z"
   }
 ]
