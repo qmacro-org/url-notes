@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-11-14T19:34:38Z</updated>
+<updated>2024-11-14T19:58:39Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>We’re (finally!) going to the cloud! - Meta Stack Exchange</title>
+<link>https://meta.stackexchange.com/questions/404231/we-re-finally-going-to-the-cloud</link>
+<updated>2024-11-14T19:58:39Z</updated>
+<summary>https://meta.stackexchange.com/questions/404231/we-re-finally-going-to-the-cloud</summary>
+</entry>
 <entry>
 <title>Search and Sync Your Shell History With Atuin</title>
 <link>https://calebhearth.com/search-sync-shell-atuin</link>
@@ -1495,11 +1501,5 @@
 <link>https://paul.kinlan.me/adding-activity-pub-to-your-static-site/</link>
 <updated>2022-12-16T16:50:29Z</updated>
 <summary>https://paul.kinlan.me/adding-activity-pub-to-your-static-site/</summary>
-</entry>
-<entry>
-<title>How to rebuild social media on top of RSS</title>
-<link>https://tfos.co/p/rebuild-social-media/</link>
-<updated>2022-12-14T16:33:29Z</updated>
-<summary>https://tfos.co/p/rebuild-social-media/</summary>
 </entry>
 </feed>
