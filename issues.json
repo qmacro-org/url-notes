@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://jadarma.github.io/blog/posts/2024/11/does-github-copilot-improve-code-quality-heres-how-we-lie-with-statistics/",
+    "title": "Does GitHub Copilot Improve Code Quality? Here's How We Lie With Statistics | Jadarma's Blog",
+    "updatedAt": "2024-11-22T09:21:50Z"
+  },
+  {
     "body": "https://meta.stackexchange.com/questions/404231/we-re-finally-going-to-the-cloud",
     "title": "We’re (finally!) going to the cloud! - Meta Stack Exchange",
     "updatedAt": "2024-11-14T19:58:39Z"
@@ -1243,10 +1248,5 @@
     "body": "https://stackoverflow.com/questions/5767129/lenses-fclabels-data-accessor-which-library-for-structure-access-and-mutatio",
     "title": "haskell - lenses, fclabels, data-accessor - which library for structure access and mutation is better - Stack Overflow",
     "updatedAt": "2022-12-16T20:14:03Z"
-  },
-  {
-    "body": "https://paul.kinlan.me/adding-activity-pub-to-your-static-site/",
-    "title": "Adding ActivityPub to your static site",
-    "updatedAt": "2022-12-16T16:50:29Z"
   }
 ]
