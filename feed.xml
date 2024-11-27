@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-11-27T12:35:40Z</updated>
+<updated>2024-11-27T13:39:38Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Defining paths to business value in Developer Relations</title>
+<link>https://whitep4nth3r.com/blog/defining-paths-to-business-value-in-developer-relations/</link>
+<updated>2024-11-27T13:39:38Z</updated>
+<summary>https://whitep4nth3r.com/blog/defining-paths-to-business-value-in-developer-relations/</summary>
+</entry>
 <entry>
 <title>Reply on Bluesky and Decentralization | bryan newbold | WhiteWind blog</title>
 <link>https://whtwnd.com/bnewbold.net/3lbvbtqrg5t2t</link>
@@ -1495,11 +1501,5 @@
 <link>https://codefaster.substack.com/p/mastering-jq-part-1-59c</link>
 <updated>2022-12-26T19:05:03Z</updated>
 <summary>https://codefaster.substack.com/p/mastering-jq-part-1-59c</summary>
-</entry>
-<entry>
-<title>Receiving Blog Replies from anywhere on the Web | Yusuf Bouzekri's Blog</title>
-<link>https://www.yusuf.fyi/posts/receiving-blog-replies-from-anywhere</link>
-<updated>2022-12-26T13:06:47Z</updated>
-<summary>https://www.yusuf.fyi/posts/receiving-blog-replies-from-anywhere</summary>
 </entry>
 </feed>
