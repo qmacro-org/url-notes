@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-11-27T13:44:09Z</updated>
+<updated>2024-11-27T19:51:55Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>#71: Tech Connect, Vanishing Nerds, Clean Core, Giving Thanks</title>
+<link>https://boringenterprisenerds.substack.com/p/71-tech-connect-vanishing-nerds-clean?r=1wihn7&amp;utm_campaign=post&amp;utm_medium=email&amp;triedRedirect=true</link>
+<updated>2024-11-27T19:51:55Z</updated>
+<summary>https://boringenterprisenerds.substack.com/p/71-tech-connect-vanishing-nerds-clean?r=1wihn7&amp;utm_campaign=post&amp;utm_medium=email&amp;triedRedirect=true</summary>
+</entry>
 <entry>
 <title>Websites blocking abusive AI bots are blocking RSS users too - Open RSS</title>
 <link>https://openrss.org/blog/websites-blocking-bad-ai-and-bots-are-blocking-rss-users</link>
@@ -1495,11 +1501,5 @@
 <link>https://blogs.sap.com/2022/12/27/stay-up-to-date-with-sap-news-and-updates-using-the-sap-rss-feeds-generator/</link>
 <updated>2022-12-28T13:42:36Z</updated>
 <summary>https://blogs.sap.com/2022/12/27/stay-up-to-date-with-sap-news-and-updates-using-the-sap-rss-feeds-generator/</summary>
-</entry>
-<entry>
-<title>Illustrated jq tutorial</title>
-<link>https://mosermichael.github.io/jq-illustrated/dir/content.html</link>
-<updated>2022-12-26T19:05:22Z</updated>
-<summary>https://mosermichael.github.io/jq-illustrated/dir/content.html</summary>
 </entry>
 </feed>
