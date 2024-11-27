@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-11-22T09:21:50Z</updated>
+<updated>2024-11-27T12:35:40Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Reply on Bluesky and Decentralization | bryan newbold | WhiteWind blog</title>
+<link>https://whtwnd.com/bnewbold.net/3lbvbtqrg5t2t</link>
+<updated>2024-11-27T12:35:40Z</updated>
+<summary>https://whtwnd.com/bnewbold.net/3lbvbtqrg5t2t</summary>
+</entry>
 <entry>
 <title>Does GitHub Copilot Improve Code Quality? Here's How We Lie With Statistics | Jadarma's Blog</title>
 <link>https://jadarma.github.io/blog/posts/2024/11/does-github-copilot-improve-code-quality-heres-how-we-lie-with-statistics/</link>
@@ -1495,11 +1501,5 @@
 <link>https://www.yusuf.fyi/posts/receiving-blog-replies-from-anywhere</link>
 <updated>2022-12-26T13:06:47Z</updated>
 <summary>https://www.yusuf.fyi/posts/receiving-blog-replies-from-anywhere</summary>
-</entry>
-<entry>
-<title>haskell - lenses, fclabels, data-accessor - which library for structure access and mutation is better - Stack Overflow</title>
-<link>https://stackoverflow.com/questions/5767129/lenses-fclabels-data-accessor-which-library-for-structure-access-and-mutatio</link>
-<updated>2022-12-16T20:14:03Z</updated>
-<summary>https://stackoverflow.com/questions/5767129/lenses-fclabels-data-accessor-which-library-for-structure-access-and-mutatio</summary>
 </entry>
 </feed>
