@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-11-27T13:39:38Z</updated>
+<updated>2024-11-27T13:44:09Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Websites blocking abusive AI bots are blocking RSS users too - Open RSS</title>
+<link>https://openrss.org/blog/websites-blocking-bad-ai-and-bots-are-blocking-rss-users</link>
+<updated>2024-11-27T13:44:09Z</updated>
+<summary>https://openrss.org/blog/websites-blocking-bad-ai-and-bots-are-blocking-rss-users</summary>
+</entry>
 <entry>
 <title>Defining paths to business value in Developer Relations</title>
 <link>https://whitep4nth3r.com/blog/defining-paths-to-business-value-in-developer-relations/</link>
@@ -1495,11 +1501,5 @@
 <link>https://mosermichael.github.io/jq-illustrated/dir/content.html</link>
 <updated>2022-12-26T19:05:22Z</updated>
 <summary>https://mosermichael.github.io/jq-illustrated/dir/content.html</summary>
-</entry>
-<entry>
-<title>Mastering JQ: Part 1 - by Tyler Adams - CodeFaster</title>
-<link>https://codefaster.substack.com/p/mastering-jq-part-1-59c</link>
-<updated>2022-12-26T19:05:03Z</updated>
-<summary>https://codefaster.substack.com/p/mastering-jq-part-1-59c</summary>
 </entry>
 </feed>

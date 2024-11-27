@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://openrss.org/blog/websites-blocking-bad-ai-and-bots-are-blocking-rss-users",
+    "title": "Websites blocking abusive AI bots are blocking RSS users too - Open RSS",
+    "updatedAt": "2024-11-27T13:44:09Z"
+  },
+  {
     "body": "https://whitep4nth3r.com/blog/defining-paths-to-business-value-in-developer-relations/",
     "title": "Defining paths to business value in Developer Relations",
     "updatedAt": "2024-11-27T13:39:38Z"
@@ -1243,10 +1248,5 @@
     "body": "https://mosermichael.github.io/jq-illustrated/dir/content.html",
     "title": "Illustrated jq tutorial",
     "updatedAt": "2022-12-26T19:05:22Z"
-  },
-  {
-    "body": "https://codefaster.substack.com/p/mastering-jq-part-1-59c",
-    "title": "Mastering JQ: Part 1 - by Tyler Adams - CodeFaster",
-    "updatedAt": "2022-12-26T19:05:03Z"
   }
 ]
