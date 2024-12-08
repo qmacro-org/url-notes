@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-11-27T19:51:55Z</updated>
+<updated>2024-12-08T19:58:56Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Man Pages (Part 1) | Alex’s Blog</title>
+<link>https://abochannek.github.io/utilities/2024/12/08/man-pages.html</link>
+<updated>2024-12-08T19:58:56Z</updated>
+<summary>https://abochannek.github.io/utilities/2024/12/08/man-pages.html</summary>
+</entry>
 <entry>
 <title>#71: Tech Connect, Vanishing Nerds, Clean Core, Giving Thanks</title>
 <link>https://boringenterprisenerds.substack.com/p/71-tech-connect-vanishing-nerds-clean?r=1wihn7&amp;utm_campaign=post&amp;utm_medium=email&amp;triedRedirect=true</link>
@@ -1495,11 +1501,5 @@
 <link>https://kevquirk.com/does-a-blog-need-to-integrate/</link>
 <updated>2023-01-03T14:04:37Z</updated>
 <summary>https://kevquirk.com/does-a-blog-need-to-integrate/</summary>
-</entry>
-<entry>
-<title>Stay Up to Date with SAP News and Updates using the SAP RSS Feeds Generator | SAP Blogs</title>
-<link>https://blogs.sap.com/2022/12/27/stay-up-to-date-with-sap-news-and-updates-using-the-sap-rss-feeds-generator/</link>
-<updated>2022-12-28T13:42:36Z</updated>
-<summary>https://blogs.sap.com/2022/12/27/stay-up-to-date-with-sap-news-and-updates-using-the-sap-rss-feeds-generator/</summary>
 </entry>
 </feed>
