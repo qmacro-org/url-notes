@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://www.randomhacks.net/2005/12/03/why-ruby-is-an-acceptable-lisp/",
+    "title": "Why Ruby is an acceptable LISP (2005) | Random Hacks",
+    "updatedAt": "2024-12-10T08:14:13Z"
+  },
+  {
     "body": "https://abochannek.github.io/utilities/2024/12/08/man-pages.html",
     "title": "Man Pages (Part 1) | Alex’s Blog",
     "updatedAt": "2024-12-08T19:58:56Z"
@@ -1243,10 +1248,5 @@
     "body": "http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html",
     "title": "You Want Modules, Not Microservices",
     "updatedAt": "2023-01-04T06:57:58Z"
-  },
-  {
-    "body": "https://kevquirk.com/does-a-blog-need-to-integrate/",
-    "title": "Does a Blog Need to Integrate? | Kev Quirk",
-    "updatedAt": "2023-01-03T14:04:37Z"
   }
 ]

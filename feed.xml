@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-12-08T19:58:56Z</updated>
+<updated>2024-12-10T08:14:13Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Why Ruby is an acceptable LISP (2005) | Random Hacks</title>
+<link>https://www.randomhacks.net/2005/12/03/why-ruby-is-an-acceptable-lisp/</link>
+<updated>2024-12-10T08:14:13Z</updated>
+<summary>https://www.randomhacks.net/2005/12/03/why-ruby-is-an-acceptable-lisp/</summary>
+</entry>
 <entry>
 <title>Man Pages (Part 1) | Alex’s Blog</title>
 <link>https://abochannek.github.io/utilities/2024/12/08/man-pages.html</link>
@@ -1495,11 +1501,5 @@
 <link>http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html</link>
 <updated>2023-01-04T06:57:58Z</updated>
 <summary>http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html</summary>
-</entry>
-<entry>
-<title>Does a Blog Need to Integrate? | Kev Quirk</title>
-<link>https://kevquirk.com/does-a-blog-need-to-integrate/</link>
-<updated>2023-01-03T14:04:37Z</updated>
-<summary>https://kevquirk.com/does-a-blog-need-to-integrate/</summary>
 </entry>
 </feed>
