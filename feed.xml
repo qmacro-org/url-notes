@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-12-10T08:14:13Z</updated>
+<updated>2024-12-13T16:41:07Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Upgrading to CAP CDS 8: A living document of fixes... - SAP Community</title>
+<link>https://community.sap.com/t5/technology-blogs-by-members/upgrading-to-cap-cds-8-a-living-document-of-fixes-and-lessons-learned/ba-p/13955726</link>
+<updated>2024-12-13T16:41:07Z</updated>
+<summary>https://community.sap.com/t5/technology-blogs-by-members/upgrading-to-cap-cds-8-a-living-document-of-fixes-and-lessons-learned/ba-p/13955726</summary>
+</entry>
 <entry>
 <title>Why Ruby is an acceptable LISP (2005) | Random Hacks</title>
 <link>https://www.randomhacks.net/2005/12/03/why-ruby-is-an-acceptable-lisp/</link>
@@ -1495,11 +1501,5 @@
 <link>https://blog.alexellis.io/one-year-of-self-publishing/</link>
 <updated>2023-01-05T11:11:46Z</updated>
 <summary>https://blog.alexellis.io/one-year-of-self-publishing/</summary>
-</entry>
-<entry>
-<title>You Want Modules, Not Microservices</title>
-<link>http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html</link>
-<updated>2023-01-04T06:57:58Z</updated>
-<summary>http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html</summary>
 </entry>
 </feed>

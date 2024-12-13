@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://community.sap.com/t5/technology-blogs-by-members/upgrading-to-cap-cds-8-a-living-document-of-fixes-and-lessons-learned/ba-p/13955726",
+    "title": "Upgrading to CAP CDS 8: A living document of fixes... - SAP Community",
+    "updatedAt": "2024-12-13T16:41:07Z"
+  },
+  {
     "body": "https://www.randomhacks.net/2005/12/03/why-ruby-is-an-acceptable-lisp/",
     "title": "Why Ruby is an acceptable LISP (2005) | Random Hacks",
     "updatedAt": "2024-12-10T08:14:13Z"
@@ -1243,10 +1248,5 @@
     "body": "https://blog.alexellis.io/one-year-of-self-publishing/",
     "title": "I wish I'd self-published sooner",
     "updatedAt": "2023-01-05T11:11:46Z"
-  },
-  {
-    "body": "http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html",
-    "title": "You Want Modules, Not Microservices",
-    "updatedAt": "2023-01-04T06:57:58Z"
   }
 ]
