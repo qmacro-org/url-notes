@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-12-13T16:41:07Z</updated>
+<updated>2024-12-17T16:18:29Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>SAP Cloud Foundry - Python and Cloud Connector - H... - SAP Community</title>
+<link>https://community.sap.com/t5/technology-blogs-by-sap/sap-cloud-foundry-python-and-cloud-connector-http/ba-p/13965916</link>
+<updated>2024-12-17T16:18:29Z</updated>
+<summary>https://community.sap.com/t5/technology-blogs-by-sap/sap-cloud-foundry-python-and-cloud-connector-http/ba-p/13965916</summary>
+</entry>
 <entry>
 <title>Upgrading to CAP CDS 8: A living document of fixes... - SAP Community</title>
 <link>https://community.sap.com/t5/technology-blogs-by-members/upgrading-to-cap-cds-8-a-living-document-of-fixes-and-lessons-learned/ba-p/13955726</link>
@@ -1495,11 +1501,5 @@
 <link>https://github.com/stedolan/jq/wiki/jq-Language-Description#array-and-object-accessors-and-iterators</link>
 <updated>2023-01-12T06:53:39Z</updated>
 <summary>https://github.com/stedolan/jq/wiki/jq-Language-Description#array-and-object-accessors-and-iterators</summary>
-</entry>
-<entry>
-<title>I wish I'd self-published sooner</title>
-<link>https://blog.alexellis.io/one-year-of-self-publishing/</link>
-<updated>2023-01-05T11:11:46Z</updated>
-<summary>https://blog.alexellis.io/one-year-of-self-publishing/</summary>
 </entry>
 </feed>
