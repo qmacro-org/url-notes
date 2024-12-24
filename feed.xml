@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-12-17T16:18:29Z</updated>
+<updated>2024-12-24T07:31:53Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Introduction to Markwhen, a Markdown Timeline Tool for Devs - The New Stack</title>
+<link>https://thenewstack.io/introduction-to-markwhen-a-markdown-timeline-tool-for-devs/</link>
+<updated>2024-12-24T07:31:53Z</updated>
+<summary>https://thenewstack.io/introduction-to-markwhen-a-markdown-timeline-tool-for-devs/</summary>
+</entry>
 <entry>
 <title>SAP Cloud Foundry - Python and Cloud Connector - H... - SAP Community</title>
 <link>https://community.sap.com/t5/technology-blogs-by-sap/sap-cloud-foundry-python-and-cloud-connector-http/ba-p/13965916</link>
@@ -1495,11 +1501,5 @@
 <link>https://cdevroe.com/2023/01/11/blogging-is-alive</link>
 <updated>2023-01-12T15:26:37Z</updated>
 <summary>https://cdevroe.com/2023/01/11/blogging-is-alive</summary>
-</entry>
-<entry>
-<title>jq Language Description · stedolan/jq Wiki</title>
-<link>https://github.com/stedolan/jq/wiki/jq-Language-Description#array-and-object-accessors-and-iterators</link>
-<updated>2023-01-12T06:53:39Z</updated>
-<summary>https://github.com/stedolan/jq/wiki/jq-Language-Description#array-and-object-accessors-and-iterators</summary>
 </entry>
 </feed>
