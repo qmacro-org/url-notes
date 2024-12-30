@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://redmonk.com/kholterhoff/2024/12/12/why-message-queues-endure-a-history/",
+    "title": "Why Message Queues Endure: A History – console.log()",
+    "updatedAt": "2024-12-30T09:18:21Z"
+  },
+  {
     "body": "https://thenewstack.io/introduction-to-markwhen-a-markdown-timeline-tool-for-devs/",
     "title": "Introduction to Markwhen, a Markdown Timeline Tool for Devs - The New Stack",
     "updatedAt": "2024-12-24T07:31:53Z"
@@ -1243,10 +1248,5 @@
     "body": "https://arstechnica.com/science/2023/01/i-disconnected-from-the-electric-grid-for-8-months-in-manhattan/",
     "title": "I disconnected from the electric grid for 8 months—in Manhattan | Ars Technica",
     "updatedAt": "2023-01-14T13:03:39Z"
-  },
-  {
-    "body": "https://cdevroe.com/2023/01/11/blogging-is-alive",
-    "title": "Colin Devroe - Blogging is alive and well",
-    "updatedAt": "2023-01-12T15:26:37Z"
   }
 ]
