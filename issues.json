@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://community.sap.com/t5/technology-blogs-by-members/the-way-of-clean-code-1-single-responsibility-et-al/ba-p/13955611",
+    "title": "The Way of Clean Code: #1 Single Responsibility et... - SAP Community",
+    "updatedAt": "2024-12-31T12:46:02Z"
+  },
+  {
     "body": "https://redmonk.com/kholterhoff/2024/12/12/why-message-queues-endure-a-history/",
     "title": "Why Message Queues Endure: A History – console.log()",
     "updatedAt": "2024-12-30T09:18:21Z"
@@ -1243,10 +1248,5 @@
     "body": "https://manchestermill.co.uk/p/new-islington-ancoats",
     "title": "It's Europe's most successful new neighbourhood. So why is there so much tension?",
     "updatedAt": "2023-01-15T11:14:59Z"
-  },
-  {
-    "body": "https://arstechnica.com/science/2023/01/i-disconnected-from-the-electric-grid-for-8-months-in-manhattan/",
-    "title": "I disconnected from the electric grid for 8 months—in Manhattan | Ars Technica",
-    "updatedAt": "2023-01-14T13:03:39Z"
   }
 ]

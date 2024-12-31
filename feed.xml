@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-12-30T09:18:21Z</updated>
+<updated>2024-12-31T12:46:02Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>The Way of Clean Code: #1 Single Responsibility et... - SAP Community</title>
+<link>https://community.sap.com/t5/technology-blogs-by-members/the-way-of-clean-code-1-single-responsibility-et-al/ba-p/13955611</link>
+<updated>2024-12-31T12:46:02Z</updated>
+<summary>https://community.sap.com/t5/technology-blogs-by-members/the-way-of-clean-code-1-single-responsibility-et-al/ba-p/13955611</summary>
+</entry>
 <entry>
 <title>Why Message Queues Endure: A History – console.log()</title>
 <link>https://redmonk.com/kholterhoff/2024/12/12/why-message-queues-endure-a-history/</link>
@@ -1495,11 +1501,5 @@
 <link>https://manchestermill.co.uk/p/new-islington-ancoats</link>
 <updated>2023-01-15T11:14:59Z</updated>
 <summary>https://manchestermill.co.uk/p/new-islington-ancoats</summary>
-</entry>
-<entry>
-<title>I disconnected from the electric grid for 8 months—in Manhattan | Ars Technica</title>
-<link>https://arstechnica.com/science/2023/01/i-disconnected-from-the-electric-grid-for-8-months-in-manhattan/</link>
-<updated>2023-01-14T13:03:39Z</updated>
-<summary>https://arstechnica.com/science/2023/01/i-disconnected-from-the-electric-grid-for-8-months-in-manhattan/</summary>
 </entry>
 </feed>
