@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://alistair.cockburn.us/hexagonal-architecture/",
+    "title": "Hexagonal architecture – Alistair Cockburn",
+    "updatedAt": "2024-12-31T13:45:35Z"
+  },
+  {
     "body": "https://community.sap.com/t5/technology-blogs-by-members/the-way-of-clean-code-1-single-responsibility-et-al/ba-p/13955611",
     "title": "The Way of Clean Code: #1 Single Responsibility et... - SAP Community",
     "updatedAt": "2024-12-31T12:46:02Z"
@@ -1243,10 +1248,5 @@
     "body": "https://blogs.sap.com/2023/01/16/surviving-and-thriving-with-the-sap-cloud-application-programming-model-tips-tricks/",
     "title": "Surviving and Thriving with the SAP Cloud Application Programming Model: Tips & Tricks | SAP Blogs",
     "updatedAt": "2023-01-16T14:19:04Z"
-  },
-  {
-    "body": "https://manchestermill.co.uk/p/new-islington-ancoats",
-    "title": "It's Europe's most successful new neighbourhood. So why is there so much tension?",
-    "updatedAt": "2023-01-15T11:14:59Z"
   }
 ]

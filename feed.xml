@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2024-12-31T12:46:02Z</updated>
+<updated>2024-12-31T13:45:35Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Hexagonal architecture – Alistair Cockburn</title>
+<link>https://alistair.cockburn.us/hexagonal-architecture/</link>
+<updated>2024-12-31T13:45:35Z</updated>
+<summary>https://alistair.cockburn.us/hexagonal-architecture/</summary>
+</entry>
 <entry>
 <title>The Way of Clean Code: #1 Single Responsibility et... - SAP Community</title>
 <link>https://community.sap.com/t5/technology-blogs-by-members/the-way-of-clean-code-1-single-responsibility-et-al/ba-p/13955611</link>
@@ -1495,11 +1501,5 @@
 <link>https://blogs.sap.com/2023/01/16/surviving-and-thriving-with-the-sap-cloud-application-programming-model-tips-tricks/</link>
 <updated>2023-01-16T14:19:04Z</updated>
 <summary>https://blogs.sap.com/2023/01/16/surviving-and-thriving-with-the-sap-cloud-application-programming-model-tips-tricks/</summary>
-</entry>
-<entry>
-<title>It's Europe's most successful new neighbourhood. So why is there so much tension?</title>
-<link>https://manchestermill.co.uk/p/new-islington-ancoats</link>
-<updated>2023-01-15T11:14:59Z</updated>
-<summary>https://manchestermill.co.uk/p/new-islington-ancoats</summary>
 </entry>
 </feed>
