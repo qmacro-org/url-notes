@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://news.ycombinator.com/item?id=3102800",
+    "title": "Stevey's Google Platforms Rant I was at Ama... | Hacker News",
+    "updatedAt": "2025-01-01T21:16:02Z"
+  },
+  {
     "body": "https://code.visualstudio.com/docs/devcontainers/create-dev-container#_automate-dev-container-creatio",
     "title": "Create a development container using Visual Studio Code Remote Development",
     "updatedAt": "2025-01-01T16:49:28Z"
@@ -1243,10 +1248,5 @@
     "body": "https://www.nytimes.com/interactive/2023/01/13/opinion/jodorowsky-dune-ai-tron.html",
     "title": "Opinion | Alejandro Jodorowsky’s ‘Dune’ Was Never Made, but With A.I., We Get a Glimpse of His ‘Tron’ - The New York Times",
     "updatedAt": "2023-01-21T12:12:59Z"
-  },
-  {
-    "body": "https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/",
-    "title": "20 Things I've Learned in my 20 Years as a Software Engineer - Simple Thread",
-    "updatedAt": "2023-01-19T08:31:43Z"
   }
 ]
