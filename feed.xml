@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2025-01-01T16:41:39Z</updated>
+<updated>2025-01-01T16:49:28Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Create a development container using Visual Studio Code Remote Development</title>
+<link>https://code.visualstudio.com/docs/devcontainers/create-dev-container#_automate-dev-container-creatio</link>
+<updated>2025-01-01T16:49:28Z</updated>
+<summary>https://code.visualstudio.com/docs/devcontainers/create-dev-container#_automate-dev-container-creatio</summary>
+</entry>
 <entry>
 <title>Message passing - Wikipedia</title>
 <link>https://en.wikipedia.org/wiki/Message_passing</link>
@@ -1495,11 +1501,5 @@
 <link>https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/</link>
 <updated>2023-01-19T08:31:43Z</updated>
 <summary>https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/</summary>
-</entry>
-<entry>
-<title>Surviving and Thriving with the SAP Cloud Application Programming Model: Tips &amp; Tricks | SAP Blogs</title>
-<link>https://blogs.sap.com/2023/01/16/surviving-and-thriving-with-the-sap-cloud-application-programming-model-tips-tricks/</link>
-<updated>2023-01-16T14:19:04Z</updated>
-<summary>https://blogs.sap.com/2023/01/16/surviving-and-thriving-with-the-sap-cloud-application-programming-model-tips-tricks/</summary>
 </entry>
 </feed>

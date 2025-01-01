@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://code.visualstudio.com/docs/devcontainers/create-dev-container#_automate-dev-container-creatio",
+    "title": "Create a development container using Visual Studio Code Remote Development",
+    "updatedAt": "2025-01-01T16:49:28Z"
+  },
+  {
     "body": "https://en.wikipedia.org/wiki/Message_passing",
     "title": "Message passing - Wikipedia",
     "updatedAt": "2025-01-01T16:41:39Z"
@@ -1243,10 +1248,5 @@
     "body": "https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/",
     "title": "20 Things I've Learned in my 20 Years as a Software Engineer - Simple Thread",
     "updatedAt": "2023-01-19T08:31:43Z"
-  },
-  {
-    "body": "https://blogs.sap.com/2023/01/16/surviving-and-thriving-with-the-sap-cloud-application-programming-model-tips-tricks/",
-    "title": "Surviving and Thriving with the SAP Cloud Application Programming Model: Tips & Tricks | SAP Blogs",
-    "updatedAt": "2023-01-16T14:19:04Z"
   }
 ]
