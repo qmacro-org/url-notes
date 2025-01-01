@@ -1,13 +1,13 @@
 [
   {
+    "body": "https://cap.cloud.sap/docs/guides/temporal-data",
+    "title": "Temporal Data | capire",
+    "updatedAt": "2025-01-01T10:16:26Z"
+  },
+  {
     "body": "https://alistair.cockburn.us/hexagonal-architecture/",
     "title": "Hexagonal architecture – Alistair Cockburn",
     "updatedAt": "2024-12-31T13:45:35Z"
-  },
-  {
-    "body": "https://community.sap.com/t5/technology-blogs-by-members/the-way-of-clean-code-1-single-responsibility-et-al/ba-p/13955611",
-    "title": "The Way of Clean Code: #1 Single Responsibility et... - SAP Community",
-    "updatedAt": "2024-12-31T12:46:02Z"
   },
   {
     "body": "https://redmonk.com/kholterhoff/2024/12/12/why-message-queues-endure-a-history/",
