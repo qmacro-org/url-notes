@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2025-01-01T10:16:26Z</updated>
+<updated>2025-01-01T11:21:01Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Timothy West remembered by Samuel West | Timothy West | The Guardian</title>
+<link>https://www.theguardian.com/culture/2024/dec/31/timothy-west-remembered-by-samuel-west?CMP=Share_iOSApp_Other</link>
+<updated>2025-01-01T11:21:01Z</updated>
+<summary>https://www.theguardian.com/culture/2024/dec/31/timothy-west-remembered-by-samuel-west?CMP=Share_iOSApp_Other</summary>
+</entry>
 <entry>
 <title>Temporal Data | capire</title>
 <link>https://cap.cloud.sap/docs/guides/temporal-data</link>
@@ -31,12 +37,6 @@
 <link>https://community.sap.com/t5/technology-blogs-by-sap/sap-cloud-foundry-python-and-cloud-connector-http/ba-p/13965916</link>
 <updated>2024-12-17T16:18:29Z</updated>
 <summary>https://community.sap.com/t5/technology-blogs-by-sap/sap-cloud-foundry-python-and-cloud-connector-http/ba-p/13965916</summary>
-</entry>
-<entry>
-<title>Upgrading to CAP CDS 8: A living document of fixes... - SAP Community</title>
-<link>https://community.sap.com/t5/technology-blogs-by-members/upgrading-to-cap-cds-8-a-living-document-of-fixes-and-lessons-learned/ba-p/13955726</link>
-<updated>2024-12-13T16:41:07Z</updated>
-<summary>https://community.sap.com/t5/technology-blogs-by-members/upgrading-to-cap-cds-8-a-living-document-of-fixes-and-lessons-learned/ba-p/13955726</summary>
 </entry>
 <entry>
 <title>Why Ruby is an acceptable LISP (2005) | Random Hacks</title>
