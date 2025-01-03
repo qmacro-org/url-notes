@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2025-01-03T06:12:00Z</updated>
+<updated>2025-01-03T14:45:11Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>My CAP Projects Toolbox - SAP Community</title>
+<link>https://community.sap.com/t5/technology-blogs-by-members/my-cap-projects-toolbox/ba-p/13970122</link>
+<updated>2025-01-03T14:45:11Z</updated>
+<summary>https://community.sap.com/t5/technology-blogs-by-members/my-cap-projects-toolbox/ba-p/13970122</summary>
+</entry>
 <entry>
 <title>Using Apache Kafka for messaging in the SAP Cloud ... - SAP Community</title>
 <link>https://community.sap.com/t5/technology-blogs-by-members/using-apache-kafka-for-messaging-in-the-sap-cloud-application-programming/ba-p/13970176</link>
@@ -1495,11 +1501,5 @@
 <link>https://searchtodon.social/Adventures-in-Mastoland.html</link>
 <updated>2023-01-22T17:47:39Z</updated>
 <summary>https://searchtodon.social/Adventures-in-Mastoland.html</summary>
-</entry>
-<entry>
-<title>Opinion | Alejandro Jodorowsky’s ‘Dune’ Was Never Made, but With A.I., We Get a Glimpse of His ‘Tron’ - The New York Times</title>
-<link>https://www.nytimes.com/interactive/2023/01/13/opinion/jodorowsky-dune-ai-tron.html</link>
-<updated>2023-01-21T12:12:59Z</updated>
-<summary>https://www.nytimes.com/interactive/2023/01/13/opinion/jodorowsky-dune-ai-tron.html</summary>
 </entry>
 </feed>
