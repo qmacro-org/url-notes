@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2025-01-01T21:16:02Z</updated>
+<updated>2025-01-03T06:12:00Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Using Apache Kafka for messaging in the SAP Cloud ... - SAP Community</title>
+<link>https://community.sap.com/t5/technology-blogs-by-members/using-apache-kafka-for-messaging-in-the-sap-cloud-application-programming/ba-p/13970176</link>
+<updated>2025-01-03T06:12:00Z</updated>
+<summary>https://community.sap.com/t5/technology-blogs-by-members/using-apache-kafka-for-messaging-in-the-sap-cloud-application-programming/ba-p/13970176</summary>
+</entry>
 <entry>
 <title>Stevey's Google Platforms Rant I was at Ama... | Hacker News</title>
 <link>https://news.ycombinator.com/item?id=3102800</link>
@@ -13,12 +19,6 @@
 <link>https://code.visualstudio.com/docs/devcontainers/create-dev-container#_automate-dev-container-creatio</link>
 <updated>2025-01-01T16:49:28Z</updated>
 <summary>https://code.visualstudio.com/docs/devcontainers/create-dev-container#_automate-dev-container-creatio</summary>
-</entry>
-<entry>
-<title>Message passing - Wikipedia</title>
-<link>https://en.wikipedia.org/wiki/Message_passing</link>
-<updated>2025-01-01T16:41:39Z</updated>
-<summary>https://en.wikipedia.org/wiki/Message_passing</summary>
 </entry>
 <entry>
 <title>Temporal Data | capire</title>

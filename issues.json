@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://community.sap.com/t5/technology-blogs-by-members/using-apache-kafka-for-messaging-in-the-sap-cloud-application-programming/ba-p/13970176",
+    "title": "Using Apache Kafka for messaging in the SAP Cloud ... - SAP Community",
+    "updatedAt": "2025-01-03T06:12:00Z"
+  },
+  {
     "body": "https://news.ycombinator.com/item?id=3102800",
     "title": "Stevey's Google Platforms Rant I was at Ama... | Hacker News",
     "updatedAt": "2025-01-01T21:16:02Z"
@@ -8,11 +13,6 @@
     "body": "https://code.visualstudio.com/docs/devcontainers/create-dev-container#_automate-dev-container-creatio",
     "title": "Create a development container using Visual Studio Code Remote Development",
     "updatedAt": "2025-01-01T16:49:28Z"
-  },
-  {
-    "body": "https://en.wikipedia.org/wiki/Message_passing",
-    "title": "Message passing - Wikipedia",
-    "updatedAt": "2025-01-01T16:41:39Z"
   },
   {
     "body": "https://cap.cloud.sap/docs/guides/temporal-data",
