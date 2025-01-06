@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://cap.cloud.sap/docs/releases/nov24#cds-debug",
+    "title": "cds debug (beta) November 2024 | capire",
+    "updatedAt": "2025-01-06T11:21:20Z"
+  },
+  {
     "body": "https://community.sap.com/t5/technology-blogs-by-sap/set-up-remote-debugging-to-diagnose-cap-applications-node-js-stack-at/ba-p/13515376",
     "title": "Set Up Remote Debugging to Diagnose CAP Applicatio... - SAP Community",
     "updatedAt": "2025-01-06T08:33:04Z"
@@ -1243,10 +1248,5 @@
     "body": "https://christianheilmann.com/2023/01/24/things-to-do-and-not-to-do-during-a-wave-of-tech-layoffs/",
     "title": "Things to do and not to do during a wave of tech layoffs | Christian Heilmann",
     "updatedAt": "2023-01-24T14:27:14Z"
-  },
-  {
-    "body": "https://world.hey.com/dhh/they-re-rebuilding-the-death-star-of-complexity-4fb5d08d",
-    "title": "They're rebuilding the Death Star of complexity",
-    "updatedAt": "2023-01-23T17:41:43Z"
   }
 ]

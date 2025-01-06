@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2025-01-06T08:33:04Z</updated>
+<updated>2025-01-06T11:21:20Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>cds debug (beta) November 2024 | capire</title>
+<link>https://cap.cloud.sap/docs/releases/nov24#cds-debug</link>
+<updated>2025-01-06T11:21:20Z</updated>
+<summary>https://cap.cloud.sap/docs/releases/nov24#cds-debug</summary>
+</entry>
 <entry>
 <title>Set Up Remote Debugging to Diagnose CAP Applicatio... - SAP Community</title>
 <link>https://community.sap.com/t5/technology-blogs-by-sap/set-up-remote-debugging-to-diagnose-cap-applications-node-js-stack-at/ba-p/13515376</link>
@@ -1495,11 +1501,5 @@
 <link>https://christianheilmann.com/2023/01/24/things-to-do-and-not-to-do-during-a-wave-of-tech-layoffs/</link>
 <updated>2023-01-24T14:27:14Z</updated>
 <summary>https://christianheilmann.com/2023/01/24/things-to-do-and-not-to-do-during-a-wave-of-tech-layoffs/</summary>
-</entry>
-<entry>
-<title>They're rebuilding the Death Star of complexity</title>
-<link>https://world.hey.com/dhh/they-re-rebuilding-the-death-star-of-complexity-4fb5d08d</link>
-<updated>2023-01-23T17:41:43Z</updated>
-<summary>https://world.hey.com/dhh/they-re-rebuilding-the-death-star-of-complexity-4fb5d08d</summary>
 </entry>
 </feed>
