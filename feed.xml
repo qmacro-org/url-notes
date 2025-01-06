@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2025-01-03T14:45:11Z</updated>
+<updated>2025-01-06T08:30:06Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>SAP CAP Hybrid Testing - SAP Community</title>
+<link>https://community.sap.com/t5/technology-blogs-by-members/sap-cap-hybrid-testing/ba-p/13556582</link>
+<updated>2025-01-06T08:30:06Z</updated>
+<summary>https://community.sap.com/t5/technology-blogs-by-members/sap-cap-hybrid-testing/ba-p/13556582</summary>
+</entry>
 <entry>
 <title>My CAP Projects Toolbox - SAP Community</title>
 <link>https://community.sap.com/t5/technology-blogs-by-members/my-cap-projects-toolbox/ba-p/13970122</link>
@@ -1495,11 +1501,5 @@
 <link>https://blog.sap-press.com/an-overview-of-the-sap-s4hana-vdm</link>
 <updated>2023-01-23T15:44:37Z</updated>
 <summary>https://blog.sap-press.com/an-overview-of-the-sap-s4hana-vdm</summary>
-</entry>
-<entry>
-<title>Adventures in Mastoland</title>
-<link>https://searchtodon.social/Adventures-in-Mastoland.html</link>
-<updated>2023-01-22T17:47:39Z</updated>
-<summary>https://searchtodon.social/Adventures-in-Mastoland.html</summary>
 </entry>
 </feed>
