@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Enumerability_and_ownership_of_properties",
+    "title": "Enumerability and ownership of properties - JavaScript | MDN",
+    "updatedAt": "2025-01-08T17:53:04Z"
+  },
+  {
     "body": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of",
     "title": "for...of - JavaScript | MDN",
     "updatedAt": "2025-01-08T17:43:14Z"
@@ -1243,10 +1248,5 @@
     "body": "https://christianheilmann.com/2023/01/24/things-to-do-and-not-to-do-during-a-wave-of-tech-layoffs/",
     "title": "Things to do and not to do during a wave of tech layoffs | Christian Heilmann",
     "updatedAt": "2023-01-24T14:27:14Z"
-  },
-  {
-    "body": "https://world.hey.com/dhh/they-re-rebuilding-the-death-star-of-complexity-4fb5d08d",
-    "title": "They're rebuilding the Death Star of complexity",
-    "updatedAt": "2023-01-23T17:41:43Z"
   }
 ]

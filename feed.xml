@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2025-01-08T17:43:14Z</updated>
+<updated>2025-01-08T17:53:04Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Enumerability and ownership of properties - JavaScript | MDN</title>
+<link>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Enumerability_and_ownership_of_properties</link>
+<updated>2025-01-08T17:53:04Z</updated>
+<summary>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Enumerability_and_ownership_of_properties</summary>
+</entry>
 <entry>
 <title>for...of - JavaScript | MDN</title>
 <link>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of</link>
@@ -1495,11 +1501,5 @@
 <link>https://christianheilmann.com/2023/01/24/things-to-do-and-not-to-do-during-a-wave-of-tech-layoffs/</link>
 <updated>2023-01-24T14:27:14Z</updated>
 <summary>https://christianheilmann.com/2023/01/24/things-to-do-and-not-to-do-during-a-wave-of-tech-layoffs/</summary>
-</entry>
-<entry>
-<title>They're rebuilding the Death Star of complexity</title>
-<link>https://world.hey.com/dhh/they-re-rebuilding-the-death-star-of-complexity-4fb5d08d</link>
-<updated>2023-01-23T17:41:43Z</updated>
-<summary>https://world.hey.com/dhh/they-re-rebuilding-the-death-star-of-complexity-4fb5d08d</summary>
 </entry>
 </feed>
