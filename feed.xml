@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2025-01-08T17:53:04Z</updated>
+<updated>2025-01-08T18:46:32Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Reflective programming - Wikipedia</title>
+<link>https://en.wikipedia.org/wiki/Reflective_programming</link>
+<updated>2025-01-08T18:46:32Z</updated>
+<summary>https://en.wikipedia.org/wiki/Reflective_programming</summary>
+</entry>
 <entry>
 <title>Enumerability and ownership of properties - JavaScript | MDN</title>
 <link>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Enumerability_and_ownership_of_properties</link>
@@ -1495,11 +1501,5 @@
 <link>https://davi.sh/blog/2023/01/vscode-like-emacs/</link>
 <updated>2023-01-25T17:56:12Z</updated>
 <summary>https://davi.sh/blog/2023/01/vscode-like-emacs/</summary>
-</entry>
-<entry>
-<title>Things to do and not to do during a wave of tech layoffs | Christian Heilmann</title>
-<link>https://christianheilmann.com/2023/01/24/things-to-do-and-not-to-do-during-a-wave-of-tech-layoffs/</link>
-<updated>2023-01-24T14:27:14Z</updated>
-<summary>https://christianheilmann.com/2023/01/24/things-to-do-and-not-to-do-during-a-wave-of-tech-layoffs/</summary>
 </entry>
 </feed>
