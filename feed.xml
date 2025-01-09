@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2025-01-09T08:02:46Z</updated>
+<updated>2025-01-09T11:22:40Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Destructuring assignment - JavaScript | MDN</title>
+<link>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment</link>
+<updated>2025-01-09T11:22:40Z</updated>
+<summary>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment</summary>
+</entry>
 <entry>
 <title>Minimalistic Logging Facade | capire</title>
 <link>https://cap.cloud.sap/docs/node.js/cds-log</link>
@@ -1495,11 +1501,5 @@
 <link>https://serverlessland.com/event-driven-architecture/visuals/message-queue-vs-event-broker</link>
 <updated>2023-01-28T12:57:46Z</updated>
 <summary>https://serverlessland.com/event-driven-architecture/visuals/message-queue-vs-event-broker</summary>
-</entry>
-<entry>
-<title>Paper Sizes and Formats, the Difference Between A4 and Letter | Swift Publisher</title>
-<link>https://www.swiftpublisher.com/useful-articles/paper-sizes-and-formats-explained</link>
-<updated>2023-01-26T13:21:51Z</updated>
-<summary>https://www.swiftpublisher.com/useful-articles/paper-sizes-and-formats-explained</summary>
 </entry>
 </feed>
