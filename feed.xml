@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2025-01-08T18:46:32Z</updated>
+<updated>2025-01-09T08:02:46Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Minimalistic Logging Facade | capire</title>
+<link>https://cap.cloud.sap/docs/node.js/cds-log</link>
+<updated>2025-01-09T08:02:46Z</updated>
+<summary>https://cap.cloud.sap/docs/node.js/cds-log</summary>
+</entry>
 <entry>
 <title>Reflective programming - Wikipedia</title>
 <link>https://en.wikipedia.org/wiki/Reflective_programming</link>
@@ -1495,11 +1501,5 @@
 <link>https://www.swiftpublisher.com/useful-articles/paper-sizes-and-formats-explained</link>
 <updated>2023-01-26T13:21:51Z</updated>
 <summary>https://www.swiftpublisher.com/useful-articles/paper-sizes-and-formats-explained</summary>
-</entry>
-<entry>
-<title>Configuring VSCode as a Keyboard-Centric IDE | Davis Haupt</title>
-<link>https://davi.sh/blog/2023/01/vscode-like-emacs/</link>
-<updated>2023-01-25T17:56:12Z</updated>
-<summary>https://davi.sh/blog/2023/01/vscode-like-emacs/</summary>
 </entry>
 </feed>

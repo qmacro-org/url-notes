@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://cap.cloud.sap/docs/node.js/cds-log",
+    "title": "Minimalistic Logging Facade | capire",
+    "updatedAt": "2025-01-09T08:02:46Z"
+  },
+  {
     "body": "https://en.wikipedia.org/wiki/Reflective_programming",
     "title": "Reflective programming - Wikipedia",
     "updatedAt": "2025-01-08T18:46:32Z"
@@ -1243,10 +1248,5 @@
     "body": "https://www.swiftpublisher.com/useful-articles/paper-sizes-and-formats-explained",
     "title": "Paper Sizes and Formats, the Difference Between A4 and Letter | Swift Publisher",
     "updatedAt": "2023-01-26T13:21:51Z"
-  },
-  {
-    "body": "https://davi.sh/blog/2023/01/vscode-like-emacs/",
-    "title": "Configuring VSCode as a Keyboard-Centric IDE | Davis Haupt",
-    "updatedAt": "2023-01-25T17:56:12Z"
   }
 ]
