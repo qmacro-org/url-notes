@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2025-01-13T06:59:42Z</updated>
+<updated>2025-01-13T19:58:32Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Amid advice to cut back on alcohol, is one drink per day OK? : Shots - Health News : NPR</title>
+<link>https://www.npr.org/sections/shots-health-news/2025/01/13/nx-s1-5251649/cancer-alcohol-wine-beer-surgeon-general</link>
+<updated>2025-01-13T19:58:32Z</updated>
+<summary>https://www.npr.org/sections/shots-health-news/2025/01/13/nx-s1-5251649/cancer-alcohol-wine-beer-surgeon-general</summary>
+</entry>
 <entry>
 <title>Coding help on StackOverflow dives as AI assistants rise • DEVCLASS</title>
 <link>https://devclass.com/2025/01/08/coding-help-on-stackoverflow-dives-as-ai-assistants-rise/</link>
@@ -1495,11 +1501,5 @@
 <link>https://github.polettix.it/ETOOBUSY/2023/01/14/jq-cheats/</link>
 <updated>2023-01-30T07:24:20Z</updated>
 <summary>https://github.polettix.it/ETOOBUSY/2023/01/14/jq-cheats/</summary>
-</entry>
-<entry>
-<title>No, You Don’t Owe Your Employer Any Loyalty | by Rod T. Faulkner | Jan, 2023 | Medium</title>
-<link>https://rodfaulkner.medium.com/no-you-dont-owe-your-employer-any-loyalty-88d4c6553c3a</link>
-<updated>2023-01-29T16:05:15Z</updated>
-<summary>https://rodfaulkner.medium.com/no-you-dont-owe-your-employer-any-loyalty-88d4c6553c3a</summary>
 </entry>
 </feed>
