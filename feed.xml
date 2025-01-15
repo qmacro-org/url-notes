@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2025-01-13T19:58:32Z</updated>
+<updated>2025-01-15T06:11:13Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Cost Analysis: Kyma vs. Cloud Foundry -</title>
+<link>https://sap.stackenterprise.co/questions/66041</link>
+<updated>2025-01-15T06:11:13Z</updated>
+<summary>https://sap.stackenterprise.co/questions/66041</summary>
+</entry>
 <entry>
 <title>Amid advice to cut back on alcohol, is one drink per day OK? : Shots - Health News : NPR</title>
 <link>https://www.npr.org/sections/shots-health-news/2025/01/13/nx-s1-5251649/cancer-alcohol-wine-beer-surgeon-general</link>
@@ -1495,11 +1501,5 @@
 <link>https://www.salon.com/2018/02/17/i-am-a-master-chef-survivor/</link>
 <updated>2023-02-02T12:27:05Z</updated>
 <summary>https://www.salon.com/2018/02/17/i-am-a-master-chef-survivor/</summary>
-</entry>
-<entry>
-<title>jq cheats - ETOOBUSY</title>
-<link>https://github.polettix.it/ETOOBUSY/2023/01/14/jq-cheats/</link>
-<updated>2023-01-30T07:24:20Z</updated>
-<summary>https://github.polettix.it/ETOOBUSY/2023/01/14/jq-cheats/</summary>
 </entry>
 </feed>
