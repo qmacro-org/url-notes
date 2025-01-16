@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2025-01-15T14:58:56Z</updated>
+<updated>2025-01-16T07:51:53Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>SAP CAP Developer Dashboard — Second Phase Solutions</title>
+<link>https://secondphase.com.au/cap-developer-dashboard/</link>
+<updated>2025-01-16T07:51:53Z</updated>
+<summary>https://secondphase.com.au/cap-developer-dashboard/</summary>
+</entry>
 <entry>
 <title>Learn Pixelbook the hard way. A few days ago I finally took the… | by Rob Gibbon | Medium</title>
 <link>https://rob-gibbon.medium.com/learn-pixelbook-the-hard-way-19634229a1ed</link>
@@ -1495,11 +1501,5 @@
 <link>https://ilya-sher.org/2022/03/</link>
 <updated>2023-02-05T09:00:04Z</updated>
 <summary>https://ilya-sher.org/2022/03/</summary>
-</entry>
-<entry>
-<title>Surviving and Thriving with the SAP Cloud Application Programming Model: Local development hurdles | SAP Blogs</title>
-<link>https://blogs.sap.com/2023/02/02/surviving-and-thriving-with-the-sap-cloud-application-programming-model-local-development-hurdles/</link>
-<updated>2023-02-03T06:46:57Z</updated>
-<summary>https://blogs.sap.com/2023/02/02/surviving-and-thriving-with-the-sap-cloud-application-programming-model-local-development-hurdles/</summary>
 </entry>
 </feed>

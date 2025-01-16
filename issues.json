@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://secondphase.com.au/cap-developer-dashboard/",
+    "title": "SAP CAP Developer Dashboard — Second Phase Solutions",
+    "updatedAt": "2025-01-16T07:51:53Z"
+  },
+  {
     "body": "https://rob-gibbon.medium.com/learn-pixelbook-the-hard-way-19634229a1ed",
     "title": "Learn Pixelbook the hard way. A few days ago I finally took the… | by Rob Gibbon | Medium",
     "updatedAt": "2025-01-15T14:58:56Z"
@@ -1243,10 +1248,5 @@
     "body": "https://ilya-sher.org/2022/03/",
     "title": "March 2022 – Ilya's blog",
     "updatedAt": "2023-02-05T09:00:04Z"
-  },
-  {
-    "body": "https://blogs.sap.com/2023/02/02/surviving-and-thriving-with-the-sap-cloud-application-programming-model-local-development-hurdles/",
-    "title": "Surviving and Thriving with the SAP Cloud Application Programming Model: Local development hurdles | SAP Blogs",
-    "updatedAt": "2023-02-03T06:46:57Z"
   }
 ]
