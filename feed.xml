@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2025-01-17T15:07:02Z</updated>
+<updated>2025-01-17T16:21:04Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>I Ditched the Algorithm for RSS—and You Should Too - Joey's Hoard of Stuff</title>
+<link>https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/#step-1-filter-out-picture-posts</link>
+<updated>2025-01-17T16:21:04Z</updated>
+<summary>https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/#step-1-filter-out-picture-posts</summary>
+</entry>
 <entry>
 <title>Thoughts On A Month With Devin – Answer.AI</title>
 <link>https://www.answer.ai/posts/2025-01-08-devin.html</link>
@@ -1495,11 +1501,5 @@
 <link>https://roobert.github.io/2022/12/03/Extending-Neovim/</link>
 <updated>2023-02-08T08:13:10Z</updated>
 <summary>https://roobert.github.io/2022/12/03/Extending-Neovim/</summary>
-</entry>
-<entry>
-<title>Everything you need to know to configure neovim using lua | Devlog</title>
-<link>https://vonheikemen.github.io/devlog/tools/configuring-neovim-using-lua/</link>
-<updated>2023-02-08T07:43:01Z</updated>
-<summary>https://vonheikemen.github.io/devlog/tools/configuring-neovim-using-lua/</summary>
 </entry>
 </feed>

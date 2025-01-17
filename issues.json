@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/#step-1-filter-out-picture-posts",
+    "title": "I Ditched the Algorithm for RSS—and You Should Too - Joey's Hoard of Stuff",
+    "updatedAt": "2025-01-17T16:21:04Z"
+  },
+  {
     "body": "https://www.answer.ai/posts/2025-01-08-devin.html",
     "title": "Thoughts On A Month With Devin – Answer.AI",
     "updatedAt": "2025-01-17T15:07:02Z"
@@ -1243,10 +1248,5 @@
     "body": "https://roobert.github.io/2022/12/03/Extending-Neovim/",
     "title": "Neovim Spaghetti - LSP Servers, Linters, Formatters, and Treesitter – roobert",
     "updatedAt": "2023-02-08T08:13:10Z"
-  },
-  {
-    "body": "https://vonheikemen.github.io/devlog/tools/configuring-neovim-using-lua/",
-    "title": "Everything you need to know to configure neovim using lua | Devlog",
-    "updatedAt": "2023-02-08T07:43:01Z"
   }
 ]
