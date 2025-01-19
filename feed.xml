@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2025-01-17T17:11:43Z</updated>
+<updated>2025-01-19T21:01:29Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Escape the walled garden and algorithm black boxes with RSS feeds</title>
+<link>https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss</link>
+<updated>2025-01-19T21:01:29Z</updated>
+<summary>https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss</summary>
+</entry>
 <entry>
 <title>Enabling HTTPS · Tailscale Docs</title>
 <link>https://tailscale.com/kb/1153/enabling-https</link>
@@ -13,12 +19,6 @@
 <link>https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/#step-1-filter-out-picture-posts</link>
 <updated>2025-01-17T16:21:04Z</updated>
 <summary>https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/#step-1-filter-out-picture-posts</summary>
-</entry>
-<entry>
-<title>Thoughts On A Month With Devin – Answer.AI</title>
-<link>https://www.answer.ai/posts/2025-01-08-devin.html</link>
-<updated>2025-01-17T15:07:02Z</updated>
-<summary>https://www.answer.ai/posts/2025-01-08-devin.html</summary>
 </entry>
 <entry>
 <title>SAP CAP Developer Dashboard — Second Phase Solutions</title>
