@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://www.heise.de/en/background/Free-flow-of-information-Open-source-in-the-company-with-InnerSource-10249498.html?seite=all",
+    "title": "Free flow of information: Open source in the company with InnerSource | heise online",
+    "updatedAt": "2025-01-21T14:06:03Z"
+  },
+  {
     "body": "https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss",
     "title": "Escape the walled garden and algorithm black boxes with RSS feeds",
     "updatedAt": "2025-01-19T21:01:29Z"
@@ -1243,10 +1248,5 @@
     "body": "https://borretti.me/article/shells-are-two-things",
     "title": "Shells are Two Things",
     "updatedAt": "2023-02-08T14:56:44Z"
-  },
-  {
-    "body": "https://alpha2phi.medium.com/neovim-for-beginners-common-language-servers-da28e4410294",
-    "title": "Neovim for Beginners —Common Language Servers | by alpha2phi | Medium",
-    "updatedAt": "2023-02-08T08:14:24Z"
   }
 ]
