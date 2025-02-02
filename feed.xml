@@ -1,18 +1,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2025-01-21T14:06:03Z</updated>
+<updated>2025-02-02T16:03:13Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>A brief and incomplete history of modal text editors</title>
+<link>https://carlosbecker.com/posts/ed/</link>
+<updated>2025-02-02T16:03:13Z</updated>
+<summary>https://carlosbecker.com/posts/ed/</summary>
+</entry>
 <entry>
 <title>Free flow of information: Open source in the company with InnerSource | heise online</title>
 <link>https://www.heise.de/en/background/Free-flow-of-information-Open-source-in-the-company-with-InnerSource-10249498.html?seite=all</link>
 <updated>2025-01-21T14:06:03Z</updated>
 <summary>https://www.heise.de/en/background/Free-flow-of-information-Open-source-in-the-company-with-InnerSource-10249498.html?seite=all</summary>
-</entry>
-<entry>
-<title>Escape the walled garden and algorithm black boxes with RSS feeds</title>
-<link>https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss</link>
-<updated>2025-01-19T21:01:29Z</updated>
-<summary>https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss</summary>
 </entry>
 <entry>
 <title>Enabling HTTPS · Tailscale Docs</title>
@@ -33,22 +33,10 @@
 <summary>https://secondphase.com.au/cap-developer-dashboard/</summary>
 </entry>
 <entry>
-<title>Learn Pixelbook the hard way. A few days ago I finally took the… | by Rob Gibbon | Medium</title>
-<link>https://rob-gibbon.medium.com/learn-pixelbook-the-hard-way-19634229a1ed</link>
-<updated>2025-01-15T14:58:56Z</updated>
-<summary>https://rob-gibbon.medium.com/learn-pixelbook-the-hard-way-19634229a1ed</summary>
-</entry>
-<entry>
 <title>Cost Analysis: Kyma vs. Cloud Foundry -</title>
 <link>https://sap.stackenterprise.co/questions/66041</link>
 <updated>2025-01-15T06:11:13Z</updated>
 <summary>https://sap.stackenterprise.co/questions/66041</summary>
-</entry>
-<entry>
-<title>Amid advice to cut back on alcohol, is one drink per day OK? : Shots - Health News : NPR</title>
-<link>https://www.npr.org/sections/shots-health-news/2025/01/13/nx-s1-5251649/cancer-alcohol-wine-beer-surgeon-general</link>
-<updated>2025-01-13T19:58:32Z</updated>
-<summary>https://www.npr.org/sections/shots-health-news/2025/01/13/nx-s1-5251649/cancer-alcohol-wine-beer-surgeon-general</summary>
 </entry>
 <entry>
 <title>Coding help on StackOverflow dives as AI assistants rise • DEVCLASS</title>
@@ -1501,5 +1489,17 @@
 <link>https://borretti.me/article/shells-are-two-things</link>
 <updated>2023-02-08T14:56:44Z</updated>
 <summary>https://borretti.me/article/shells-are-two-things</summary>
+</entry>
+<entry>
+<title>Neovim for Beginners —Common Language Servers | by alpha2phi | Medium</title>
+<link>https://alpha2phi.medium.com/neovim-for-beginners-common-language-servers-da28e4410294</link>
+<updated>2023-02-08T08:14:24Z</updated>
+<summary>https://alpha2phi.medium.com/neovim-for-beginners-common-language-servers-da28e4410294</summary>
+</entry>
+<entry>
+<title>Neovim Spaghetti - LSP Servers, Linters, Formatters, and Treesitter – roobert</title>
+<link>https://roobert.github.io/2022/12/03/Extending-Neovim/</link>
+<updated>2023-02-08T08:13:10Z</updated>
+<summary>https://roobert.github.io/2022/12/03/Extending-Neovim/</summary>
 </entry>
 </feed>
