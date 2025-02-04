@@ -1,12 +1,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2025-02-02T16:03:13Z</updated>
+<updated>2025-02-04T19:34:02Z</updated>
 <author><name>DJ Adams</name></author>
 <entry>
-<title>A brief and incomplete history of modal text editors</title>
-<link>https://carlosbecker.com/posts/ed/</link>
-<updated>2025-02-02T16:03:13Z</updated>
-<summary>https://carlosbecker.com/posts/ed/</summary>
+<title>Writing like a pro with vale &amp; neovim</title>
+<link>https://bhupesh.me/writing-like-a-pro-with-vale-and-neovim/</link>
+<updated>2025-02-04T19:34:02Z</updated>
+<summary>https://bhupesh.me/writing-like-a-pro-with-vale-and-neovim/</summary>
 </entry>
 <entry>
 <title>Free flow of information: Open source in the company with InnerSource | heise online</title>
