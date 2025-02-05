@@ -1,5 +1,10 @@
 [
   {
+    "body": "http://www.mikerubel.org/computers/rsync_snapshots/",
+    "title": "Easy Automated Snapshot-Style Backups with Rsync",
+    "updatedAt": "2025-02-05T16:52:16Z"
+  },
+  {
     "body": "https://www.simonstapleton.com/why-are-cookies-called-cookies-the-history-and-inventor-behind-the-name/",
     "title": "Why Are Cookies Called Cookies? The History and Inventor Behind the Name",
     "updatedAt": "2025-02-05T11:10:07Z"
@@ -1243,10 +1248,5 @@
     "body": "https://borretti.me/article/shells-are-two-things",
     "title": "Shells are Two Things",
     "updatedAt": "2023-02-08T14:56:44Z"
-  },
-  {
-    "body": "https://alpha2phi.medium.com/neovim-for-beginners-common-language-servers-da28e4410294",
-    "title": "Neovim for Beginners —Common Language Servers | by alpha2phi | Medium",
-    "updatedAt": "2023-02-08T08:14:24Z"
   }
 ]

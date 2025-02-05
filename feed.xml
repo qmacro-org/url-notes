@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2025-02-05T11:10:07Z</updated>
+<updated>2025-02-05T16:52:16Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Easy Automated Snapshot-Style Backups with Rsync</title>
+<link>http://www.mikerubel.org/computers/rsync_snapshots/</link>
+<updated>2025-02-05T16:52:16Z</updated>
+<summary>http://www.mikerubel.org/computers/rsync_snapshots/</summary>
+</entry>
 <entry>
 <title>Why Are Cookies Called Cookies? The History and Inventor Behind the Name</title>
 <link>https://www.simonstapleton.com/why-are-cookies-called-cookies-the-history-and-inventor-behind-the-name/</link>
@@ -1495,11 +1501,5 @@
 <link>https://borretti.me/article/shells-are-two-things</link>
 <updated>2023-02-08T14:56:44Z</updated>
 <summary>https://borretti.me/article/shells-are-two-things</summary>
-</entry>
-<entry>
-<title>Neovim for Beginners —Common Language Servers | by alpha2phi | Medium</title>
-<link>https://alpha2phi.medium.com/neovim-for-beginners-common-language-servers-da28e4410294</link>
-<updated>2023-02-08T08:14:24Z</updated>
-<summary>https://alpha2phi.medium.com/neovim-for-beginners-common-language-servers-da28e4410294</summary>
 </entry>
 </feed>
