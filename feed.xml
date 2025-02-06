@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2025-02-05T16:52:16Z</updated>
+<updated>2025-02-06T11:01:39Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Generating a new SSH key and adding it to the ssh-agent - GitHub Docs</title>
+<link>https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent</link>
+<updated>2025-02-06T11:01:39Z</updated>
+<summary>https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent</summary>
+</entry>
 <entry>
 <title>Easy Automated Snapshot-Style Backups with Rsync</title>
 <link>http://www.mikerubel.org/computers/rsync_snapshots/</link>
@@ -1495,11 +1501,5 @@
 <link>https://andydenwood.com/the-language-of-narrow-boats/</link>
 <updated>2023-02-13T20:31:13Z</updated>
 <summary>https://andydenwood.com/the-language-of-narrow-boats/</summary>
-</entry>
-<entry>
-<title>Shells are Two Things</title>
-<link>https://borretti.me/article/shells-are-two-things</link>
-<updated>2023-02-08T14:56:44Z</updated>
-<summary>https://borretti.me/article/shells-are-two-things</summary>
 </entry>
 </feed>
