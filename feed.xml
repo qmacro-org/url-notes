@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2025-02-06T11:01:39Z</updated>
+<updated>2025-02-07T14:20:46Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Example of vim's ex-mode magic that can make you literally 10 to 1000x more productive on repetitive complex edits : r/vim</title>
+<link>https://www.reddit.com/r/vim/comments/6z9i5j/example_of_vims_exmode_magic_that_can_make_you/</link>
+<updated>2025-02-07T14:20:46Z</updated>
+<summary>https://www.reddit.com/r/vim/comments/6z9i5j/example_of_vims_exmode_magic_that_can_make_you/</summary>
+</entry>
 <entry>
 <title>Generating a new SSH key and adding it to the ssh-agent - GitHub Docs</title>
 <link>https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent</link>
@@ -1495,11 +1501,5 @@
 <link>https://www.towpathtalk.co.uk/winter-stoppages-how-theyre-planned/</link>
 <updated>2023-02-14T05:04:44Z</updated>
 <summary>https://www.towpathtalk.co.uk/winter-stoppages-how-theyre-planned/</summary>
-</entry>
-<entry>
-<title>The Language of Narrow Boats</title>
-<link>https://andydenwood.com/the-language-of-narrow-boats/</link>
-<updated>2023-02-13T20:31:13Z</updated>
-<summary>https://andydenwood.com/the-language-of-narrow-boats/</summary>
 </entry>
 </feed>
