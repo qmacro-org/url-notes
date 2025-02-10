@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2025-02-07T14:20:46Z</updated>
+<updated>2025-02-10T19:12:23Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Some terminal frustrations</title>
+<link>https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/</link>
+<updated>2025-02-10T19:12:23Z</updated>
+<summary>https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/</summary>
+</entry>
 <entry>
 <title>Example of vim's ex-mode magic that can make you literally 10 to 1000x more productive on repetitive complex edits : r/vim</title>
 <link>https://www.reddit.com/r/vim/comments/6z9i5j/example_of_vims_exmode_magic_that_can_make_you/</link>
@@ -1495,11 +1501,5 @@
 <link>https://paweldu.dev/posts/fzf-live-repl/</link>
 <updated>2023-02-14T16:08:20Z</updated>
 <summary>https://paweldu.dev/posts/fzf-live-repl/</summary>
-</entry>
-<entry>
-<title>Winter stoppages: How they're planned - Towpath Talk</title>
-<link>https://www.towpathtalk.co.uk/winter-stoppages-how-theyre-planned/</link>
-<updated>2023-02-14T05:04:44Z</updated>
-<summary>https://www.towpathtalk.co.uk/winter-stoppages-how-theyre-planned/</summary>
 </entry>
 </feed>
