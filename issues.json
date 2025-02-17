@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://piannaf.com/blog/self-hosted-twitter-archive-with-github-pages-subdomain/",
+    "title": "Self Hosting Twitter Archive on Github Pages | Justin Mancinelli",
+    "updatedAt": "2025-02-17T20:40:35Z"
+  },
+  {
     "body": "https://kb.synology.com/en-uk/DSM/tutorial/How_to_back_up_your_data_to_cloud_services_with_Hyper_Backup",
     "title": "How do I back up my data to cloud services using Hyper Backup? - Synology Knowledge Center",
     "updatedAt": "2025-02-17T10:48:23Z"
@@ -1243,10 +1248,5 @@
     "body": "https://dev.to/andypiper/thoughts-on-dev-rel-in-the-post-twitter-era-2k8a",
     "title": "Thoughts on Dev Rel in the post-Twitter era - DEV Community",
     "updatedAt": "2023-02-28T17:37:09Z"
-  },
-  {
-    "body": "https://www.swyx.io/the-end-of-localhost",
-    "title": "The End of Localhost",
-    "updatedAt": "2023-02-24T18:58:25Z"
   }
 ]

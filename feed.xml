@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2025-02-17T10:48:23Z</updated>
+<updated>2025-02-17T20:40:35Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Self Hosting Twitter Archive on Github Pages | Justin Mancinelli</title>
+<link>https://piannaf.com/blog/self-hosted-twitter-archive-with-github-pages-subdomain/</link>
+<updated>2025-02-17T20:40:35Z</updated>
+<summary>https://piannaf.com/blog/self-hosted-twitter-archive-with-github-pages-subdomain/</summary>
+</entry>
 <entry>
 <title>How do I back up my data to cloud services using Hyper Backup? - Synology Knowledge Center</title>
 <link>https://kb.synology.com/en-uk/DSM/tutorial/How_to_back_up_your_data_to_cloud_services_with_Hyper_Backup</link>
@@ -1495,11 +1501,5 @@
 <link>https://dev.to/andypiper/thoughts-on-dev-rel-in-the-post-twitter-era-2k8a</link>
 <updated>2023-02-28T17:37:09Z</updated>
 <summary>https://dev.to/andypiper/thoughts-on-dev-rel-in-the-post-twitter-era-2k8a</summary>
-</entry>
-<entry>
-<title>The End of Localhost</title>
-<link>https://www.swyx.io/the-end-of-localhost</link>
-<updated>2023-02-24T18:58:25Z</updated>
-<summary>https://www.swyx.io/the-end-of-localhost</summary>
 </entry>
 </feed>
