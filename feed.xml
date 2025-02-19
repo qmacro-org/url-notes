@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2025-02-17T20:40:35Z</updated>
+<updated>2025-02-19T11:13:17Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Working with submodules - The GitHub Blog</title>
+<link>https://github.blog/open-source/git/working-with-submodules/</link>
+<updated>2025-02-19T11:13:17Z</updated>
+<summary>https://github.blog/open-source/git/working-with-submodules/</summary>
+</entry>
 <entry>
 <title>Self Hosting Twitter Archive on Github Pages | Justin Mancinelli</title>
 <link>https://piannaf.com/blog/self-hosted-twitter-archive-with-github-pages-subdomain/</link>
@@ -1495,11 +1501,5 @@
 <link>https://hackerstations.com/setups/daniel_stenberg/</link>
 <updated>2023-03-01T13:29:23Z</updated>
 <summary>https://hackerstations.com/setups/daniel_stenberg/</summary>
-</entry>
-<entry>
-<title>Thoughts on Dev Rel in the post-Twitter era - DEV Community</title>
-<link>https://dev.to/andypiper/thoughts-on-dev-rel-in-the-post-twitter-era-2k8a</link>
-<updated>2023-02-28T17:37:09Z</updated>
-<summary>https://dev.to/andypiper/thoughts-on-dev-rel-in-the-post-twitter-era-2k8a</summary>
 </entry>
 </feed>

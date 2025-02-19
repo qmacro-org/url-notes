@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://github.blog/open-source/git/working-with-submodules/",
+    "title": "Working with submodules - The GitHub Blog",
+    "updatedAt": "2025-02-19T11:13:17Z"
+  },
+  {
     "body": "https://piannaf.com/blog/self-hosted-twitter-archive-with-github-pages-subdomain/",
     "title": "Self Hosting Twitter Archive on Github Pages | Justin Mancinelli",
     "updatedAt": "2025-02-17T20:40:35Z"
@@ -1243,10 +1248,5 @@
     "body": "https://hackerstations.com/setups/daniel_stenberg/",
     "title": "Daniel Stenberg and the home of curl in Stockholm, Sweden | Hacker Stations",
     "updatedAt": "2023-03-01T13:29:23Z"
-  },
-  {
-    "body": "https://dev.to/andypiper/thoughts-on-dev-rel-in-the-post-twitter-era-2k8a",
-    "title": "Thoughts on Dev Rel in the post-Twitter era - DEV Community",
-    "updatedAt": "2023-02-28T17:37:09Z"
   }
 ]
