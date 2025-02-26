@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2025-02-19T11:13:17Z</updated>
+<updated>2025-02-26T15:09:08Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>The Seven Reasons Your SAP Tech Initiatives Are Failing — Second Phase Solutions</title>
+<link>https://secondphase.com.au/seven-reasons-sap-tech-failing/</link>
+<updated>2025-02-26T15:09:08Z</updated>
+<summary>https://secondphase.com.au/seven-reasons-sap-tech-failing/</summary>
+</entry>
 <entry>
 <title>Working with submodules - The GitHub Blog</title>
 <link>https://github.blog/open-source/git/working-with-submodules/</link>
@@ -1495,11 +1501,5 @@
 <link>https://aj.codes/posts/be-careful-using-tmux-and-environment-variables/</link>
 <updated>2023-03-05T20:56:47Z</updated>
 <summary>https://aj.codes/posts/be-careful-using-tmux-and-environment-variables/</summary>
-</entry>
-<entry>
-<title>Daniel Stenberg and the home of curl in Stockholm, Sweden | Hacker Stations</title>
-<link>https://hackerstations.com/setups/daniel_stenberg/</link>
-<updated>2023-03-01T13:29:23Z</updated>
-<summary>https://hackerstations.com/setups/daniel_stenberg/</summary>
 </entry>
 </feed>

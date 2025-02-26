@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://secondphase.com.au/seven-reasons-sap-tech-failing/",
+    "title": "The Seven Reasons Your SAP Tech Initiatives Are Failing — Second Phase Solutions",
+    "updatedAt": "2025-02-26T15:09:08Z"
+  },
+  {
     "body": "https://github.blog/open-source/git/working-with-submodules/",
     "title": "Working with submodules - The GitHub Blog",
     "updatedAt": "2025-02-19T11:13:17Z"
@@ -1243,10 +1248,5 @@
     "body": "https://aj.codes/posts/be-careful-using-tmux-and-environment-variables/",
     "title": "Be Careful Using tmux and Environment Variables - Andrew Jorgensen",
     "updatedAt": "2023-03-05T20:56:47Z"
-  },
-  {
-    "body": "https://hackerstations.com/setups/daniel_stenberg/",
-    "title": "Daniel Stenberg and the home of curl in Stockholm, Sweden | Hacker Stations",
-    "updatedAt": "2023-03-01T13:29:23Z"
   }
 ]
