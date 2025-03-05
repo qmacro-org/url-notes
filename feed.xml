@@ -1,7 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>URL Notes</title>
-<updated>2025-03-05T08:54:45Z</updated>
+<updated>2025-03-05T16:08:18Z</updated>
 <author><name>DJ Adams</name></author>
+<entry>
+<title>Create a Dev Container</title>
+<link>https://code.visualstudio.com/docs/devcontainers/create-dev-container#_automate-dev-container-creatio</link>
+<updated>2025-03-05T16:08:18Z</updated>
+<summary>https://code.visualstudio.com/docs/devcontainers/create-dev-container#_automate-dev-container-creatio</summary>
+</entry>
 <entry>
 <title>About sessions and windows and workflows · joshmedeski/sesh · Discussion #67</title>
 <link>https://github.com/joshmedeski/sesh/discussions/67</link>
@@ -1495,11 +1501,5 @@
 <link>https://www.ietf.org/archive/id/draft-ietf-oauth-security-topics-22.html</link>
 <updated>2023-03-13T15:22:30Z</updated>
 <summary>https://www.ietf.org/archive/id/draft-ietf-oauth-security-topics-22.html</summary>
-</entry>
-<entry>
-<title>[Part – 1] Enrich CAP based Services with Behaviors using Annotations | SAP Blogs</title>
-<link>https://blogs.sap.com/2023/01/28/part-1-enrich-cap-based-services-with-behaviors-using-annotations/</link>
-<updated>2023-03-11T16:13:41Z</updated>
-<summary>https://blogs.sap.com/2023/01/28/part-1-enrich-cap-based-services-with-behaviors-using-annotations/</summary>
 </entry>
 </feed>

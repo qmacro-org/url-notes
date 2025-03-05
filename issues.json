@@ -1,5 +1,10 @@
 [
   {
+    "body": "https://code.visualstudio.com/docs/devcontainers/create-dev-container#_automate-dev-container-creatio",
+    "title": "Create a Dev Container",
+    "updatedAt": "2025-03-05T16:08:18Z"
+  },
+  {
     "body": "https://github.com/joshmedeski/sesh/discussions/67",
     "title": "About sessions and windows and workflows · joshmedeski/sesh · Discussion #67",
     "updatedAt": "2025-03-05T08:54:45Z"
@@ -1243,10 +1248,5 @@
     "body": "https://www.ietf.org/archive/id/draft-ietf-oauth-security-topics-22.html",
     "title": "OAuth 2.0 Security Best Current Practice",
     "updatedAt": "2023-03-13T15:22:30Z"
-  },
-  {
-    "body": "https://blogs.sap.com/2023/01/28/part-1-enrich-cap-based-services-with-behaviors-using-annotations/",
-    "title": "[Part – 1] Enrich CAP based Services with Behaviors using Annotations | SAP Blogs",
-    "updatedAt": "2023-03-11T16:13:41Z"
   }
 ]
